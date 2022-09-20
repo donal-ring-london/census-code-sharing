@@ -1,0 +1,1684 @@
+date,geography,geography_code,Rural_Urban,total_pop,value,passports_region,passports,percs
+2011,Camden,E09000007,Total,220338,157,Africa,Ghana,0.07
+2011,City of London,E09000001,Total,7375,7,Africa,Ghana,0.09
+2011,Hackney,E09000012,Total,246270,1651,Africa,Ghana,0.67
+2011,Hammersmith and Fulham,E09000013,Total,182493,222,Africa,Ghana,0.12
+2011,Haringey,E09000014,Total,254926,1606,Africa,Ghana,0.63
+2011,Islington,E09000019,Total,206125,270,Africa,Ghana,0.13
+2011,Kensington and Chelsea,E09000020,Total,158649,72,Africa,Ghana,0.05
+2011,Lambeth,E09000022,Total,303086,1882,Africa,Ghana,0.62
+2011,Lewisham,E09000023,Total,275885,1396,Africa,Ghana,0.51
+2011,Newham,E09000025,Total,307984,2490,Africa,Ghana,0.81
+2011,Southwark,E09000028,Total,288283,2171,Africa,Ghana,0.75
+2011,Tower Hamlets,E09000030,Total,254096,320,Africa,Ghana,0.13
+2011,Wandsworth,E09000032,Total,306995,666,Africa,Ghana,0.22
+2011,Westminster,E09000033,Total,219396,140,Africa,Ghana,0.06
+2011,Barking and Dagenham,E09000002,Total,185911,1545,Africa,Ghana,0.83
+2011,Barnet,E09000003,Total,356386,837,Africa,Ghana,0.23
+2011,Bexley,E09000004,Total,231997,501,Africa,Ghana,0.22
+2011,Brent,E09000005,Total,311215,1195,Africa,Ghana,0.38
+2011,Bromley,E09000006,Total,309392,365,Africa,Ghana,0.12
+2011,Croydon,E09000008,Total,363378,2605,Africa,Ghana,0.72
+2011,Ealing,E09000009,Total,338449,513,Africa,Ghana,0.15
+2011,Enfield,E09000010,Total,312466,2257,Africa,Ghana,0.72
+2011,Greenwich,E09000011,Total,254557,1245,Africa,Ghana,0.49
+2011,Harrow,E09000015,Total,239056,401,Africa,Ghana,0.17
+2011,Havering,E09000016,Total,237232,317,Africa,Ghana,0.13
+2011,Hillingdon,E09000017,Total,273936,262,Africa,Ghana,0.1
+2011,Hounslow,E09000018,Total,253957,521,Africa,Ghana,0.21
+2011,Kingston upon Thames,E09000021,Total,160060,95,Africa,Ghana,0.06
+2011,Merton,E09000024,Total,199693,1166,Africa,Ghana,0.58
+2011,Redbridge,E09000026,Total,278970,471,Africa,Ghana,0.17
+2011,Richmond upon Thames,E09000027,Total,186990,66,Africa,Ghana,0.04
+2011,Sutton,E09000029,Total,190146,323,Africa,Ghana,0.17
+2011,Waltham Forest,E09000031,Total,258249,1498,Africa,Ghana,0.58
+2011,Camden,E09000007,Total,220338,421,Africa,Nigeria,0.19
+2011,City of London,E09000001,Total,7375,7,Africa,Nigeria,0.09
+2011,Hackney,E09000012,Total,246270,3079,Africa,Nigeria,1.25
+2011,Hammersmith and Fulham,E09000013,Total,182493,370,Africa,Nigeria,0.2
+2011,Haringey,E09000014,Total,254926,1330,Africa,Nigeria,0.52
+2011,Islington,E09000019,Total,206125,561,Africa,Nigeria,0.27
+2011,Kensington and Chelsea,E09000020,Total,158649,200,Africa,Nigeria,0.13
+2011,Lambeth,E09000022,Total,303086,2892,Africa,Nigeria,0.95
+2011,Lewisham,E09000023,Total,275885,5428,Africa,Nigeria,1.97
+2011,Newham,E09000025,Total,307984,4569,Africa,Nigeria,1.48
+2011,Southwark,E09000028,Total,288283,7223,Africa,Nigeria,2.51
+2011,Tower Hamlets,E09000030,Total,254096,654,Africa,Nigeria,0.26
+2011,Wandsworth,E09000032,Total,306995,621,Africa,Nigeria,0.2
+2011,Westminster,E09000033,Total,219396,536,Africa,Nigeria,0.24
+2011,Barking and Dagenham,E09000002,Total,185911,5454,Africa,Nigeria,2.93
+2011,Barnet,E09000003,Total,356386,2112,Africa,Nigeria,0.59
+2011,Bexley,E09000004,Total,231997,3524,Africa,Nigeria,1.52
+2011,Brent,E09000005,Total,311215,1202,Africa,Nigeria,0.39
+2011,Bromley,E09000006,Total,309392,1135,Africa,Nigeria,0.37
+2011,Croydon,E09000008,Total,363378,2388,Africa,Nigeria,0.66
+2011,Ealing,E09000009,Total,338449,705,Africa,Nigeria,0.21
+2011,Enfield,E09000010,Total,312466,2059,Africa,Nigeria,0.66
+2011,Greenwich,E09000011,Total,254557,8622,Africa,Nigeria,3.39
+2011,Harrow,E09000015,Total,239056,555,Africa,Nigeria,0.23
+2011,Havering,E09000016,Total,237232,1070,Africa,Nigeria,0.45
+2011,Hillingdon,E09000017,Total,273936,809,Africa,Nigeria,0.3
+2011,Hounslow,E09000018,Total,253957,564,Africa,Nigeria,0.22
+2011,Kingston upon Thames,E09000021,Total,160060,195,Africa,Nigeria,0.12
+2011,Merton,E09000024,Total,199693,571,Africa,Nigeria,0.29
+2011,Redbridge,E09000026,Total,278970,1102,Africa,Nigeria,0.4
+2011,Richmond upon Thames,E09000027,Total,186990,80,Africa,Nigeria,0.04
+2011,Sutton,E09000029,Total,190146,380,Africa,Nigeria,0.2
+2011,Waltham Forest,E09000031,Total,258249,1475,Africa,Nigeria,0.57
+2011,Camden,E09000007,Total,220338,216,Africa,Other Central and Western Africa,0.1
+2011,City of London,E09000001,Total,7375,8,Africa,Other Central and Western Africa,0.11
+2011,Hackney,E09000012,Total,246270,1065,Africa,Other Central and Western Africa,0.43
+2011,Hammersmith and Fulham,E09000013,Total,182493,172,Africa,Other Central and Western Africa,0.09
+2011,Haringey,E09000014,Total,254926,611,Africa,Other Central and Western Africa,0.24
+2011,Islington,E09000019,Total,206125,248,Africa,Other Central and Western Africa,0.12
+2011,Kensington and Chelsea,E09000020,Total,158649,126,Africa,Other Central and Western Africa,0.08
+2011,Lambeth,E09000022,Total,303086,1368,Africa,Other Central and Western Africa,0.45
+2011,Lewisham,E09000023,Total,275885,1463,Africa,Other Central and Western Africa,0.53
+2011,Newham,E09000025,Total,307984,1428,Africa,Other Central and Western Africa,0.46
+2011,Southwark,E09000028,Total,288283,2825,Africa,Other Central and Western Africa,0.98
+2011,Tower Hamlets,E09000030,Total,254096,306,Africa,Other Central and Western Africa,0.12
+2011,Wandsworth,E09000032,Total,306995,243,Africa,Other Central and Western Africa,0.08
+2011,Westminster,E09000033,Total,219396,252,Africa,Other Central and Western Africa,0.11
+2011,Barking and Dagenham,E09000002,Total,185911,662,Africa,Other Central and Western Africa,0.36
+2011,Barnet,E09000003,Total,356386,537,Africa,Other Central and Western Africa,0.15
+2011,Bexley,E09000004,Total,231997,284,Africa,Other Central and Western Africa,0.12
+2011,Brent,E09000005,Total,311215,496,Africa,Other Central and Western Africa,0.16
+2011,Bromley,E09000006,Total,309392,250,Africa,Other Central and Western Africa,0.08
+2011,Croydon,E09000008,Total,363378,872,Africa,Other Central and Western Africa,0.24
+2011,Ealing,E09000009,Total,338449,253,Africa,Other Central and Western Africa,0.07
+2011,Enfield,E09000010,Total,312466,696,Africa,Other Central and Western Africa,0.22
+2011,Greenwich,E09000011,Total,254557,1053,Africa,Other Central and Western Africa,0.41
+2011,Harrow,E09000015,Total,239056,150,Africa,Other Central and Western Africa,0.06
+2011,Havering,E09000016,Total,237232,114,Africa,Other Central and Western Africa,0.05
+2011,Hillingdon,E09000017,Total,273936,190,Africa,Other Central and Western Africa,0.07
+2011,Hounslow,E09000018,Total,253957,229,Africa,Other Central and Western Africa,0.09
+2011,Kingston upon Thames,E09000021,Total,160060,75,Africa,Other Central and Western Africa,0.05
+2011,Merton,E09000024,Total,199693,225,Africa,Other Central and Western Africa,0.11
+2011,Redbridge,E09000026,Total,278970,288,Africa,Other Central and Western Africa,0.1
+2011,Richmond upon Thames,E09000027,Total,186990,62,Africa,Other Central and Western Africa,0.03
+2011,Sutton,E09000029,Total,190146,93,Africa,Other Central and Western Africa,0.05
+2011,Waltham Forest,E09000031,Total,258249,480,Africa,Other Central and Western Africa,0.19
+2011,Camden,E09000007,Total,220338,513,Africa,North Africa,0.23
+2011,City of London,E09000001,Total,7375,14,Africa,North Africa,0.19
+2011,Hackney,E09000012,Total,246270,379,Africa,North Africa,0.15
+2011,Hammersmith and Fulham,E09000013,Total,182493,649,Africa,North Africa,0.36
+2011,Haringey,E09000014,Total,254926,462,Africa,North Africa,0.18
+2011,Islington,E09000019,Total,206125,364,Africa,North Africa,0.18
+2011,Kensington and Chelsea,E09000020,Total,158649,688,Africa,North Africa,0.43
+2011,Lambeth,E09000022,Total,303086,434,Africa,North Africa,0.14
+2011,Lewisham,E09000023,Total,275885,412,Africa,North Africa,0.15
+2011,Newham,E09000025,Total,307984,511,Africa,North Africa,0.17
+2011,Southwark,E09000028,Total,288283,548,Africa,North Africa,0.19
+2011,Tower Hamlets,E09000030,Total,254096,529,Africa,North Africa,0.21
+2011,Wandsworth,E09000032,Total,306995,404,Africa,North Africa,0.13
+2011,Westminster,E09000033,Total,219396,1466,Africa,North Africa,0.67
+2011,Barking and Dagenham,E09000002,Total,185911,151,Africa,North Africa,0.08
+2011,Barnet,E09000003,Total,356386,557,Africa,North Africa,0.16
+2011,Bexley,E09000004,Total,231997,79,Africa,North Africa,0.03
+2011,Brent,E09000005,Total,311215,754,Africa,North Africa,0.24
+2011,Bromley,E09000006,Total,309392,225,Africa,North Africa,0.07
+2011,Croydon,E09000008,Total,363378,290,Africa,North Africa,0.08
+2011,Ealing,E09000009,Total,338449,701,Africa,North Africa,0.21
+2011,Enfield,E09000010,Total,312466,302,Africa,North Africa,0.1
+2011,Greenwich,E09000011,Total,254557,228,Africa,North Africa,0.09
+2011,Harrow,E09000015,Total,239056,205,Africa,North Africa,0.09
+2011,Havering,E09000016,Total,237232,80,Africa,North Africa,0.03
+2011,Hillingdon,E09000017,Total,273936,307,Africa,North Africa,0.11
+2011,Hounslow,E09000018,Total,253957,498,Africa,North Africa,0.2
+2011,Kingston upon Thames,E09000021,Total,160060,192,Africa,North Africa,0.12
+2011,Merton,E09000024,Total,199693,217,Africa,North Africa,0.11
+2011,Redbridge,E09000026,Total,278970,252,Africa,North Africa,0.09
+2011,Richmond upon Thames,E09000027,Total,186990,169,Africa,North Africa,0.09
+2011,Sutton,E09000029,Total,190146,108,Africa,North Africa,0.06
+2011,Waltham Forest,E09000031,Total,258249,744,Africa,North Africa,0.29
+2011,Camden,E09000007,Total,220338,81,Africa,Kenya,0.04
+2011,City of London,E09000001,Total,7375,2,Africa,Kenya,0.03
+2011,Hackney,E09000012,Total,246270,80,Africa,Kenya,0.03
+2011,Hammersmith and Fulham,E09000013,Total,182493,44,Africa,Kenya,0.02
+2011,Haringey,E09000014,Total,254926,76,Africa,Kenya,0.03
+2011,Islington,E09000019,Total,206125,77,Africa,Kenya,0.04
+2011,Kensington and Chelsea,E09000020,Total,158649,67,Africa,Kenya,0.04
+2011,Lambeth,E09000022,Total,303086,111,Africa,Kenya,0.04
+2011,Lewisham,E09000023,Total,275885,214,Africa,Kenya,0.08
+2011,Newham,E09000025,Total,307984,307,Africa,Kenya,0.1
+2011,Southwark,E09000028,Total,288283,204,Africa,Kenya,0.07
+2011,Tower Hamlets,E09000030,Total,254096,89,Africa,Kenya,0.04
+2011,Wandsworth,E09000032,Total,306995,90,Africa,Kenya,0.03
+2011,Westminster,E09000033,Total,219396,112,Africa,Kenya,0.05
+2011,Barking and Dagenham,E09000002,Total,185911,278,Africa,Kenya,0.15
+2011,Barnet,E09000003,Total,356386,420,Africa,Kenya,0.12
+2011,Bexley,E09000004,Total,231997,86,Africa,Kenya,0.04
+2011,Brent,E09000005,Total,311215,314,Africa,Kenya,0.1
+2011,Bromley,E09000006,Total,309392,96,Africa,Kenya,0.03
+2011,Croydon,E09000008,Total,363378,209,Africa,Kenya,0.06
+2011,Ealing,E09000009,Total,338449,261,Africa,Kenya,0.08
+2011,Enfield,E09000010,Total,312466,232,Africa,Kenya,0.07
+2011,Greenwich,E09000011,Total,254557,215,Africa,Kenya,0.08
+2011,Harrow,E09000015,Total,239056,839,Africa,Kenya,0.35
+2011,Havering,E09000016,Total,237232,69,Africa,Kenya,0.03
+2011,Hillingdon,E09000017,Total,273936,310,Africa,Kenya,0.11
+2011,Hounslow,E09000018,Total,253957,310,Africa,Kenya,0.12
+2011,Kingston upon Thames,E09000021,Total,160060,78,Africa,Kenya,0.05
+2011,Merton,E09000024,Total,199693,64,Africa,Kenya,0.03
+2011,Redbridge,E09000026,Total,278970,202,Africa,Kenya,0.07
+2011,Richmond upon Thames,E09000027,Total,186990,52,Africa,Kenya,0.03
+2011,Sutton,E09000029,Total,190146,50,Africa,Kenya,0.03
+2011,Waltham Forest,E09000031,Total,258249,91,Africa,Kenya,0.04
+2011,Camden,E09000007,Total,220338,356,Africa,Other South and Eastern Africa,0.16
+2011,City of London,E09000001,Total,7375,2,Africa,Other South and Eastern Africa,0.03
+2011,Hackney,E09000012,Total,246270,462,Africa,Other South and Eastern Africa,0.19
+2011,Hammersmith and Fulham,E09000013,Total,182493,371,Africa,Other South and Eastern Africa,0.2
+2011,Haringey,E09000014,Total,254926,1102,Africa,Other South and Eastern Africa,0.43
+2011,Islington,E09000019,Total,206125,380,Africa,Other South and Eastern Africa,0.18
+2011,Kensington and Chelsea,E09000020,Total,158649,239,Africa,Other South and Eastern Africa,0.15
+2011,Lambeth,E09000022,Total,303086,824,Africa,Other South and Eastern Africa,0.27
+2011,Lewisham,E09000023,Total,275885,879,Africa,Other South and Eastern Africa,0.32
+2011,Newham,E09000025,Total,307984,1791,Africa,Other South and Eastern Africa,0.58
+2011,Southwark,E09000028,Total,288283,903,Africa,Other South and Eastern Africa,0.31
+2011,Tower Hamlets,E09000030,Total,254096,352,Africa,Other South and Eastern Africa,0.14
+2011,Wandsworth,E09000032,Total,306995,638,Africa,Other South and Eastern Africa,0.21
+2011,Westminster,E09000033,Total,219396,359,Africa,Other South and Eastern Africa,0.16
+2011,Barking and Dagenham,E09000002,Total,185911,751,Africa,Other South and Eastern Africa,0.4
+2011,Barnet,E09000003,Total,356386,1109,Africa,Other South and Eastern Africa,0.31
+2011,Bexley,E09000004,Total,231997,305,Africa,Other South and Eastern Africa,0.13
+2011,Brent,E09000005,Total,311215,609,Africa,Other South and Eastern Africa,0.2
+2011,Bromley,E09000006,Total,309392,354,Africa,Other South and Eastern Africa,0.11
+2011,Croydon,E09000008,Total,363378,1964,Africa,Other South and Eastern Africa,0.54
+2011,Ealing,E09000009,Total,338449,603,Africa,Other South and Eastern Africa,0.18
+2011,Enfield,E09000010,Total,312466,2034,Africa,Other South and Eastern Africa,0.65
+2011,Greenwich,E09000011,Total,254557,945,Africa,Other South and Eastern Africa,0.37
+2011,Harrow,E09000015,Total,239056,508,Africa,Other South and Eastern Africa,0.21
+2011,Havering,E09000016,Total,237232,245,Africa,Other South and Eastern Africa,0.1
+2011,Hillingdon,E09000017,Total,273936,718,Africa,Other South and Eastern Africa,0.26
+2011,Hounslow,E09000018,Total,253957,755,Africa,Other South and Eastern Africa,0.3
+2011,Kingston upon Thames,E09000021,Total,160060,283,Africa,Other South and Eastern Africa,0.18
+2011,Merton,E09000024,Total,199693,694,Africa,Other South and Eastern Africa,0.35
+2011,Redbridge,E09000026,Total,278970,1162,Africa,Other South and Eastern Africa,0.42
+2011,Richmond upon Thames,E09000027,Total,186990,112,Africa,Other South and Eastern Africa,0.06
+2011,Sutton,E09000029,Total,190146,581,Africa,Other South and Eastern Africa,0.31
+2011,Waltham Forest,E09000031,Total,258249,1382,Africa,Other South and Eastern Africa,0.54
+2011,Camden,E09000007,Total,220338,39,Africa,Somalia,0.02
+2011,City of London,E09000001,Total,7375,0,Africa,Somalia,0
+2011,Hackney,E09000012,Total,246270,17,Africa,Somalia,0.01
+2011,Hammersmith and Fulham,E09000013,Total,182493,24,Africa,Somalia,0.01
+2011,Haringey,E09000014,Total,254926,39,Africa,Somalia,0.02
+2011,Islington,E09000019,Total,206125,33,Africa,Somalia,0.02
+2011,Kensington and Chelsea,E09000020,Total,158649,7,Africa,Somalia,0
+2011,Lambeth,E09000022,Total,303086,16,Africa,Somalia,0.01
+2011,Lewisham,E09000023,Total,275885,8,Africa,Somalia,0
+2011,Newham,E09000025,Total,307984,37,Africa,Somalia,0.01
+2011,Southwark,E09000028,Total,288283,13,Africa,Somalia,0
+2011,Tower Hamlets,E09000030,Total,254096,41,Africa,Somalia,0.02
+2011,Wandsworth,E09000032,Total,306995,19,Africa,Somalia,0.01
+2011,Westminster,E09000033,Total,219396,23,Africa,Somalia,0.01
+2011,Barking and Dagenham,E09000002,Total,185911,19,Africa,Somalia,0.01
+2011,Barnet,E09000003,Total,356386,22,Africa,Somalia,0.01
+2011,Bexley,E09000004,Total,231997,0,Africa,Somalia,0
+2011,Brent,E09000005,Total,311215,68,Africa,Somalia,0.02
+2011,Bromley,E09000006,Total,309392,2,Africa,Somalia,0
+2011,Croydon,E09000008,Total,363378,10,Africa,Somalia,0
+2011,Ealing,E09000009,Total,338449,53,Africa,Somalia,0.02
+2011,Enfield,E09000010,Total,312466,28,Africa,Somalia,0.01
+2011,Greenwich,E09000011,Total,254557,27,Africa,Somalia,0.01
+2011,Harrow,E09000015,Total,239056,32,Africa,Somalia,0.01
+2011,Havering,E09000016,Total,237232,0,Africa,Somalia,0
+2011,Hillingdon,E09000017,Total,273936,26,Africa,Somalia,0.01
+2011,Hounslow,E09000018,Total,253957,38,Africa,Somalia,0.01
+2011,Kingston upon Thames,E09000021,Total,160060,0,Africa,Somalia,0
+2011,Merton,E09000024,Total,199693,5,Africa,Somalia,0
+2011,Redbridge,E09000026,Total,278970,2,Africa,Somalia,0
+2011,Richmond upon Thames,E09000027,Total,186990,3,Africa,Somalia,0
+2011,Sutton,E09000029,Total,190146,0,Africa,Somalia,0
+2011,Waltham Forest,E09000031,Total,258249,27,Africa,Somalia,0.01
+2011,Camden,E09000007,Total,220338,649,Africa,South Africa,0.29
+2011,City of London,E09000001,Total,7375,15,Africa,South Africa,0.2
+2011,Hackney,E09000012,Total,246270,318,Africa,South Africa,0.13
+2011,Hammersmith and Fulham,E09000013,Total,182493,595,Africa,South Africa,0.33
+2011,Haringey,E09000014,Total,254926,431,Africa,South Africa,0.17
+2011,Islington,E09000019,Total,206125,311,Africa,South Africa,0.15
+2011,Kensington and Chelsea,E09000020,Total,158649,316,Africa,South Africa,0.2
+2011,Lambeth,E09000022,Total,303086,720,Africa,South Africa,0.24
+2011,Lewisham,E09000023,Total,275885,584,Africa,South Africa,0.21
+2011,Newham,E09000025,Total,307984,707,Africa,South Africa,0.23
+2011,Southwark,E09000028,Total,288283,903,Africa,South Africa,0.31
+2011,Tower Hamlets,E09000030,Total,254096,595,Africa,South Africa,0.23
+2011,Wandsworth,E09000032,Total,306995,2792,Africa,South Africa,0.91
+2011,Westminster,E09000033,Total,219396,519,Africa,South Africa,0.24
+2011,Barking and Dagenham,E09000002,Total,185911,193,Africa,South Africa,0.1
+2011,Barnet,E09000003,Total,356386,886,Africa,South Africa,0.25
+2011,Bexley,E09000004,Total,231997,251,Africa,South Africa,0.11
+2011,Brent,E09000005,Total,311215,410,Africa,South Africa,0.13
+2011,Bromley,E09000006,Total,309392,638,Africa,South Africa,0.21
+2011,Croydon,E09000008,Total,363378,644,Africa,South Africa,0.18
+2011,Ealing,E09000009,Total,338449,922,Africa,South Africa,0.27
+2011,Enfield,E09000010,Total,312466,333,Africa,South Africa,0.11
+2011,Greenwich,E09000011,Total,254557,664,Africa,South Africa,0.26
+2011,Harrow,E09000015,Total,239056,309,Africa,South Africa,0.13
+2011,Havering,E09000016,Total,237232,232,Africa,South Africa,0.1
+2011,Hillingdon,E09000017,Total,273936,423,Africa,South Africa,0.15
+2011,Hounslow,E09000018,Total,253957,531,Africa,South Africa,0.21
+2011,Kingston upon Thames,E09000021,Total,160060,686,Africa,South Africa,0.43
+2011,Merton,E09000024,Total,199693,2596,Africa,South Africa,1.3
+2011,Redbridge,E09000026,Total,278970,559,Africa,South Africa,0.2
+2011,Richmond upon Thames,E09000027,Total,186990,823,Africa,South Africa,0.44
+2011,Sutton,E09000029,Total,190146,662,Africa,South Africa,0.35
+2011,Waltham Forest,E09000031,Total,258249,769,Africa,South Africa,0.3
+2011,Camden,E09000007,Total,220338,62,Africa,Zimbabwe,0.03
+2011,City of London,E09000001,Total,7375,4,Africa,Zimbabwe,0.05
+2011,Hackney,E09000012,Total,246270,190,Africa,Zimbabwe,0.08
+2011,Hammersmith and Fulham,E09000013,Total,182493,77,Africa,Zimbabwe,0.04
+2011,Haringey,E09000014,Total,254926,156,Africa,Zimbabwe,0.06
+2011,Islington,E09000019,Total,206125,64,Africa,Zimbabwe,0.03
+2011,Kensington and Chelsea,E09000020,Total,158649,35,Africa,Zimbabwe,0.02
+2011,Lambeth,E09000022,Total,303086,209,Africa,Zimbabwe,0.07
+2011,Lewisham,E09000023,Total,275885,438,Africa,Zimbabwe,0.16
+2011,Newham,E09000025,Total,307984,402,Africa,Zimbabwe,0.13
+2011,Southwark,E09000028,Total,288283,251,Africa,Zimbabwe,0.09
+2011,Tower Hamlets,E09000030,Total,254096,131,Africa,Zimbabwe,0.05
+2011,Wandsworth,E09000032,Total,306995,145,Africa,Zimbabwe,0.05
+2011,Westminster,E09000033,Total,219396,63,Africa,Zimbabwe,0.03
+2011,Barking and Dagenham,E09000002,Total,185911,469,Africa,Zimbabwe,0.25
+2011,Barnet,E09000003,Total,356386,294,Africa,Zimbabwe,0.08
+2011,Bexley,E09000004,Total,231997,405,Africa,Zimbabwe,0.17
+2011,Brent,E09000005,Total,311215,167,Africa,Zimbabwe,0.05
+2011,Bromley,E09000006,Total,309392,318,Africa,Zimbabwe,0.1
+2011,Croydon,E09000008,Total,363378,667,Africa,Zimbabwe,0.18
+2011,Ealing,E09000009,Total,338449,239,Africa,Zimbabwe,0.07
+2011,Enfield,E09000010,Total,312466,451,Africa,Zimbabwe,0.14
+2011,Greenwich,E09000011,Total,254557,500,Africa,Zimbabwe,0.2
+2011,Harrow,E09000015,Total,239056,173,Africa,Zimbabwe,0.07
+2011,Havering,E09000016,Total,237232,353,Africa,Zimbabwe,0.15
+2011,Hillingdon,E09000017,Total,273936,454,Africa,Zimbabwe,0.17
+2011,Hounslow,E09000018,Total,253957,316,Africa,Zimbabwe,0.12
+2011,Kingston upon Thames,E09000021,Total,160060,189,Africa,Zimbabwe,0.12
+2011,Merton,E09000024,Total,199693,294,Africa,Zimbabwe,0.15
+2011,Redbridge,E09000026,Total,278970,303,Africa,Zimbabwe,0.11
+2011,Richmond upon Thames,E09000027,Total,186990,116,Africa,Zimbabwe,0.06
+2011,Sutton,E09000029,Total,190146,328,Africa,Zimbabwe,0.17
+2011,Waltham Forest,E09000031,Total,258249,266,Africa,Zimbabwe,0.1
+2011,Camden,E09000007,Total,220338,2812,Antarctica and Oceania,Australia,1.28
+2011,City of London,E09000001,Total,7375,117,Antarctica and Oceania,Australia,1.59
+2011,Hackney,E09000012,Total,246270,1739,Antarctica and Oceania,Australia,0.71
+2011,Hammersmith and Fulham,E09000013,Total,182493,3768,Antarctica and Oceania,Australia,2.06
+2011,Haringey,E09000014,Total,254926,1099,Antarctica and Oceania,Australia,0.43
+2011,Islington,E09000019,Total,206125,2367,Antarctica and Oceania,Australia,1.15
+2011,Kensington and Chelsea,E09000020,Total,158649,2064,Antarctica and Oceania,Australia,1.3
+2011,Lambeth,E09000022,Total,303086,2913,Antarctica and Oceania,Australia,0.96
+2011,Lewisham,E09000023,Total,275885,837,Antarctica and Oceania,Australia,0.3
+2011,Newham,E09000025,Total,307984,340,Antarctica and Oceania,Australia,0.11
+2011,Southwark,E09000028,Total,288283,1927,Antarctica and Oceania,Australia,0.67
+2011,Tower Hamlets,E09000030,Total,254096,2237,Antarctica and Oceania,Australia,0.88
+2011,Wandsworth,E09000032,Total,306995,4303,Antarctica and Oceania,Australia,1.4
+2011,Westminster,E09000033,Total,219396,3538,Antarctica and Oceania,Australia,1.61
+2011,Barking and Dagenham,E09000002,Total,185911,65,Antarctica and Oceania,Australia,0.03
+2011,Barnet,E09000003,Total,356386,782,Antarctica and Oceania,Australia,0.22
+2011,Bexley,E09000004,Total,231997,117,Antarctica and Oceania,Australia,0.05
+2011,Brent,E09000005,Total,311215,946,Antarctica and Oceania,Australia,0.3
+2011,Bromley,E09000006,Total,309392,445,Antarctica and Oceania,Australia,0.14
+2011,Croydon,E09000008,Total,363378,348,Antarctica and Oceania,Australia,0.1
+2011,Ealing,E09000009,Total,338449,1510,Antarctica and Oceania,Australia,0.45
+2011,Enfield,E09000010,Total,312466,279,Antarctica and Oceania,Australia,0.09
+2011,Greenwich,E09000011,Total,254557,592,Antarctica and Oceania,Australia,0.23
+2011,Harrow,E09000015,Total,239056,224,Antarctica and Oceania,Australia,0.09
+2011,Havering,E09000016,Total,237232,96,Antarctica and Oceania,Australia,0.04
+2011,Hillingdon,E09000017,Total,273936,255,Antarctica and Oceania,Australia,0.09
+2011,Hounslow,E09000018,Total,253957,715,Antarctica and Oceania,Australia,0.28
+2011,Kingston upon Thames,E09000021,Total,160060,451,Antarctica and Oceania,Australia,0.28
+2011,Merton,E09000024,Total,199693,1043,Antarctica and Oceania,Australia,0.52
+2011,Redbridge,E09000026,Total,278970,301,Antarctica and Oceania,Australia,0.11
+2011,Richmond upon Thames,E09000027,Total,186990,1418,Antarctica and Oceania,Australia,0.76
+2011,Sutton,E09000029,Total,190146,208,Antarctica and Oceania,Australia,0.11
+2011,Waltham Forest,E09000031,Total,258249,401,Antarctica and Oceania,Australia,0.16
+2011,Camden,E09000007,Total,220338,1114,Antarctica and Oceania,New Zealand,0.51
+2011,City of London,E09000001,Total,7375,42,Antarctica and Oceania,New Zealand,0.57
+2011,Hackney,E09000012,Total,246270,651,Antarctica and Oceania,New Zealand,0.26
+2011,Hammersmith and Fulham,E09000013,Total,182493,1749,Antarctica and Oceania,New Zealand,0.96
+2011,Haringey,E09000014,Total,254926,468,Antarctica and Oceania,New Zealand,0.18
+2011,Islington,E09000019,Total,206125,765,Antarctica and Oceania,New Zealand,0.37
+2011,Kensington and Chelsea,E09000020,Total,158649,523,Antarctica and Oceania,New Zealand,0.33
+2011,Lambeth,E09000022,Total,303086,1478,Antarctica and Oceania,New Zealand,0.49
+2011,Lewisham,E09000023,Total,275885,473,Antarctica and Oceania,New Zealand,0.17
+2011,Newham,E09000025,Total,307984,185,Antarctica and Oceania,New Zealand,0.06
+2011,Southwark,E09000028,Total,288283,779,Antarctica and Oceania,New Zealand,0.27
+2011,Tower Hamlets,E09000030,Total,254096,896,Antarctica and Oceania,New Zealand,0.35
+2011,Wandsworth,E09000032,Total,306995,2571,Antarctica and Oceania,New Zealand,0.84
+2011,Westminster,E09000033,Total,219396,1119,Antarctica and Oceania,New Zealand,0.51
+2011,Barking and Dagenham,E09000002,Total,185911,46,Antarctica and Oceania,New Zealand,0.02
+2011,Barnet,E09000003,Total,356386,311,Antarctica and Oceania,New Zealand,0.09
+2011,Bexley,E09000004,Total,231997,58,Antarctica and Oceania,New Zealand,0.03
+2011,Brent,E09000005,Total,311215,737,Antarctica and Oceania,New Zealand,0.24
+2011,Bromley,E09000006,Total,309392,237,Antarctica and Oceania,New Zealand,0.08
+2011,Croydon,E09000008,Total,363378,189,Antarctica and Oceania,New Zealand,0.05
+2011,Ealing,E09000009,Total,338449,1058,Antarctica and Oceania,New Zealand,0.31
+2011,Enfield,E09000010,Total,312466,131,Antarctica and Oceania,New Zealand,0.04
+2011,Greenwich,E09000011,Total,254557,299,Antarctica and Oceania,New Zealand,0.12
+2011,Harrow,E09000015,Total,239056,142,Antarctica and Oceania,New Zealand,0.06
+2011,Havering,E09000016,Total,237232,78,Antarctica and Oceania,New Zealand,0.03
+2011,Hillingdon,E09000017,Total,273936,180,Antarctica and Oceania,New Zealand,0.07
+2011,Hounslow,E09000018,Total,253957,480,Antarctica and Oceania,New Zealand,0.19
+2011,Kingston upon Thames,E09000021,Total,160060,219,Antarctica and Oceania,New Zealand,0.14
+2011,Merton,E09000024,Total,199693,535,Antarctica and Oceania,New Zealand,0.27
+2011,Redbridge,E09000026,Total,278970,127,Antarctica and Oceania,New Zealand,0.05
+2011,Richmond upon Thames,E09000027,Total,186990,632,Antarctica and Oceania,New Zealand,0.34
+2011,Sutton,E09000029,Total,190146,144,Antarctica and Oceania,New Zealand,0.08
+2011,Waltham Forest,E09000031,Total,258249,206,Antarctica and Oceania,New Zealand,0.08
+2011,Camden,E09000007,Total,220338,1,Antarctica and Oceania,Other Oceania,0
+2011,City of London,E09000001,Total,7375,0,Antarctica and Oceania,Other Oceania,0
+2011,Hackney,E09000012,Total,246270,3,Antarctica and Oceania,Other Oceania,0
+2011,Hammersmith and Fulham,E09000013,Total,182493,5,Antarctica and Oceania,Other Oceania,0
+2011,Haringey,E09000014,Total,254926,7,Antarctica and Oceania,Other Oceania,0
+2011,Islington,E09000019,Total,206125,4,Antarctica and Oceania,Other Oceania,0
+2011,Kensington and Chelsea,E09000020,Total,158649,11,Antarctica and Oceania,Other Oceania,0.01
+2011,Lambeth,E09000022,Total,303086,0,Antarctica and Oceania,Other Oceania,0
+2011,Lewisham,E09000023,Total,275885,3,Antarctica and Oceania,Other Oceania,0
+2011,Newham,E09000025,Total,307984,29,Antarctica and Oceania,Other Oceania,0.01
+2011,Southwark,E09000028,Total,288283,3,Antarctica and Oceania,Other Oceania,0
+2011,Tower Hamlets,E09000030,Total,254096,4,Antarctica and Oceania,Other Oceania,0
+2011,Wandsworth,E09000032,Total,306995,3,Antarctica and Oceania,Other Oceania,0
+2011,Westminster,E09000033,Total,219396,24,Antarctica and Oceania,Other Oceania,0.01
+2011,Barking and Dagenham,E09000002,Total,185911,5,Antarctica and Oceania,Other Oceania,0
+2011,Barnet,E09000003,Total,356386,26,Antarctica and Oceania,Other Oceania,0.01
+2011,Bexley,E09000004,Total,231997,0,Antarctica and Oceania,Other Oceania,0
+2011,Brent,E09000005,Total,311215,60,Antarctica and Oceania,Other Oceania,0.02
+2011,Bromley,E09000006,Total,309392,1,Antarctica and Oceania,Other Oceania,0
+2011,Croydon,E09000008,Total,363378,8,Antarctica and Oceania,Other Oceania,0
+2011,Ealing,E09000009,Total,338449,14,Antarctica and Oceania,Other Oceania,0
+2011,Enfield,E09000010,Total,312466,3,Antarctica and Oceania,Other Oceania,0
+2011,Greenwich,E09000011,Total,254557,53,Antarctica and Oceania,Other Oceania,0.02
+2011,Harrow,E09000015,Total,239056,16,Antarctica and Oceania,Other Oceania,0.01
+2011,Havering,E09000016,Total,237232,1,Antarctica and Oceania,Other Oceania,0
+2011,Hillingdon,E09000017,Total,273936,18,Antarctica and Oceania,Other Oceania,0.01
+2011,Hounslow,E09000018,Total,253957,11,Antarctica and Oceania,Other Oceania,0
+2011,Kingston upon Thames,E09000021,Total,160060,19,Antarctica and Oceania,Other Oceania,0.01
+2011,Merton,E09000024,Total,199693,6,Antarctica and Oceania,Other Oceania,0
+2011,Redbridge,E09000026,Total,278970,6,Antarctica and Oceania,Other Oceania,0
+2011,Richmond upon Thames,E09000027,Total,186990,4,Antarctica and Oceania,Other Oceania,0
+2011,Sutton,E09000029,Total,190146,6,Antarctica and Oceania,Other Oceania,0
+2011,Waltham Forest,E09000031,Total,258249,12,Antarctica and Oceania,Other Oceania,0
+2011,Camden,E09000007,Total,220338,11,British Overseas Territories,British Overseas Territories,0
+2011,City of London,E09000001,Total,7375,1,British Overseas Territories,British Overseas Territories,0.01
+2011,Hackney,E09000012,Total,246270,31,British Overseas Territories,British Overseas Territories,0.01
+2011,Hammersmith and Fulham,E09000013,Total,182493,9,British Overseas Territories,British Overseas Territories,0
+2011,Haringey,E09000014,Total,254926,11,British Overseas Territories,British Overseas Territories,0
+2011,Islington,E09000019,Total,206125,23,British Overseas Territories,British Overseas Territories,0.01
+2011,Kensington and Chelsea,E09000020,Total,158649,24,British Overseas Territories,British Overseas Territories,0.02
+2011,Lambeth,E09000022,Total,303086,23,British Overseas Territories,British Overseas Territories,0.01
+2011,Lewisham,E09000023,Total,275885,11,British Overseas Territories,British Overseas Territories,0
+2011,Newham,E09000025,Total,307984,23,British Overseas Territories,British Overseas Territories,0.01
+2011,Southwark,E09000028,Total,288283,18,British Overseas Territories,British Overseas Territories,0.01
+2011,Tower Hamlets,E09000030,Total,254096,25,British Overseas Territories,British Overseas Territories,0.01
+2011,Wandsworth,E09000032,Total,306995,8,British Overseas Territories,British Overseas Territories,0
+2011,Westminster,E09000033,Total,219396,44,British Overseas Territories,British Overseas Territories,0.02
+2011,Barking and Dagenham,E09000002,Total,185911,2,British Overseas Territories,British Overseas Territories,0
+2011,Barnet,E09000003,Total,356386,18,British Overseas Territories,British Overseas Territories,0.01
+2011,Bexley,E09000004,Total,231997,2,British Overseas Territories,British Overseas Territories,0
+2011,Brent,E09000005,Total,311215,21,British Overseas Territories,British Overseas Territories,0.01
+2011,Bromley,E09000006,Total,309392,4,British Overseas Territories,British Overseas Territories,0
+2011,Croydon,E09000008,Total,363378,13,British Overseas Territories,British Overseas Territories,0
+2011,Ealing,E09000009,Total,338449,10,British Overseas Territories,British Overseas Territories,0
+2011,Enfield,E09000010,Total,312466,14,British Overseas Territories,British Overseas Territories,0
+2011,Greenwich,E09000011,Total,254557,7,British Overseas Territories,British Overseas Territories,0
+2011,Harrow,E09000015,Total,239056,10,British Overseas Territories,British Overseas Territories,0
+2011,Havering,E09000016,Total,237232,2,British Overseas Territories,British Overseas Territories,0
+2011,Hillingdon,E09000017,Total,273936,9,British Overseas Territories,British Overseas Territories,0
+2011,Hounslow,E09000018,Total,253957,17,British Overseas Territories,British Overseas Territories,0.01
+2011,Kingston upon Thames,E09000021,Total,160060,7,British Overseas Territories,British Overseas Territories,0
+2011,Merton,E09000024,Total,199693,7,British Overseas Territories,British Overseas Territories,0
+2011,Redbridge,E09000026,Total,278970,7,British Overseas Territories,British Overseas Territories,0
+2011,Richmond upon Thames,E09000027,Total,186990,17,British Overseas Territories,British Overseas Territories,0.01
+2011,Sutton,E09000029,Total,190146,4,British Overseas Territories,British Overseas Territories,0
+2011,Waltham Forest,E09000031,Total,258249,19,British Overseas Territories,British Overseas Territories,0.01
+2011,Camden,E09000007,Total,220338,5640,Europe,Ireland,2.56
+2011,City of London,E09000001,Total,7375,126,Europe,Ireland,1.71
+2011,Hackney,E09000012,Total,246270,4398,Europe,Ireland,1.79
+2011,Hammersmith and Fulham,E09000013,Total,182493,5325,Europe,Ireland,2.92
+2011,Haringey,E09000014,Total,254926,5464,Europe,Ireland,2.14
+2011,Islington,E09000019,Total,206125,6336,Europe,Ireland,3.07
+2011,Kensington and Chelsea,E09000020,Total,158649,3259,Europe,Ireland,2.05
+2011,Lambeth,E09000022,Total,303086,6374,Europe,Ireland,2.1
+2011,Lewisham,E09000023,Total,275885,4093,Europe,Ireland,1.48
+2011,Newham,E09000025,Total,307984,1852,Europe,Ireland,0.6
+2011,Southwark,E09000028,Total,288283,5244,Europe,Ireland,1.82
+2011,Tower Hamlets,E09000030,Total,254096,3084,Europe,Ireland,1.21
+2011,Wandsworth,E09000032,Total,306995,6655,Europe,Ireland,2.17
+2011,Westminster,E09000033,Total,219396,3976,Europe,Ireland,1.81
+2011,Barking and Dagenham,E09000002,Total,185911,1359,Europe,Ireland,0.73
+2011,Barnet,E09000003,Total,356386,6846,Europe,Ireland,1.92
+2011,Bexley,E09000004,Total,231997,1838,Europe,Ireland,0.79
+2011,Brent,E09000005,Total,311215,10054,Europe,Ireland,3.23
+2011,Bromley,E09000006,Total,309392,3199,Europe,Ireland,1.03
+2011,Croydon,E09000008,Total,363378,3972,Europe,Ireland,1.09
+2011,Ealing,E09000009,Total,338449,8420,Europe,Ireland,2.49
+2011,Enfield,E09000010,Total,312466,4989,Europe,Ireland,1.6
+2011,Greenwich,E09000011,Total,254557,3377,Europe,Ireland,1.33
+2011,Harrow,E09000015,Total,239056,5949,Europe,Ireland,2.49
+2011,Havering,E09000016,Total,237232,2229,Europe,Ireland,0.94
+2011,Hillingdon,E09000017,Total,273936,4585,Europe,Ireland,1.67
+2011,Hounslow,E09000018,Total,253957,3962,Europe,Ireland,1.56
+2011,Kingston upon Thames,E09000021,Total,160060,2153,Europe,Ireland,1.35
+2011,Merton,E09000024,Total,199693,3554,Europe,Ireland,1.78
+2011,Redbridge,E09000026,Total,278970,3167,Europe,Ireland,1.14
+2011,Richmond upon Thames,E09000027,Total,186990,4003,Europe,Ireland,2.14
+2011,Sutton,E09000029,Total,190146,2397,Europe,Ireland,1.26
+2011,Waltham Forest,E09000031,Total,258249,3150,Europe,Ireland,1.22
+2011,Camden,E09000007,Total,220338,4364,Europe,EU: France,1.98
+2011,City of London,E09000001,Total,7375,154,Europe,EU: France,2.09
+2011,Hackney,E09000012,Total,246270,3104,Europe,EU: France,1.26
+2011,Hammersmith and Fulham,E09000013,Total,182493,5978,Europe,EU: France,3.28
+2011,Haringey,E09000014,Total,254926,2559,Europe,EU: France,1
+2011,Islington,E09000019,Total,206125,2984,Europe,EU: France,1.45
+2011,Kensington and Chelsea,E09000020,Total,158649,8118,Europe,EU: France,5.12
+2011,Lambeth,E09000022,Total,303086,4615,Europe,EU: France,1.52
+2011,Lewisham,E09000023,Total,275885,3472,Europe,EU: France,1.26
+2011,Newham,E09000025,Total,307984,2364,Europe,EU: France,0.77
+2011,Southwark,E09000028,Total,288283,4152,Europe,EU: France,1.44
+2011,Tower Hamlets,E09000030,Total,254096,3379,Europe,EU: France,1.33
+2011,Wandsworth,E09000032,Total,306995,4519,Europe,EU: France,1.47
+2011,Westminster,E09000033,Total,219396,6848,Europe,EU: France,3.12
+2011,Barking and Dagenham,E09000002,Total,185911,825,Europe,EU: France,0.44
+2011,Barnet,E09000003,Total,356386,2273,Europe,EU: France,0.64
+2011,Bexley,E09000004,Total,231997,517,Europe,EU: France,0.22
+2011,Brent,E09000005,Total,311215,2451,Europe,EU: France,0.79
+2011,Bromley,E09000006,Total,309392,1134,Europe,EU: France,0.37
+2011,Croydon,E09000008,Total,363378,1987,Europe,EU: France,0.55
+2011,Ealing,E09000009,Total,338449,3162,Europe,EU: France,0.93
+2011,Enfield,E09000010,Total,312466,1349,Europe,EU: France,0.43
+2011,Greenwich,E09000011,Total,254557,1889,Europe,EU: France,0.74
+2011,Harrow,E09000015,Total,239056,1701,Europe,EU: France,0.71
+2011,Havering,E09000016,Total,237232,301,Europe,EU: France,0.13
+2011,Hillingdon,E09000017,Total,273936,985,Europe,EU: France,0.36
+2011,Hounslow,E09000018,Total,253957,1674,Europe,EU: France,0.66
+2011,Kingston upon Thames,E09000021,Total,160060,1138,Europe,EU: France,0.71
+2011,Merton,E09000024,Total,199693,1831,Europe,EU: France,0.92
+2011,Redbridge,E09000026,Total,278970,1603,Europe,EU: France,0.57
+2011,Richmond upon Thames,E09000027,Total,186990,1434,Europe,EU: France,0.77
+2011,Sutton,E09000029,Total,190146,724,Europe,EU: France,0.38
+2011,Waltham Forest,E09000031,Total,258249,2342,Europe,EU: France,0.91
+2011,Camden,E09000007,Total,220338,2910,Europe,EU: Germany,1.32
+2011,City of London,E09000001,Total,7375,103,Europe,EU: Germany,1.4
+2011,Hackney,E09000012,Total,246270,2171,Europe,EU: Germany,0.88
+2011,Hammersmith and Fulham,E09000013,Total,182493,1537,Europe,EU: Germany,0.84
+2011,Haringey,E09000014,Total,254926,1805,Europe,EU: Germany,0.71
+2011,Islington,E09000019,Total,206125,1920,Europe,EU: Germany,0.93
+2011,Kensington and Chelsea,E09000020,Total,158649,2776,Europe,EU: Germany,1.75
+2011,Lambeth,E09000022,Total,303086,2109,Europe,EU: Germany,0.7
+2011,Lewisham,E09000023,Total,275885,1813,Europe,EU: Germany,0.66
+2011,Newham,E09000025,Total,307984,1223,Europe,EU: Germany,0.4
+2011,Southwark,E09000028,Total,288283,2211,Europe,EU: Germany,0.77
+2011,Tower Hamlets,E09000030,Total,254096,2163,Europe,EU: Germany,0.85
+2011,Wandsworth,E09000032,Total,306995,3389,Europe,EU: Germany,1.1
+2011,Westminster,E09000033,Total,219396,2872,Europe,EU: Germany,1.31
+2011,Barking and Dagenham,E09000002,Total,185911,579,Europe,EU: Germany,0.31
+2011,Barnet,E09000003,Total,356386,1811,Europe,EU: Germany,0.51
+2011,Bexley,E09000004,Total,231997,389,Europe,EU: Germany,0.17
+2011,Brent,E09000005,Total,311215,1573,Europe,EU: Germany,0.51
+2011,Bromley,E09000006,Total,309392,832,Europe,EU: Germany,0.27
+2011,Croydon,E09000008,Total,363378,1531,Europe,EU: Germany,0.42
+2011,Ealing,E09000009,Total,338449,1818,Europe,EU: Germany,0.54
+2011,Enfield,E09000010,Total,312466,864,Europe,EU: Germany,0.28
+2011,Greenwich,E09000011,Total,254557,1305,Europe,EU: Germany,0.51
+2011,Harrow,E09000015,Total,239056,1679,Europe,EU: Germany,0.7
+2011,Havering,E09000016,Total,237232,230,Europe,EU: Germany,0.1
+2011,Hillingdon,E09000017,Total,273936,1292,Europe,EU: Germany,0.47
+2011,Hounslow,E09000018,Total,253957,1166,Europe,EU: Germany,0.46
+2011,Kingston upon Thames,E09000021,Total,160060,1928,Europe,EU: Germany,1.2
+2011,Merton,E09000024,Total,199693,2131,Europe,EU: Germany,1.07
+2011,Redbridge,E09000026,Total,278970,1365,Europe,EU: Germany,0.49
+2011,Richmond upon Thames,E09000027,Total,186990,2105,Europe,EU: Germany,1.13
+2011,Sutton,E09000029,Total,190146,841,Europe,EU: Germany,0.44
+2011,Waltham Forest,E09000031,Total,258249,964,Europe,EU: Germany,0.37
+2011,Camden,E09000007,Total,220338,3693,Europe,EU: Italy,1.68
+2011,City of London,E09000001,Total,7375,110,Europe,EU: Italy,1.49
+2011,Hackney,E09000012,Total,246270,3033,Europe,EU: Italy,1.23
+2011,Hammersmith and Fulham,E09000013,Total,182493,3401,Europe,EU: Italy,1.86
+2011,Haringey,E09000014,Total,254926,3506,Europe,EU: Italy,1.38
+2011,Islington,E09000019,Total,206125,3346,Europe,EU: Italy,1.62
+2011,Kensington and Chelsea,E09000020,Total,158649,5105,Europe,EU: Italy,3.22
+2011,Lambeth,E09000022,Total,303086,4792,Europe,EU: Italy,1.58
+2011,Lewisham,E09000023,Total,275885,2426,Europe,EU: Italy,0.88
+2011,Newham,E09000025,Total,307984,1739,Europe,EU: Italy,0.56
+2011,Southwark,E09000028,Total,288283,3924,Europe,EU: Italy,1.36
+2011,Tower Hamlets,E09000030,Total,254096,3465,Europe,EU: Italy,1.36
+2011,Wandsworth,E09000032,Total,306995,4262,Europe,EU: Italy,1.39
+2011,Westminster,E09000033,Total,219396,5188,Europe,EU: Italy,2.36
+2011,Barking and Dagenham,E09000002,Total,185911,509,Europe,EU: Italy,0.27
+2011,Barnet,E09000003,Total,356386,3301,Europe,EU: Italy,0.93
+2011,Bexley,E09000004,Total,231997,459,Europe,EU: Italy,0.2
+2011,Brent,E09000005,Total,311215,3778,Europe,EU: Italy,1.21
+2011,Bromley,E09000006,Total,309392,1174,Europe,EU: Italy,0.38
+2011,Croydon,E09000008,Total,363378,1784,Europe,EU: Italy,0.49
+2011,Ealing,E09000009,Total,338449,2528,Europe,EU: Italy,0.75
+2011,Enfield,E09000010,Total,312466,3119,Europe,EU: Italy,1
+2011,Greenwich,E09000011,Total,254557,1425,Europe,EU: Italy,0.56
+2011,Harrow,E09000015,Total,239056,833,Europe,EU: Italy,0.35
+2011,Havering,E09000016,Total,237232,283,Europe,EU: Italy,0.12
+2011,Hillingdon,E09000017,Total,273936,888,Europe,EU: Italy,0.32
+2011,Hounslow,E09000018,Total,253957,1425,Europe,EU: Italy,0.56
+2011,Kingston upon Thames,E09000021,Total,160060,1125,Europe,EU: Italy,0.7
+2011,Merton,E09000024,Total,199693,1726,Europe,EU: Italy,0.86
+2011,Redbridge,E09000026,Total,278970,900,Europe,EU: Italy,0.32
+2011,Richmond upon Thames,E09000027,Total,186990,1438,Europe,EU: Italy,0.77
+2011,Sutton,E09000029,Total,190146,874,Europe,EU: Italy,0.46
+2011,Waltham Forest,E09000031,Total,258249,1521,Europe,EU: Italy,0.59
+2011,Camden,E09000007,Total,220338,243,Europe,EU: Lithuania,0.11
+2011,City of London,E09000001,Total,7375,17,Europe,EU: Lithuania,0.23
+2011,Hackney,E09000012,Total,246270,521,Europe,EU: Lithuania,0.21
+2011,Hammersmith and Fulham,E09000013,Total,182493,373,Europe,EU: Lithuania,0.2
+2011,Haringey,E09000014,Total,254926,1065,Europe,EU: Lithuania,0.42
+2011,Islington,E09000019,Total,206125,234,Europe,EU: Lithuania,0.11
+2011,Kensington and Chelsea,E09000020,Total,158649,219,Europe,EU: Lithuania,0.14
+2011,Lambeth,E09000022,Total,303086,630,Europe,EU: Lithuania,0.21
+2011,Lewisham,E09000023,Total,275885,1557,Europe,EU: Lithuania,0.56
+2011,Newham,E09000025,Total,307984,9088,Europe,EU: Lithuania,2.95
+2011,Southwark,E09000028,Total,288283,897,Europe,EU: Lithuania,0.31
+2011,Tower Hamlets,E09000030,Total,254096,1199,Europe,EU: Lithuania,0.47
+2011,Wandsworth,E09000032,Total,306995,668,Europe,EU: Lithuania,0.22
+2011,Westminster,E09000033,Total,219396,387,Europe,EU: Lithuania,0.18
+2011,Barking and Dagenham,E09000002,Total,185911,4664,Europe,EU: Lithuania,2.51
+2011,Barnet,E09000003,Total,356386,1174,Europe,EU: Lithuania,0.33
+2011,Bexley,E09000004,Total,231997,725,Europe,EU: Lithuania,0.31
+2011,Brent,E09000005,Total,311215,1141,Europe,EU: Lithuania,0.37
+2011,Bromley,E09000006,Total,309392,619,Europe,EU: Lithuania,0.2
+2011,Croydon,E09000008,Total,363378,883,Europe,EU: Lithuania,0.24
+2011,Ealing,E09000009,Total,338449,1392,Europe,EU: Lithuania,0.41
+2011,Enfield,E09000010,Total,312466,1009,Europe,EU: Lithuania,0.32
+2011,Greenwich,E09000011,Total,254557,2260,Europe,EU: Lithuania,0.89
+2011,Harrow,E09000015,Total,239056,590,Europe,EU: Lithuania,0.25
+2011,Havering,E09000016,Total,237232,1275,Europe,EU: Lithuania,0.54
+2011,Hillingdon,E09000017,Total,273936,1005,Europe,EU: Lithuania,0.37
+2011,Hounslow,E09000018,Total,253957,1247,Europe,EU: Lithuania,0.49
+2011,Kingston upon Thames,E09000021,Total,160060,422,Europe,EU: Lithuania,0.26
+2011,Merton,E09000024,Total,199693,734,Europe,EU: Lithuania,0.37
+2011,Redbridge,E09000026,Total,278970,3223,Europe,EU: Lithuania,1.16
+2011,Richmond upon Thames,E09000027,Total,186990,236,Europe,EU: Lithuania,0.13
+2011,Sutton,E09000029,Total,190146,360,Europe,EU: Lithuania,0.19
+2011,Waltham Forest,E09000031,Total,258249,3908,Europe,EU: Lithuania,1.51
+2011,Camden,E09000007,Total,220338,6960,Europe,EU: Other EU countries,3.16
+2011,City of London,E09000001,Total,7375,242,Europe,EU: Other EU countries,3.28
+2011,Hackney,E09000012,Total,246270,6029,Europe,EU: Other EU countries,2.45
+2011,Hammersmith and Fulham,E09000013,Total,182493,5946,Europe,EU: Other EU countries,3.26
+2011,Haringey,E09000014,Total,254926,10487,Europe,EU: Other EU countries,4.11
+2011,Islington,E09000019,Total,206125,5614,Europe,EU: Other EU countries,2.72
+2011,Kensington and Chelsea,E09000020,Total,158649,7650,Europe,EU: Other EU countries,4.82
+2011,Lambeth,E09000022,Total,303086,6916,Europe,EU: Other EU countries,2.28
+2011,Lewisham,E09000023,Total,275885,6051,Europe,EU: Other EU countries,2.19
+2011,Newham,E09000025,Total,307984,8797,Europe,EU: Other EU countries,2.86
+2011,Southwark,E09000028,Total,288283,7028,Europe,EU: Other EU countries,2.44
+2011,Tower Hamlets,E09000030,Total,254096,7130,Europe,EU: Other EU countries,2.81
+2011,Wandsworth,E09000032,Total,306995,8456,Europe,EU: Other EU countries,2.75
+2011,Westminster,E09000033,Total,219396,11836,Europe,EU: Other EU countries,5.39
+2011,Barking and Dagenham,E09000002,Total,185911,3270,Europe,EU: Other EU countries,1.76
+2011,Barnet,E09000003,Total,356386,11149,Europe,EU: Other EU countries,3.13
+2011,Bexley,E09000004,Total,231997,1659,Europe,EU: Other EU countries,0.72
+2011,Brent,E09000005,Total,311215,9287,Europe,EU: Other EU countries,2.98
+2011,Bromley,E09000006,Total,309392,2793,Europe,EU: Other EU countries,0.9
+2011,Croydon,E09000008,Total,363378,5011,Europe,EU: Other EU countries,1.38
+2011,Ealing,E09000009,Total,338449,8905,Europe,EU: Other EU countries,2.63
+2011,Enfield,E09000010,Total,312466,8170,Europe,EU: Other EU countries,2.61
+2011,Greenwich,E09000011,Total,254557,5991,Europe,EU: Other EU countries,2.35
+2011,Harrow,E09000015,Total,239056,4591,Europe,EU: Other EU countries,1.92
+2011,Havering,E09000016,Total,237232,1216,Europe,EU: Other EU countries,0.51
+2011,Hillingdon,E09000017,Total,273936,4589,Europe,EU: Other EU countries,1.68
+2011,Hounslow,E09000018,Total,253957,5414,Europe,EU: Other EU countries,2.13
+2011,Kingston upon Thames,E09000021,Total,160060,3525,Europe,EU: Other EU countries,2.2
+2011,Merton,E09000024,Total,199693,4839,Europe,EU: Other EU countries,2.42
+2011,Redbridge,E09000026,Total,278970,3914,Europe,EU: Other EU countries,1.4
+2011,Richmond upon Thames,E09000027,Total,186990,4211,Europe,EU: Other EU countries,2.25
+2011,Sutton,E09000029,Total,190146,2107,Europe,EU: Other EU countries,1.11
+2011,Waltham Forest,E09000031,Total,258249,8212,Europe,EU: Other EU countries,3.18
+2011,Camden,E09000007,Total,220338,2012,Europe,EU: Poland,0.91
+2011,City of London,E09000001,Total,7375,42,Europe,EU: Poland,0.57
+2011,Hackney,E09000012,Total,246270,4330,Europe,EU: Poland,1.76
+2011,Hammersmith and Fulham,E09000013,Total,182493,2782,Europe,EU: Poland,1.52
+2011,Haringey,E09000014,Total,254926,10995,Europe,EU: Poland,4.31
+2011,Islington,E09000019,Total,206125,1611,Europe,EU: Poland,0.78
+2011,Kensington and Chelsea,E09000020,Total,158649,938,Europe,EU: Poland,0.59
+2011,Lambeth,E09000022,Total,303086,6893,Europe,EU: Poland,2.27
+2011,Lewisham,E09000023,Total,275885,4536,Europe,EU: Poland,1.64
+2011,Newham,E09000025,Total,307984,6229,Europe,EU: Poland,2.02
+2011,Southwark,E09000028,Total,288283,3564,Europe,EU: Poland,1.24
+2011,Tower Hamlets,E09000030,Total,254096,2607,Europe,EU: Poland,1.03
+2011,Wandsworth,E09000032,Total,306995,6525,Europe,EU: Poland,2.13
+2011,Westminster,E09000033,Total,219396,1488,Europe,EU: Poland,0.68
+2011,Barking and Dagenham,E09000002,Total,185911,1974,Europe,EU: Poland,1.06
+2011,Barnet,E09000003,Total,356386,8510,Europe,EU: Poland,2.39
+2011,Bexley,E09000004,Total,231997,1006,Europe,EU: Poland,0.43
+2011,Brent,E09000005,Total,311215,10586,Europe,EU: Poland,3.4
+2011,Bromley,E09000006,Total,309392,1750,Europe,EU: Poland,0.57
+2011,Croydon,E09000008,Total,363378,5174,Europe,EU: Poland,1.42
+2011,Ealing,E09000009,Total,338449,20868,Europe,EU: Poland,6.17
+2011,Enfield,E09000010,Total,312466,6177,Europe,EU: Poland,1.98
+2011,Greenwich,E09000011,Total,254557,2518,Europe,EU: Poland,0.99
+2011,Harrow,E09000015,Total,239056,3887,Europe,EU: Poland,1.63
+2011,Havering,E09000016,Total,237232,917,Europe,EU: Poland,0.39
+2011,Hillingdon,E09000017,Total,273936,4329,Europe,EU: Poland,1.58
+2011,Hounslow,E09000018,Total,253957,10414,Europe,EU: Poland,4.1
+2011,Kingston upon Thames,E09000021,Total,160060,2078,Europe,EU: Poland,1.3
+2011,Merton,E09000024,Total,199693,6738,Europe,EU: Poland,3.37
+2011,Redbridge,E09000026,Total,278970,2493,Europe,EU: Poland,0.89
+2011,Richmond upon Thames,E09000027,Total,186990,1918,Europe,EU: Poland,1.03
+2011,Sutton,E09000029,Total,190146,2092,Europe,EU: Poland,1.1
+2011,Waltham Forest,E09000031,Total,258249,8516,Europe,EU: Poland,3.3
+2011,Camden,E09000007,Total,220338,1511,Europe,EU: Portugal,0.69
+2011,City of London,E09000001,Total,7375,27,Europe,EU: Portugal,0.37
+2011,Hackney,E09000012,Total,246270,1833,Europe,EU: Portugal,0.74
+2011,Hammersmith and Fulham,E09000013,Total,182493,1621,Europe,EU: Portugal,0.89
+2011,Haringey,E09000014,Total,254926,2059,Europe,EU: Portugal,0.81
+2011,Islington,E09000019,Total,206125,1294,Europe,EU: Portugal,0.63
+2011,Kensington and Chelsea,E09000020,Total,158649,1705,Europe,EU: Portugal,1.07
+2011,Lambeth,E09000022,Total,303086,8713,Europe,EU: Portugal,2.87
+2011,Lewisham,E09000023,Total,275885,1368,Europe,EU: Portugal,0.5
+2011,Newham,E09000025,Total,307984,3225,Europe,EU: Portugal,1.05
+2011,Southwark,E09000028,Total,288283,2238,Europe,EU: Portugal,0.78
+2011,Tower Hamlets,E09000030,Total,254096,1139,Europe,EU: Portugal,0.45
+2011,Wandsworth,E09000032,Total,306995,2012,Europe,EU: Portugal,0.66
+2011,Westminster,E09000033,Total,219396,2602,Europe,EU: Portugal,1.19
+2011,Barking and Dagenham,E09000002,Total,185911,1430,Europe,EU: Portugal,0.77
+2011,Barnet,E09000003,Total,356386,2282,Europe,EU: Portugal,0.64
+2011,Bexley,E09000004,Total,231997,327,Europe,EU: Portugal,0.14
+2011,Brent,E09000005,Total,311215,5669,Europe,EU: Portugal,1.82
+2011,Bromley,E09000006,Total,309392,523,Europe,EU: Portugal,0.17
+2011,Croydon,E09000008,Total,363378,1752,Europe,EU: Portugal,0.48
+2011,Ealing,E09000009,Total,338449,2562,Europe,EU: Portugal,0.76
+2011,Enfield,E09000010,Total,312466,1041,Europe,EU: Portugal,0.33
+2011,Greenwich,E09000011,Total,254557,902,Europe,EU: Portugal,0.35
+2011,Harrow,E09000015,Total,239056,1193,Europe,EU: Portugal,0.5
+2011,Havering,E09000016,Total,237232,252,Europe,EU: Portugal,0.11
+2011,Hillingdon,E09000017,Total,273936,1558,Europe,EU: Portugal,0.57
+2011,Hounslow,E09000018,Total,253957,2368,Europe,EU: Portugal,0.93
+2011,Kingston upon Thames,E09000021,Total,160060,739,Europe,EU: Portugal,0.46
+2011,Merton,E09000024,Total,199693,1405,Europe,EU: Portugal,0.7
+2011,Redbridge,E09000026,Total,278970,924,Europe,EU: Portugal,0.33
+2011,Richmond upon Thames,E09000027,Total,186990,445,Europe,EU: Portugal,0.24
+2011,Sutton,E09000029,Total,190146,697,Europe,EU: Portugal,0.37
+2011,Waltham Forest,E09000031,Total,258249,1529,Europe,EU: Portugal,0.59
+2011,Camden,E09000007,Total,220338,304,Europe,EU: Romania,0.14
+2011,City of London,E09000001,Total,7375,12,Europe,EU: Romania,0.16
+2011,Hackney,E09000012,Total,246270,431,Europe,EU: Romania,0.18
+2011,Hammersmith and Fulham,E09000013,Total,182493,339,Europe,EU: Romania,0.19
+2011,Haringey,E09000014,Total,254926,2264,Europe,EU: Romania,0.89
+2011,Islington,E09000019,Total,206125,267,Europe,EU: Romania,0.13
+2011,Kensington and Chelsea,E09000020,Total,158649,199,Europe,EU: Romania,0.13
+2011,Lambeth,E09000022,Total,303086,658,Europe,EU: Romania,0.22
+2011,Lewisham,E09000023,Total,275885,735,Europe,EU: Romania,0.27
+2011,Newham,E09000025,Total,307984,4798,Europe,EU: Romania,1.56
+2011,Southwark,E09000028,Total,288283,584,Europe,EU: Romania,0.2
+2011,Tower Hamlets,E09000030,Total,254096,520,Europe,EU: Romania,0.2
+2011,Wandsworth,E09000032,Total,306995,397,Europe,EU: Romania,0.13
+2011,Westminster,E09000033,Total,219396,376,Europe,EU: Romania,0.17
+2011,Barking and Dagenham,E09000002,Total,185911,1226,Europe,EU: Romania,0.66
+2011,Barnet,E09000003,Total,356386,4302,Europe,EU: Romania,1.21
+2011,Bexley,E09000004,Total,231997,246,Europe,EU: Romania,0.11
+2011,Brent,E09000005,Total,311215,6211,Europe,EU: Romania,2
+2011,Bromley,E09000006,Total,309392,336,Europe,EU: Romania,0.11
+2011,Croydon,E09000008,Total,363378,813,Europe,EU: Romania,0.22
+2011,Ealing,E09000009,Total,338449,943,Europe,EU: Romania,0.28
+2011,Enfield,E09000010,Total,312466,1651,Europe,EU: Romania,0.53
+2011,Greenwich,E09000011,Total,254557,944,Europe,EU: Romania,0.37
+2011,Harrow,E09000015,Total,239056,4819,Europe,EU: Romania,2.02
+2011,Havering,E09000016,Total,237232,461,Europe,EU: Romania,0.19
+2011,Hillingdon,E09000017,Total,273936,779,Europe,EU: Romania,0.28
+2011,Hounslow,E09000018,Total,253957,765,Europe,EU: Romania,0.3
+2011,Kingston upon Thames,E09000021,Total,160060,214,Europe,EU: Romania,0.13
+2011,Merton,E09000024,Total,199693,563,Europe,EU: Romania,0.28
+2011,Redbridge,E09000026,Total,278970,1848,Europe,EU: Romania,0.66
+2011,Richmond upon Thames,E09000027,Total,186990,166,Europe,EU: Romania,0.09
+2011,Sutton,E09000029,Total,190146,308,Europe,EU: Romania,0.16
+2011,Waltham Forest,E09000031,Total,258249,4295,Europe,EU: Romania,1.66
+2011,Camden,E09000007,Total,220338,1952,Europe,EU: Spain,0.89
+2011,City of London,E09000001,Total,7375,76,Europe,EU: Spain,1.03
+2011,Hackney,E09000012,Total,246270,1986,Europe,EU: Spain,0.81
+2011,Hammersmith and Fulham,E09000013,Total,182493,2162,Europe,EU: Spain,1.18
+2011,Haringey,E09000014,Total,254926,2136,Europe,EU: Spain,0.84
+2011,Islington,E09000019,Total,206125,1834,Europe,EU: Spain,0.89
+2011,Kensington and Chelsea,E09000020,Total,158649,3196,Europe,EU: Spain,2.01
+2011,Lambeth,E09000022,Total,303086,2948,Europe,EU: Spain,0.97
+2011,Lewisham,E09000023,Total,275885,1212,Europe,EU: Spain,0.44
+2011,Newham,E09000025,Total,307984,1185,Europe,EU: Spain,0.38
+2011,Southwark,E09000028,Total,288283,2552,Europe,EU: Spain,0.89
+2011,Tower Hamlets,E09000030,Total,254096,2212,Europe,EU: Spain,0.87
+2011,Wandsworth,E09000032,Total,306995,2039,Europe,EU: Spain,0.66
+2011,Westminster,E09000033,Total,219396,3497,Europe,EU: Spain,1.59
+2011,Barking and Dagenham,E09000002,Total,185911,292,Europe,EU: Spain,0.16
+2011,Barnet,E09000003,Total,356386,1348,Europe,EU: Spain,0.38
+2011,Bexley,E09000004,Total,231997,226,Europe,EU: Spain,0.1
+2011,Brent,E09000005,Total,311215,1906,Europe,EU: Spain,0.61
+2011,Bromley,E09000006,Total,309392,510,Europe,EU: Spain,0.16
+2011,Croydon,E09000008,Total,363378,947,Europe,EU: Spain,0.26
+2011,Ealing,E09000009,Total,338449,1462,Europe,EU: Spain,0.43
+2011,Enfield,E09000010,Total,312466,671,Europe,EU: Spain,0.21
+2011,Greenwich,E09000011,Total,254557,752,Europe,EU: Spain,0.3
+2011,Harrow,E09000015,Total,239056,445,Europe,EU: Spain,0.19
+2011,Havering,E09000016,Total,237232,178,Europe,EU: Spain,0.08
+2011,Hillingdon,E09000017,Total,273936,608,Europe,EU: Spain,0.22
+2011,Hounslow,E09000018,Total,253957,1047,Europe,EU: Spain,0.41
+2011,Kingston upon Thames,E09000021,Total,160060,553,Europe,EU: Spain,0.35
+2011,Merton,E09000024,Total,199693,872,Europe,EU: Spain,0.44
+2011,Redbridge,E09000026,Total,278970,357,Europe,EU: Spain,0.13
+2011,Richmond upon Thames,E09000027,Total,186990,792,Europe,EU: Spain,0.42
+2011,Sutton,E09000029,Total,190146,448,Europe,EU: Spain,0.24
+2011,Waltham Forest,E09000031,Total,258249,919,Europe,EU: Spain,0.36
+2011,Camden,E09000007,Total,220338,2012,Europe,Rest of Europe: Other Europe,0.91
+2011,City of London,E09000001,Total,7375,79,Europe,Rest of Europe: Other Europe,1.07
+2011,Hackney,E09000012,Total,246270,1206,Europe,Rest of Europe: Other Europe,0.49
+2011,Hammersmith and Fulham,E09000013,Total,182493,1247,Europe,Rest of Europe: Other Europe,0.68
+2011,Haringey,E09000014,Total,254926,1325,Europe,Rest of Europe: Other Europe,0.52
+2011,Islington,E09000019,Total,206125,1402,Europe,Rest of Europe: Other Europe,0.68
+2011,Kensington and Chelsea,E09000020,Total,158649,2454,Europe,Rest of Europe: Other Europe,1.55
+2011,Lambeth,E09000022,Total,303086,1079,Europe,Rest of Europe: Other Europe,0.36
+2011,Lewisham,E09000023,Total,275885,1104,Europe,Rest of Europe: Other Europe,0.4
+2011,Newham,E09000025,Total,307984,1128,Europe,Rest of Europe: Other Europe,0.37
+2011,Southwark,E09000028,Total,288283,1425,Europe,Rest of Europe: Other Europe,0.49
+2011,Tower Hamlets,E09000030,Total,254096,1860,Europe,Rest of Europe: Other Europe,0.73
+2011,Wandsworth,E09000032,Total,306995,1510,Europe,Rest of Europe: Other Europe,0.49
+2011,Westminster,E09000033,Total,219396,3251,Europe,Rest of Europe: Other Europe,1.48
+2011,Barking and Dagenham,E09000002,Total,185911,463,Europe,Rest of Europe: Other Europe,0.25
+2011,Barnet,E09000003,Total,356386,1787,Europe,Rest of Europe: Other Europe,0.5
+2011,Bexley,E09000004,Total,231997,312,Europe,Rest of Europe: Other Europe,0.13
+2011,Brent,E09000005,Total,311215,1095,Europe,Rest of Europe: Other Europe,0.35
+2011,Bromley,E09000006,Total,309392,619,Europe,Rest of Europe: Other Europe,0.2
+2011,Croydon,E09000008,Total,363378,694,Europe,Rest of Europe: Other Europe,0.19
+2011,Ealing,E09000009,Total,338449,1674,Europe,Rest of Europe: Other Europe,0.49
+2011,Enfield,E09000010,Total,312466,941,Europe,Rest of Europe: Other Europe,0.3
+2011,Greenwich,E09000011,Total,254557,911,Europe,Rest of Europe: Other Europe,0.36
+2011,Harrow,E09000015,Total,239056,767,Europe,Rest of Europe: Other Europe,0.32
+2011,Havering,E09000016,Total,237232,236,Europe,Rest of Europe: Other Europe,0.1
+2011,Hillingdon,E09000017,Total,273936,853,Europe,Rest of Europe: Other Europe,0.31
+2011,Hounslow,E09000018,Total,253957,995,Europe,Rest of Europe: Other Europe,0.39
+2011,Kingston upon Thames,E09000021,Total,160060,798,Europe,Rest of Europe: Other Europe,0.5
+2011,Merton,E09000024,Total,199693,1142,Europe,Rest of Europe: Other Europe,0.57
+2011,Redbridge,E09000026,Total,278970,845,Europe,Rest of Europe: Other Europe,0.3
+2011,Richmond upon Thames,E09000027,Total,186990,889,Europe,Rest of Europe: Other Europe,0.48
+2011,Sutton,E09000029,Total,190146,468,Europe,Rest of Europe: Other Europe,0.25
+2011,Waltham Forest,E09000031,Total,258249,965,Europe,Rest of Europe: Other Europe,0.37
+2011,Camden,E09000007,Total,220338,289,Europe,Rest of Europe: Turkey,0.13
+2011,City of London,E09000001,Total,7375,11,Europe,Rest of Europe: Turkey,0.15
+2011,Hackney,E09000012,Total,246270,1796,Europe,Rest of Europe: Turkey,0.73
+2011,Hammersmith and Fulham,E09000013,Total,182493,326,Europe,Rest of Europe: Turkey,0.18
+2011,Haringey,E09000014,Total,254926,1868,Europe,Rest of Europe: Turkey,0.73
+2011,Islington,E09000019,Total,206125,807,Europe,Rest of Europe: Turkey,0.39
+2011,Kensington and Chelsea,E09000020,Total,158649,425,Europe,Rest of Europe: Turkey,0.27
+2011,Lambeth,E09000022,Total,303086,237,Europe,Rest of Europe: Turkey,0.08
+2011,Lewisham,E09000023,Total,275885,450,Europe,Rest of Europe: Turkey,0.16
+2011,Newham,E09000025,Total,307984,240,Europe,Rest of Europe: Turkey,0.08
+2011,Southwark,E09000028,Total,288283,419,Europe,Rest of Europe: Turkey,0.15
+2011,Tower Hamlets,E09000030,Total,254096,455,Europe,Rest of Europe: Turkey,0.18
+2011,Wandsworth,E09000032,Total,306995,460,Europe,Rest of Europe: Turkey,0.15
+2011,Westminster,E09000033,Total,219396,584,Europe,Rest of Europe: Turkey,0.27
+2011,Barking and Dagenham,E09000002,Total,185911,180,Europe,Rest of Europe: Turkey,0.1
+2011,Barnet,E09000003,Total,356386,562,Europe,Rest of Europe: Turkey,0.16
+2011,Bexley,E09000004,Total,231997,123,Europe,Rest of Europe: Turkey,0.05
+2011,Brent,E09000005,Total,311215,143,Europe,Rest of Europe: Turkey,0.05
+2011,Bromley,E09000006,Total,309392,184,Europe,Rest of Europe: Turkey,0.06
+2011,Croydon,E09000008,Total,363378,312,Europe,Rest of Europe: Turkey,0.09
+2011,Ealing,E09000009,Total,338449,197,Europe,Rest of Europe: Turkey,0.06
+2011,Enfield,E09000010,Total,312466,2847,Europe,Rest of Europe: Turkey,0.91
+2011,Greenwich,E09000011,Total,254557,321,Europe,Rest of Europe: Turkey,0.13
+2011,Harrow,E09000015,Total,239056,118,Europe,Rest of Europe: Turkey,0.05
+2011,Havering,E09000016,Total,237232,133,Europe,Rest of Europe: Turkey,0.06
+2011,Hillingdon,E09000017,Total,273936,164,Europe,Rest of Europe: Turkey,0.06
+2011,Hounslow,E09000018,Total,253957,164,Europe,Rest of Europe: Turkey,0.06
+2011,Kingston upon Thames,E09000021,Total,160060,141,Europe,Rest of Europe: Turkey,0.09
+2011,Merton,E09000024,Total,199693,207,Europe,Rest of Europe: Turkey,0.1
+2011,Redbridge,E09000026,Total,278970,222,Europe,Rest of Europe: Turkey,0.08
+2011,Richmond upon Thames,E09000027,Total,186990,151,Europe,Rest of Europe: Turkey,0.08
+2011,Sutton,E09000029,Total,190146,149,Europe,Rest of Europe: Turkey,0.08
+2011,Waltham Forest,E09000031,Total,258249,723,Europe,Rest of Europe: Turkey,0.28
+2011,Camden,E09000007,Total,220338,151560,Europe,United Kingdom,68.79
+2011,City of London,E09000001,Total,7375,5347,Europe,United Kingdom,72.5
+2011,Hackney,E09000012,Total,246270,177517,Europe,United Kingdom,72.08
+2011,Hammersmith and Fulham,E09000013,Total,182493,122034,Europe,United Kingdom,66.87
+2011,Haringey,E09000014,Total,254926,174726,Europe,United Kingdom,68.54
+2011,Islington,E09000019,Total,206125,147787,Europe,United Kingdom,71.7
+2011,Kensington and Chelsea,E09000020,Total,158649,95979,Europe,United Kingdom,60.5
+2011,Lambeth,E09000022,Total,303086,208270,Europe,United Kingdom,68.72
+2011,Lewisham,E09000023,Total,275885,193451,Europe,United Kingdom,70.12
+2011,Newham,E09000025,Total,307984,184579,Europe,United Kingdom,59.93
+2011,Southwark,E09000028,Total,288283,195938,Europe,United Kingdom,67.97
+2011,Tower Hamlets,E09000030,Total,254096,176531,Europe,United Kingdom,69.47
+2011,Wandsworth,E09000032,Total,306995,220193,Europe,United Kingdom,71.73
+2011,Westminster,E09000033,Total,219396,135535,Europe,United Kingdom,61.78
+2011,Barking and Dagenham,E09000002,Total,185911,120942,Europe,United Kingdom,65.05
+2011,Barnet,E09000003,Total,356386,260916,Europe,United Kingdom,73.21
+2011,Bexley,E09000004,Total,231997,186904,Europe,United Kingdom,80.56
+2011,Brent,E09000005,Total,311215,202334,Europe,United Kingdom,65.01
+2011,Bromley,E09000006,Total,309392,256502,Europe,United Kingdom,82.91
+2011,Croydon,E09000008,Total,363378,272981,Europe,United Kingdom,75.12
+2011,Ealing,E09000009,Total,338449,225561,Europe,United Kingdom,66.65
+2011,Enfield,E09000010,Total,312466,235819,Europe,United Kingdom,75.47
+2011,Greenwich,E09000011,Total,254557,172792,Europe,United Kingdom,67.88
+2011,Harrow,E09000015,Total,239056,178396,Europe,United Kingdom,74.63
+2011,Havering,E09000016,Total,237232,194839,Europe,United Kingdom,82.13
+2011,Hillingdon,E09000017,Total,273936,204579,Europe,United Kingdom,74.68
+2011,Hounslow,E09000018,Total,253957,170386,Europe,United Kingdom,67.09
+2011,Kingston upon Thames,E09000021,Total,160060,121863,Europe,United Kingdom,76.14
+2011,Merton,E09000024,Total,199693,139116,Europe,United Kingdom,69.66
+2011,Redbridge,E09000026,Total,278970,211701,Europe,United Kingdom,75.89
+2011,Richmond upon Thames,E09000027,Total,186990,148370,Europe,United Kingdom,79.35
+2011,Sutton,E09000029,Total,190146,150697,Europe,United Kingdom,79.25
+2011,Waltham Forest,E09000031,Total,258249,176847,Europe,United Kingdom,68.48
+2011,Camden,E09000007,Total,220338,185,Middle East and Asia,Central Asia,0.08
+2011,City of London,E09000001,Total,7375,10,Middle East and Asia,Central Asia,0.14
+2011,Hackney,E09000012,Total,246270,120,Middle East and Asia,Central Asia,0.05
+2011,Hammersmith and Fulham,E09000013,Total,182493,166,Middle East and Asia,Central Asia,0.09
+2011,Haringey,E09000014,Total,254926,160,Middle East and Asia,Central Asia,0.06
+2011,Islington,E09000019,Total,206125,107,Middle East and Asia,Central Asia,0.05
+2011,Kensington and Chelsea,E09000020,Total,158649,165,Middle East and Asia,Central Asia,0.1
+2011,Lambeth,E09000022,Total,303086,100,Middle East and Asia,Central Asia,0.03
+2011,Lewisham,E09000023,Total,275885,69,Middle East and Asia,Central Asia,0.03
+2011,Newham,E09000025,Total,307984,154,Middle East and Asia,Central Asia,0.05
+2011,Southwark,E09000028,Total,288283,146,Middle East and Asia,Central Asia,0.05
+2011,Tower Hamlets,E09000030,Total,254096,349,Middle East and Asia,Central Asia,0.14
+2011,Wandsworth,E09000032,Total,306995,51,Middle East and Asia,Central Asia,0.02
+2011,Westminster,E09000033,Total,219396,376,Middle East and Asia,Central Asia,0.17
+2011,Barking and Dagenham,E09000002,Total,185911,37,Middle East and Asia,Central Asia,0.02
+2011,Barnet,E09000003,Total,356386,146,Middle East and Asia,Central Asia,0.04
+2011,Bexley,E09000004,Total,231997,27,Middle East and Asia,Central Asia,0.01
+2011,Brent,E09000005,Total,311215,135,Middle East and Asia,Central Asia,0.04
+2011,Bromley,E09000006,Total,309392,37,Middle East and Asia,Central Asia,0.01
+2011,Croydon,E09000008,Total,363378,42,Middle East and Asia,Central Asia,0.01
+2011,Ealing,E09000009,Total,338449,116,Middle East and Asia,Central Asia,0.03
+2011,Enfield,E09000010,Total,312466,61,Middle East and Asia,Central Asia,0.02
+2011,Greenwich,E09000011,Total,254557,69,Middle East and Asia,Central Asia,0.03
+2011,Harrow,E09000015,Total,239056,11,Middle East and Asia,Central Asia,0
+2011,Havering,E09000016,Total,237232,4,Middle East and Asia,Central Asia,0
+2011,Hillingdon,E09000017,Total,273936,27,Middle East and Asia,Central Asia,0.01
+2011,Hounslow,E09000018,Total,253957,66,Middle East and Asia,Central Asia,0.03
+2011,Kingston upon Thames,E09000021,Total,160060,51,Middle East and Asia,Central Asia,0.03
+2011,Merton,E09000024,Total,199693,58,Middle East and Asia,Central Asia,0.03
+2011,Redbridge,E09000026,Total,278970,27,Middle East and Asia,Central Asia,0.01
+2011,Richmond upon Thames,E09000027,Total,186990,46,Middle East and Asia,Central Asia,0.02
+2011,Sutton,E09000029,Total,190146,15,Middle East and Asia,Central Asia,0.01
+2011,Waltham Forest,E09000031,Total,258249,115,Middle East and Asia,Central Asia,0.04
+2011,Camden,E09000007,Total,220338,1386,Middle East and Asia,China,0.63
+2011,City of London,E09000001,Total,7375,66,Middle East and Asia,China,0.89
+2011,Hackney,E09000012,Total,246270,575,Middle East and Asia,China,0.23
+2011,Hammersmith and Fulham,E09000013,Total,182493,724,Middle East and Asia,China,0.4
+2011,Haringey,E09000014,Total,254926,845,Middle East and Asia,China,0.33
+2011,Islington,E09000019,Total,206125,988,Middle East and Asia,China,0.48
+2011,Kensington and Chelsea,E09000020,Total,158649,887,Middle East and Asia,China,0.56
+2011,Lambeth,E09000022,Total,303086,650,Middle East and Asia,China,0.21
+2011,Lewisham,E09000023,Total,275885,1286,Middle East and Asia,China,0.47
+2011,Newham,E09000025,Total,307984,1025,Middle East and Asia,China,0.33
+2011,Southwark,E09000028,Total,288283,2235,Middle East and Asia,China,0.78
+2011,Tower Hamlets,E09000030,Total,254096,2877,Middle East and Asia,China,1.13
+2011,Wandsworth,E09000032,Total,306995,510,Middle East and Asia,China,0.17
+2011,Westminster,E09000033,Total,219396,1125,Middle East and Asia,China,0.51
+2011,Barking and Dagenham,E09000002,Total,185911,251,Middle East and Asia,China,0.14
+2011,Barnet,E09000003,Total,356386,1450,Middle East and Asia,China,0.41
+2011,Bexley,E09000004,Total,231997,214,Middle East and Asia,China,0.09
+2011,Brent,E09000005,Total,311215,551,Middle East and Asia,China,0.18
+2011,Bromley,E09000006,Total,309392,292,Middle East and Asia,China,0.09
+2011,Croydon,E09000008,Total,363378,604,Middle East and Asia,China,0.17
+2011,Ealing,E09000009,Total,338449,662,Middle East and Asia,China,0.2
+2011,Enfield,E09000010,Total,312466,305,Middle East and Asia,China,0.1
+2011,Greenwich,E09000011,Total,254557,1268,Middle East and Asia,China,0.5
+2011,Harrow,E09000015,Total,239056,213,Middle East and Asia,China,0.09
+2011,Havering,E09000016,Total,237232,143,Middle East and Asia,China,0.06
+2011,Hillingdon,E09000017,Total,273936,688,Middle East and Asia,China,0.25
+2011,Hounslow,E09000018,Total,253957,377,Middle East and Asia,China,0.15
+2011,Kingston upon Thames,E09000021,Total,160060,464,Middle East and Asia,China,0.29
+2011,Merton,E09000024,Total,199693,400,Middle East and Asia,China,0.2
+2011,Redbridge,E09000026,Total,278970,251,Middle East and Asia,China,0.09
+2011,Richmond upon Thames,E09000027,Total,186990,238,Middle East and Asia,China,0.13
+2011,Sutton,E09000029,Total,190146,283,Middle East and Asia,China,0.15
+2011,Waltham Forest,E09000031,Total,258249,694,Middle East and Asia,China,0.27
+2011,Camden,E09000007,Total,220338,205,Middle East and Asia,Hong Kong,0.09
+2011,City of London,E09000001,Total,7375,5,Middle East and Asia,Hong Kong,0.07
+2011,Hackney,E09000012,Total,246270,54,Middle East and Asia,Hong Kong,0.02
+2011,Hammersmith and Fulham,E09000013,Total,182493,60,Middle East and Asia,Hong Kong,0.03
+2011,Haringey,E09000014,Total,254926,36,Middle East and Asia,Hong Kong,0.01
+2011,Islington,E09000019,Total,206125,84,Middle East and Asia,Hong Kong,0.04
+2011,Kensington and Chelsea,E09000020,Total,158649,82,Middle East and Asia,Hong Kong,0.05
+2011,Lambeth,E09000022,Total,303086,80,Middle East and Asia,Hong Kong,0.03
+2011,Lewisham,E09000023,Total,275885,51,Middle East and Asia,Hong Kong,0.02
+2011,Newham,E09000025,Total,307984,38,Middle East and Asia,Hong Kong,0.01
+2011,Southwark,E09000028,Total,288283,152,Middle East and Asia,Hong Kong,0.05
+2011,Tower Hamlets,E09000030,Total,254096,148,Middle East and Asia,Hong Kong,0.06
+2011,Wandsworth,E09000032,Total,306995,30,Middle East and Asia,Hong Kong,0.01
+2011,Westminster,E09000033,Total,219396,152,Middle East and Asia,Hong Kong,0.07
+2011,Barking and Dagenham,E09000002,Total,185911,9,Middle East and Asia,Hong Kong,0
+2011,Barnet,E09000003,Total,356386,87,Middle East and Asia,Hong Kong,0.02
+2011,Bexley,E09000004,Total,231997,13,Middle East and Asia,Hong Kong,0.01
+2011,Brent,E09000005,Total,311215,41,Middle East and Asia,Hong Kong,0.01
+2011,Bromley,E09000006,Total,309392,31,Middle East and Asia,Hong Kong,0.01
+2011,Croydon,E09000008,Total,363378,30,Middle East and Asia,Hong Kong,0.01
+2011,Ealing,E09000009,Total,338449,46,Middle East and Asia,Hong Kong,0.01
+2011,Enfield,E09000010,Total,312466,35,Middle East and Asia,Hong Kong,0.01
+2011,Greenwich,E09000011,Total,254557,54,Middle East and Asia,Hong Kong,0.02
+2011,Harrow,E09000015,Total,239056,40,Middle East and Asia,Hong Kong,0.02
+2011,Havering,E09000016,Total,237232,12,Middle East and Asia,Hong Kong,0.01
+2011,Hillingdon,E09000017,Total,273936,63,Middle East and Asia,Hong Kong,0.02
+2011,Hounslow,E09000018,Total,253957,21,Middle East and Asia,Hong Kong,0.01
+2011,Kingston upon Thames,E09000021,Total,160060,62,Middle East and Asia,Hong Kong,0.04
+2011,Merton,E09000024,Total,199693,16,Middle East and Asia,Hong Kong,0.01
+2011,Redbridge,E09000026,Total,278970,19,Middle East and Asia,Hong Kong,0.01
+2011,Richmond upon Thames,E09000027,Total,186990,13,Middle East and Asia,Hong Kong,0.01
+2011,Sutton,E09000029,Total,190146,17,Middle East and Asia,Hong Kong,0.01
+2011,Waltham Forest,E09000031,Total,258249,13,Middle East and Asia,Hong Kong,0.01
+2011,Camden,E09000007,Total,220338,1843,Middle East and Asia,Japan,0.84
+2011,City of London,E09000001,Total,7375,48,Middle East and Asia,Japan,0.65
+2011,Hackney,E09000012,Total,246270,645,Middle East and Asia,Japan,0.26
+2011,Hammersmith and Fulham,E09000013,Total,182493,518,Middle East and Asia,Japan,0.28
+2011,Haringey,E09000014,Total,254926,623,Middle East and Asia,Japan,0.24
+2011,Islington,E09000019,Total,206125,657,Middle East and Asia,Japan,0.32
+2011,Kensington and Chelsea,E09000020,Total,158649,1023,Middle East and Asia,Japan,0.64
+2011,Lambeth,E09000022,Total,303086,356,Middle East and Asia,Japan,0.12
+2011,Lewisham,E09000023,Total,275885,487,Middle East and Asia,Japan,0.18
+2011,Newham,E09000025,Total,307984,117,Middle East and Asia,Japan,0.04
+2011,Southwark,E09000028,Total,288283,552,Middle East and Asia,Japan,0.19
+2011,Tower Hamlets,E09000030,Total,254096,597,Middle East and Asia,Japan,0.23
+2011,Wandsworth,E09000032,Total,306995,600,Middle East and Asia,Japan,0.2
+2011,Westminster,E09000033,Total,219396,1825,Middle East and Asia,Japan,0.83
+2011,Barking and Dagenham,E09000002,Total,185911,21,Middle East and Asia,Japan,0.01
+2011,Barnet,E09000003,Total,356386,2782,Middle East and Asia,Japan,0.78
+2011,Bexley,E09000004,Total,231997,61,Middle East and Asia,Japan,0.03
+2011,Brent,E09000005,Total,311215,412,Middle East and Asia,Japan,0.13
+2011,Bromley,E09000006,Total,309392,270,Middle East and Asia,Japan,0.09
+2011,Croydon,E09000008,Total,363378,360,Middle East and Asia,Japan,0.1
+2011,Ealing,E09000009,Total,338449,2545,Middle East and Asia,Japan,0.75
+2011,Enfield,E09000010,Total,312466,176,Middle East and Asia,Japan,0.06
+2011,Greenwich,E09000011,Total,254557,225,Middle East and Asia,Japan,0.09
+2011,Harrow,E09000015,Total,239056,226,Middle East and Asia,Japan,0.09
+2011,Havering,E09000016,Total,237232,33,Middle East and Asia,Japan,0.01
+2011,Hillingdon,E09000017,Total,273936,183,Middle East and Asia,Japan,0.07
+2011,Hounslow,E09000018,Total,253957,305,Middle East and Asia,Japan,0.12
+2011,Kingston upon Thames,E09000021,Total,160060,468,Middle East and Asia,Japan,0.29
+2011,Merton,E09000024,Total,199693,685,Middle East and Asia,Japan,0.34
+2011,Redbridge,E09000026,Total,278970,119,Middle East and Asia,Japan,0.04
+2011,Richmond upon Thames,E09000027,Total,186990,518,Middle East and Asia,Japan,0.28
+2011,Sutton,E09000029,Total,190146,184,Middle East and Asia,Japan,0.1
+2011,Waltham Forest,E09000031,Total,258249,157,Middle East and Asia,Japan,0.06
+2011,Camden,E09000007,Total,220338,815,Middle East and Asia,Other Eastern Asia,0.37
+2011,City of London,E09000001,Total,7375,18,Middle East and Asia,Other Eastern Asia,0.24
+2011,Hackney,E09000012,Total,246270,287,Middle East and Asia,Other Eastern Asia,0.12
+2011,Hammersmith and Fulham,E09000013,Total,182493,327,Middle East and Asia,Other Eastern Asia,0.18
+2011,Haringey,E09000014,Total,254926,133,Middle East and Asia,Other Eastern Asia,0.05
+2011,Islington,E09000019,Total,206125,353,Middle East and Asia,Other Eastern Asia,0.17
+2011,Kensington and Chelsea,E09000020,Total,158649,288,Middle East and Asia,Other Eastern Asia,0.18
+2011,Lambeth,E09000022,Total,303086,289,Middle East and Asia,Other Eastern Asia,0.1
+2011,Lewisham,E09000023,Total,275885,302,Middle East and Asia,Other Eastern Asia,0.11
+2011,Newham,E09000025,Total,307984,102,Middle East and Asia,Other Eastern Asia,0.03
+2011,Southwark,E09000028,Total,288283,546,Middle East and Asia,Other Eastern Asia,0.19
+2011,Tower Hamlets,E09000030,Total,254096,510,Middle East and Asia,Other Eastern Asia,0.2
+2011,Wandsworth,E09000032,Total,306995,271,Middle East and Asia,Other Eastern Asia,0.09
+2011,Westminster,E09000033,Total,219396,631,Middle East and Asia,Other Eastern Asia,0.29
+2011,Barking and Dagenham,E09000002,Total,185911,45,Middle East and Asia,Other Eastern Asia,0.02
+2011,Barnet,E09000003,Total,356386,530,Middle East and Asia,Other Eastern Asia,0.15
+2011,Bexley,E09000004,Total,231997,13,Middle East and Asia,Other Eastern Asia,0.01
+2011,Brent,E09000005,Total,311215,156,Middle East and Asia,Other Eastern Asia,0.05
+2011,Bromley,E09000006,Total,309392,51,Middle East and Asia,Other Eastern Asia,0.02
+2011,Croydon,E09000008,Total,363378,93,Middle East and Asia,Other Eastern Asia,0.03
+2011,Ealing,E09000009,Total,338449,191,Middle East and Asia,Other Eastern Asia,0.06
+2011,Enfield,E09000010,Total,312466,41,Middle East and Asia,Other Eastern Asia,0.01
+2011,Greenwich,E09000011,Total,254557,125,Middle East and Asia,Other Eastern Asia,0.05
+2011,Harrow,E09000015,Total,239056,99,Middle East and Asia,Other Eastern Asia,0.04
+2011,Havering,E09000016,Total,237232,25,Middle East and Asia,Other Eastern Asia,0.01
+2011,Hillingdon,E09000017,Total,273936,181,Middle East and Asia,Other Eastern Asia,0.07
+2011,Hounslow,E09000018,Total,253957,128,Middle East and Asia,Other Eastern Asia,0.05
+2011,Kingston upon Thames,E09000021,Total,160060,2023,Middle East and Asia,Other Eastern Asia,1.26
+2011,Merton,E09000024,Total,199693,750,Middle East and Asia,Other Eastern Asia,0.38
+2011,Redbridge,E09000026,Total,278970,29,Middle East and Asia,Other Eastern Asia,0.01
+2011,Richmond upon Thames,E09000027,Total,186990,115,Middle East and Asia,Other Eastern Asia,0.06
+2011,Sutton,E09000029,Total,190146,436,Middle East and Asia,Other Eastern Asia,0.23
+2011,Waltham Forest,E09000031,Total,258249,56,Middle East and Asia,Other Eastern Asia,0.02
+2011,Camden,E09000007,Total,220338,361,Middle East and Asia,Iran,0.16
+2011,City of London,E09000001,Total,7375,0,Middle East and Asia,Iran,0
+2011,Hackney,E09000012,Total,246270,66,Middle East and Asia,Iran,0.03
+2011,Hammersmith and Fulham,E09000013,Total,182493,337,Middle East and Asia,Iran,0.18
+2011,Haringey,E09000014,Total,254926,222,Middle East and Asia,Iran,0.09
+2011,Islington,E09000019,Total,206125,147,Middle East and Asia,Iran,0.07
+2011,Kensington and Chelsea,E09000020,Total,158649,434,Middle East and Asia,Iran,0.27
+2011,Lambeth,E09000022,Total,303086,70,Middle East and Asia,Iran,0.02
+2011,Lewisham,E09000023,Total,275885,92,Middle East and Asia,Iran,0.03
+2011,Newham,E09000025,Total,307984,163,Middle East and Asia,Iran,0.05
+2011,Southwark,E09000028,Total,288283,133,Middle East and Asia,Iran,0.05
+2011,Tower Hamlets,E09000030,Total,254096,145,Middle East and Asia,Iran,0.06
+2011,Wandsworth,E09000032,Total,306995,201,Middle East and Asia,Iran,0.07
+2011,Westminster,E09000033,Total,219396,647,Middle East and Asia,Iran,0.29
+2011,Barking and Dagenham,E09000002,Total,185911,41,Middle East and Asia,Iran,0.02
+2011,Barnet,E09000003,Total,356386,1501,Middle East and Asia,Iran,0.42
+2011,Bexley,E09000004,Total,231997,10,Middle East and Asia,Iran,0
+2011,Brent,E09000005,Total,311215,512,Middle East and Asia,Iran,0.16
+2011,Bromley,E09000006,Total,309392,59,Middle East and Asia,Iran,0.02
+2011,Croydon,E09000008,Total,363378,120,Middle East and Asia,Iran,0.03
+2011,Ealing,E09000009,Total,338449,700,Middle East and Asia,Iran,0.21
+2011,Enfield,E09000010,Total,312466,246,Middle East and Asia,Iran,0.08
+2011,Greenwich,E09000011,Total,254557,57,Middle East and Asia,Iran,0.02
+2011,Harrow,E09000015,Total,239056,199,Middle East and Asia,Iran,0.08
+2011,Havering,E09000016,Total,237232,21,Middle East and Asia,Iran,0.01
+2011,Hillingdon,E09000017,Total,273936,268,Middle East and Asia,Iran,0.1
+2011,Hounslow,E09000018,Total,253957,213,Middle East and Asia,Iran,0.08
+2011,Kingston upon Thames,E09000021,Total,160060,281,Middle East and Asia,Iran,0.18
+2011,Merton,E09000024,Total,199693,107,Middle East and Asia,Iran,0.05
+2011,Redbridge,E09000026,Total,278970,73,Middle East and Asia,Iran,0.03
+2011,Richmond upon Thames,E09000027,Total,186990,215,Middle East and Asia,Iran,0.11
+2011,Sutton,E09000029,Total,190146,130,Middle East and Asia,Iran,0.07
+2011,Waltham Forest,E09000031,Total,258249,55,Middle East and Asia,Iran,0.02
+2011,Camden,E09000007,Total,220338,50,Middle East and Asia,Iraq,0.02
+2011,City of London,E09000001,Total,7375,0,Middle East and Asia,Iraq,0
+2011,Hackney,E09000012,Total,246270,34,Middle East and Asia,Iraq,0.01
+2011,Hammersmith and Fulham,E09000013,Total,182493,113,Middle East and Asia,Iraq,0.06
+2011,Haringey,E09000014,Total,254926,43,Middle East and Asia,Iraq,0.02
+2011,Islington,E09000019,Total,206125,23,Middle East and Asia,Iraq,0.01
+2011,Kensington and Chelsea,E09000020,Total,158649,133,Middle East and Asia,Iraq,0.08
+2011,Lambeth,E09000022,Total,303086,25,Middle East and Asia,Iraq,0.01
+2011,Lewisham,E09000023,Total,275885,21,Middle East and Asia,Iraq,0.01
+2011,Newham,E09000025,Total,307984,20,Middle East and Asia,Iraq,0.01
+2011,Southwark,E09000028,Total,288283,64,Middle East and Asia,Iraq,0.02
+2011,Tower Hamlets,E09000030,Total,254096,31,Middle East and Asia,Iraq,0.01
+2011,Wandsworth,E09000032,Total,306995,31,Middle East and Asia,Iraq,0.01
+2011,Westminster,E09000033,Total,219396,242,Middle East and Asia,Iraq,0.11
+2011,Barking and Dagenham,E09000002,Total,185911,10,Middle East and Asia,Iraq,0.01
+2011,Barnet,E09000003,Total,356386,130,Middle East and Asia,Iraq,0.04
+2011,Bexley,E09000004,Total,231997,7,Middle East and Asia,Iraq,0
+2011,Brent,E09000005,Total,311215,230,Middle East and Asia,Iraq,0.07
+2011,Bromley,E09000006,Total,309392,67,Middle East and Asia,Iraq,0.02
+2011,Croydon,E09000008,Total,363378,56,Middle East and Asia,Iraq,0.02
+2011,Ealing,E09000009,Total,338449,271,Middle East and Asia,Iraq,0.08
+2011,Enfield,E09000010,Total,312466,50,Middle East and Asia,Iraq,0.02
+2011,Greenwich,E09000011,Total,254557,35,Middle East and Asia,Iraq,0.01
+2011,Harrow,E09000015,Total,239056,86,Middle East and Asia,Iraq,0.04
+2011,Havering,E09000016,Total,237232,6,Middle East and Asia,Iraq,0
+2011,Hillingdon,E09000017,Total,273936,107,Middle East and Asia,Iraq,0.04
+2011,Hounslow,E09000018,Total,253957,67,Middle East and Asia,Iraq,0.03
+2011,Kingston upon Thames,E09000021,Total,160060,104,Middle East and Asia,Iraq,0.06
+2011,Merton,E09000024,Total,199693,24,Middle East and Asia,Iraq,0.01
+2011,Redbridge,E09000026,Total,278970,36,Middle East and Asia,Iraq,0.01
+2011,Richmond upon Thames,E09000027,Total,186990,31,Middle East and Asia,Iraq,0.02
+2011,Sutton,E09000029,Total,190146,71,Middle East and Asia,Iraq,0.04
+2011,Waltham Forest,E09000031,Total,258249,13,Middle East and Asia,Iraq,0.01
+2011,Camden,E09000007,Total,220338,933,Middle East and Asia,Other Middle East,0.42
+2011,City of London,E09000001,Total,7375,13,Middle East and Asia,Other Middle East,0.18
+2011,Hackney,E09000012,Total,246270,627,Middle East and Asia,Other Middle East,0.25
+2011,Hammersmith and Fulham,E09000013,Total,182493,551,Middle East and Asia,Other Middle East,0.3
+2011,Haringey,E09000014,Total,254926,336,Middle East and Asia,Other Middle East,0.13
+2011,Islington,E09000019,Total,206125,328,Middle East and Asia,Other Middle East,0.16
+2011,Kensington and Chelsea,E09000020,Total,158649,956,Middle East and Asia,Other Middle East,0.6
+2011,Lambeth,E09000022,Total,303086,212,Middle East and Asia,Other Middle East,0.07
+2011,Lewisham,E09000023,Total,275885,132,Middle East and Asia,Other Middle East,0.05
+2011,Newham,E09000025,Total,307984,242,Middle East and Asia,Other Middle East,0.08
+2011,Southwark,E09000028,Total,288283,222,Middle East and Asia,Other Middle East,0.08
+2011,Tower Hamlets,E09000030,Total,254096,391,Middle East and Asia,Other Middle East,0.15
+2011,Wandsworth,E09000032,Total,306995,341,Middle East and Asia,Other Middle East,0.11
+2011,Westminster,E09000033,Total,219396,2185,Middle East and Asia,Other Middle East,1
+2011,Barking and Dagenham,E09000002,Total,185911,46,Middle East and Asia,Other Middle East,0.02
+2011,Barnet,E09000003,Total,356386,1635,Middle East and Asia,Other Middle East,0.46
+2011,Bexley,E09000004,Total,231997,26,Middle East and Asia,Other Middle East,0.01
+2011,Brent,E09000005,Total,311215,522,Middle East and Asia,Other Middle East,0.17
+2011,Bromley,E09000006,Total,309392,86,Middle East and Asia,Other Middle East,0.03
+2011,Croydon,E09000008,Total,363378,51,Middle East and Asia,Other Middle East,0.01
+2011,Ealing,E09000009,Total,338449,1456,Middle East and Asia,Other Middle East,0.43
+2011,Enfield,E09000010,Total,312466,117,Middle East and Asia,Other Middle East,0.04
+2011,Greenwich,E09000011,Total,254557,101,Middle East and Asia,Other Middle East,0.04
+2011,Harrow,E09000015,Total,239056,167,Middle East and Asia,Other Middle East,0.07
+2011,Havering,E09000016,Total,237232,12,Middle East and Asia,Other Middle East,0.01
+2011,Hillingdon,E09000017,Total,273936,584,Middle East and Asia,Other Middle East,0.21
+2011,Hounslow,E09000018,Total,253957,285,Middle East and Asia,Other Middle East,0.11
+2011,Kingston upon Thames,E09000021,Total,160060,299,Middle East and Asia,Other Middle East,0.19
+2011,Merton,E09000024,Total,199693,141,Middle East and Asia,Other Middle East,0.07
+2011,Redbridge,E09000026,Total,278970,129,Middle East and Asia,Other Middle East,0.05
+2011,Richmond upon Thames,E09000027,Total,186990,165,Middle East and Asia,Other Middle East,0.09
+2011,Sutton,E09000029,Total,190146,34,Middle East and Asia,Other Middle East,0.02
+2011,Waltham Forest,E09000031,Total,258249,84,Middle East and Asia,Other Middle East,0.03
+2011,Camden,E09000007,Total,220338,1002,Middle East and Asia,Malaysia,0.45
+2011,City of London,E09000001,Total,7375,31,Middle East and Asia,Malaysia,0.42
+2011,Hackney,E09000012,Total,246270,291,Middle East and Asia,Malaysia,0.12
+2011,Hammersmith and Fulham,E09000013,Total,182493,492,Middle East and Asia,Malaysia,0.27
+2011,Haringey,E09000014,Total,254926,365,Middle East and Asia,Malaysia,0.14
+2011,Islington,E09000019,Total,206125,504,Middle East and Asia,Malaysia,0.24
+2011,Kensington and Chelsea,E09000020,Total,158649,600,Middle East and Asia,Malaysia,0.38
+2011,Lambeth,E09000022,Total,303086,384,Middle East and Asia,Malaysia,0.13
+2011,Lewisham,E09000023,Total,275885,382,Middle East and Asia,Malaysia,0.14
+2011,Newham,E09000025,Total,307984,551,Middle East and Asia,Malaysia,0.18
+2011,Southwark,E09000028,Total,288283,691,Middle East and Asia,Malaysia,0.24
+2011,Tower Hamlets,E09000030,Total,254096,779,Middle East and Asia,Malaysia,0.31
+2011,Wandsworth,E09000032,Total,306995,452,Middle East and Asia,Malaysia,0.15
+2011,Westminster,E09000033,Total,219396,1292,Middle East and Asia,Malaysia,0.59
+2011,Barking and Dagenham,E09000002,Total,185911,169,Middle East and Asia,Malaysia,0.09
+2011,Barnet,E09000003,Total,356386,1093,Middle East and Asia,Malaysia,0.31
+2011,Bexley,E09000004,Total,231997,115,Middle East and Asia,Malaysia,0.05
+2011,Brent,E09000005,Total,311215,614,Middle East and Asia,Malaysia,0.2
+2011,Bromley,E09000006,Total,309392,239,Middle East and Asia,Malaysia,0.08
+2011,Croydon,E09000008,Total,363378,384,Middle East and Asia,Malaysia,0.11
+2011,Ealing,E09000009,Total,338449,607,Middle East and Asia,Malaysia,0.18
+2011,Enfield,E09000010,Total,312466,302,Middle East and Asia,Malaysia,0.1
+2011,Greenwich,E09000011,Total,254557,362,Middle East and Asia,Malaysia,0.14
+2011,Harrow,E09000015,Total,239056,381,Middle East and Asia,Malaysia,0.16
+2011,Havering,E09000016,Total,237232,154,Middle East and Asia,Malaysia,0.06
+2011,Hillingdon,E09000017,Total,273936,364,Middle East and Asia,Malaysia,0.13
+2011,Hounslow,E09000018,Total,253957,329,Middle East and Asia,Malaysia,0.13
+2011,Kingston upon Thames,E09000021,Total,160060,224,Middle East and Asia,Malaysia,0.14
+2011,Merton,E09000024,Total,199693,310,Middle East and Asia,Malaysia,0.16
+2011,Redbridge,E09000026,Total,278970,389,Middle East and Asia,Malaysia,0.14
+2011,Richmond upon Thames,E09000027,Total,186990,189,Middle East and Asia,Malaysia,0.1
+2011,Sutton,E09000029,Total,190146,278,Middle East and Asia,Malaysia,0.15
+2011,Waltham Forest,E09000031,Total,258249,308,Middle East and Asia,Malaysia,0.12
+2011,Camden,E09000007,Total,220338,463,Middle East and Asia,Other South-East Asia,0.21
+2011,City of London,E09000001,Total,7375,19,Middle East and Asia,Other South-East Asia,0.26
+2011,Hackney,E09000012,Total,246270,337,Middle East and Asia,Other South-East Asia,0.14
+2011,Hammersmith and Fulham,E09000013,Total,182493,495,Middle East and Asia,Other South-East Asia,0.27
+2011,Haringey,E09000014,Total,254926,262,Middle East and Asia,Other South-East Asia,0.1
+2011,Islington,E09000019,Total,206125,313,Middle East and Asia,Other South-East Asia,0.15
+2011,Kensington and Chelsea,E09000020,Total,158649,652,Middle East and Asia,Other South-East Asia,0.41
+2011,Lambeth,E09000022,Total,303086,305,Middle East and Asia,Other South-East Asia,0.1
+2011,Lewisham,E09000023,Total,275885,365,Middle East and Asia,Other South-East Asia,0.13
+2011,Newham,E09000025,Total,307984,387,Middle East and Asia,Other South-East Asia,0.13
+2011,Southwark,E09000028,Total,288283,589,Middle East and Asia,Other South-East Asia,0.2
+2011,Tower Hamlets,E09000030,Total,254096,531,Middle East and Asia,Other South-East Asia,0.21
+2011,Wandsworth,E09000032,Total,306995,479,Middle East and Asia,Other South-East Asia,0.16
+2011,Westminster,E09000033,Total,219396,767,Middle East and Asia,Other South-East Asia,0.35
+2011,Barking and Dagenham,E09000002,Total,185911,134,Middle East and Asia,Other South-East Asia,0.07
+2011,Barnet,E09000003,Total,356386,569,Middle East and Asia,Other South-East Asia,0.16
+2011,Bexley,E09000004,Total,231997,175,Middle East and Asia,Other South-East Asia,0.08
+2011,Brent,E09000005,Total,311215,515,Middle East and Asia,Other South-East Asia,0.17
+2011,Bromley,E09000006,Total,309392,159,Middle East and Asia,Other South-East Asia,0.05
+2011,Croydon,E09000008,Total,363378,300,Middle East and Asia,Other South-East Asia,0.08
+2011,Ealing,E09000009,Total,338449,524,Middle East and Asia,Other South-East Asia,0.15
+2011,Enfield,E09000010,Total,312466,164,Middle East and Asia,Other South-East Asia,0.05
+2011,Greenwich,E09000011,Total,254557,356,Middle East and Asia,Other South-East Asia,0.14
+2011,Harrow,E09000015,Total,239056,115,Middle East and Asia,Other South-East Asia,0.05
+2011,Havering,E09000016,Total,237232,141,Middle East and Asia,Other South-East Asia,0.06
+2011,Hillingdon,E09000017,Total,273936,356,Middle East and Asia,Other South-East Asia,0.13
+2011,Hounslow,E09000018,Total,253957,557,Middle East and Asia,Other South-East Asia,0.22
+2011,Kingston upon Thames,E09000021,Total,160060,215,Middle East and Asia,Other South-East Asia,0.13
+2011,Merton,E09000024,Total,199693,203,Middle East and Asia,Other South-East Asia,0.1
+2011,Redbridge,E09000026,Total,278970,173,Middle East and Asia,Other South-East Asia,0.06
+2011,Richmond upon Thames,E09000027,Total,186990,157,Middle East and Asia,Other South-East Asia,0.08
+2011,Sutton,E09000029,Total,190146,127,Middle East and Asia,Other South-East Asia,0.07
+2011,Waltham Forest,E09000031,Total,258249,313,Middle East and Asia,Other South-East Asia,0.12
+2011,Camden,E09000007,Total,220338,722,Middle East and Asia,Philippines,0.33
+2011,City of London,E09000001,Total,7375,5,Middle East and Asia,Philippines,0.07
+2011,Hackney,E09000012,Total,246270,153,Middle East and Asia,Philippines,0.06
+2011,Hammersmith and Fulham,E09000013,Total,182493,1121,Middle East and Asia,Philippines,0.61
+2011,Haringey,E09000014,Total,254926,448,Middle East and Asia,Philippines,0.18
+2011,Islington,E09000019,Total,206125,279,Middle East and Asia,Philippines,0.14
+2011,Kensington and Chelsea,E09000020,Total,158649,1172,Middle East and Asia,Philippines,0.74
+2011,Lambeth,E09000022,Total,303086,488,Middle East and Asia,Philippines,0.16
+2011,Lewisham,E09000023,Total,275885,241,Middle East and Asia,Philippines,0.09
+2011,Newham,E09000025,Total,307984,1597,Middle East and Asia,Philippines,0.52
+2011,Southwark,E09000028,Total,288283,526,Middle East and Asia,Philippines,0.18
+2011,Tower Hamlets,E09000030,Total,254096,235,Middle East and Asia,Philippines,0.09
+2011,Wandsworth,E09000032,Total,306995,1065,Middle East and Asia,Philippines,0.35
+2011,Westminster,E09000033,Total,219396,1103,Middle East and Asia,Philippines,0.5
+2011,Barking and Dagenham,E09000002,Total,185911,332,Middle East and Asia,Philippines,0.18
+2011,Barnet,E09000003,Total,356386,1635,Middle East and Asia,Philippines,0.46
+2011,Bexley,E09000004,Total,231997,132,Middle East and Asia,Philippines,0.06
+2011,Brent,E09000005,Total,311215,1975,Middle East and Asia,Philippines,0.63
+2011,Bromley,E09000006,Total,309392,353,Middle East and Asia,Philippines,0.11
+2011,Croydon,E09000008,Total,363378,453,Middle East and Asia,Philippines,0.12
+2011,Ealing,E09000009,Total,338449,725,Middle East and Asia,Philippines,0.21
+2011,Enfield,E09000010,Total,312466,449,Middle East and Asia,Philippines,0.14
+2011,Greenwich,E09000011,Total,254557,221,Middle East and Asia,Philippines,0.09
+2011,Harrow,E09000015,Total,239056,414,Middle East and Asia,Philippines,0.17
+2011,Havering,E09000016,Total,237232,340,Middle East and Asia,Philippines,0.14
+2011,Hillingdon,E09000017,Total,273936,485,Middle East and Asia,Philippines,0.18
+2011,Hounslow,E09000018,Total,253957,824,Middle East and Asia,Philippines,0.32
+2011,Kingston upon Thames,E09000021,Total,160060,328,Middle East and Asia,Philippines,0.2
+2011,Merton,E09000024,Total,199693,469,Middle East and Asia,Philippines,0.23
+2011,Redbridge,E09000026,Total,278970,268,Middle East and Asia,Philippines,0.1
+2011,Richmond upon Thames,E09000027,Total,186990,201,Middle East and Asia,Philippines,0.11
+2011,Sutton,E09000029,Total,190146,396,Middle East and Asia,Philippines,0.21
+2011,Waltham Forest,E09000031,Total,258249,462,Middle East and Asia,Philippines,0.18
+2011,Camden,E09000007,Total,220338,701,Middle East and Asia,Singapore,0.32
+2011,City of London,E09000001,Total,7375,31,Middle East and Asia,Singapore,0.42
+2011,Hackney,E09000012,Total,246270,67,Middle East and Asia,Singapore,0.03
+2011,Hammersmith and Fulham,E09000013,Total,182493,189,Middle East and Asia,Singapore,0.1
+2011,Haringey,E09000014,Total,254926,64,Middle East and Asia,Singapore,0.03
+2011,Islington,E09000019,Total,206125,201,Middle East and Asia,Singapore,0.1
+2011,Kensington and Chelsea,E09000020,Total,158649,481,Middle East and Asia,Singapore,0.3
+2011,Lambeth,E09000022,Total,303086,194,Middle East and Asia,Singapore,0.06
+2011,Lewisham,E09000023,Total,275885,130,Middle East and Asia,Singapore,0.05
+2011,Newham,E09000025,Total,307984,70,Middle East and Asia,Singapore,0.02
+2011,Southwark,E09000028,Total,288283,225,Middle East and Asia,Singapore,0.08
+2011,Tower Hamlets,E09000030,Total,254096,301,Middle East and Asia,Singapore,0.12
+2011,Wandsworth,E09000032,Total,306995,129,Middle East and Asia,Singapore,0.04
+2011,Westminster,E09000033,Total,219396,486,Middle East and Asia,Singapore,0.22
+2011,Barking and Dagenham,E09000002,Total,185911,6,Middle East and Asia,Singapore,0
+2011,Barnet,E09000003,Total,356386,154,Middle East and Asia,Singapore,0.04
+2011,Bexley,E09000004,Total,231997,19,Middle East and Asia,Singapore,0.01
+2011,Brent,E09000005,Total,311215,75,Middle East and Asia,Singapore,0.02
+2011,Bromley,E09000006,Total,309392,69,Middle East and Asia,Singapore,0.02
+2011,Croydon,E09000008,Total,363378,86,Middle East and Asia,Singapore,0.02
+2011,Ealing,E09000009,Total,338449,189,Middle East and Asia,Singapore,0.06
+2011,Enfield,E09000010,Total,312466,50,Middle East and Asia,Singapore,0.02
+2011,Greenwich,E09000011,Total,254557,87,Middle East and Asia,Singapore,0.03
+2011,Harrow,E09000015,Total,239056,64,Middle East and Asia,Singapore,0.03
+2011,Havering,E09000016,Total,237232,15,Middle East and Asia,Singapore,0.01
+2011,Hillingdon,E09000017,Total,273936,90,Middle East and Asia,Singapore,0.03
+2011,Hounslow,E09000018,Total,253957,100,Middle East and Asia,Singapore,0.04
+2011,Kingston upon Thames,E09000021,Total,160060,75,Middle East and Asia,Singapore,0.05
+2011,Merton,E09000024,Total,199693,70,Middle East and Asia,Singapore,0.04
+2011,Redbridge,E09000026,Total,278970,72,Middle East and Asia,Singapore,0.03
+2011,Richmond upon Thames,E09000027,Total,186990,86,Middle East and Asia,Singapore,0.05
+2011,Sutton,E09000029,Total,190146,41,Middle East and Asia,Singapore,0.02
+2011,Waltham Forest,E09000031,Total,258249,17,Middle East and Asia,Singapore,0.01
+2011,Camden,E09000007,Total,220338,94,Middle East and Asia,Afghanistan,0.04
+2011,City of London,E09000001,Total,7375,0,Middle East and Asia,Afghanistan,0
+2011,Hackney,E09000012,Total,246270,86,Middle East and Asia,Afghanistan,0.03
+2011,Hammersmith and Fulham,E09000013,Total,182493,85,Middle East and Asia,Afghanistan,0.05
+2011,Haringey,E09000014,Total,254926,102,Middle East and Asia,Afghanistan,0.04
+2011,Islington,E09000019,Total,206125,40,Middle East and Asia,Afghanistan,0.02
+2011,Kensington and Chelsea,E09000020,Total,158649,27,Middle East and Asia,Afghanistan,0.02
+2011,Lambeth,E09000022,Total,303086,86,Middle East and Asia,Afghanistan,0.03
+2011,Lewisham,E09000023,Total,275885,219,Middle East and Asia,Afghanistan,0.08
+2011,Newham,E09000025,Total,307984,400,Middle East and Asia,Afghanistan,0.13
+2011,Southwark,E09000028,Total,288283,138,Middle East and Asia,Afghanistan,0.05
+2011,Tower Hamlets,E09000030,Total,254096,34,Middle East and Asia,Afghanistan,0.01
+2011,Wandsworth,E09000032,Total,306995,170,Middle East and Asia,Afghanistan,0.06
+2011,Westminster,E09000033,Total,219396,78,Middle East and Asia,Afghanistan,0.04
+2011,Barking and Dagenham,E09000002,Total,185911,81,Middle East and Asia,Afghanistan,0.04
+2011,Barnet,E09000003,Total,356386,877,Middle East and Asia,Afghanistan,0.25
+2011,Bexley,E09000004,Total,231997,29,Middle East and Asia,Afghanistan,0.01
+2011,Brent,E09000005,Total,311215,716,Middle East and Asia,Afghanistan,0.23
+2011,Bromley,E09000006,Total,309392,32,Middle East and Asia,Afghanistan,0.01
+2011,Croydon,E09000008,Total,363378,275,Middle East and Asia,Afghanistan,0.08
+2011,Ealing,E09000009,Total,338449,1202,Middle East and Asia,Afghanistan,0.36
+2011,Enfield,E09000010,Total,312466,135,Middle East and Asia,Afghanistan,0.04
+2011,Greenwich,E09000011,Total,254557,126,Middle East and Asia,Afghanistan,0.05
+2011,Harrow,E09000015,Total,239056,701,Middle East and Asia,Afghanistan,0.29
+2011,Havering,E09000016,Total,237232,8,Middle East and Asia,Afghanistan,0
+2011,Hillingdon,E09000017,Total,273936,590,Middle East and Asia,Afghanistan,0.22
+2011,Hounslow,E09000018,Total,253957,810,Middle East and Asia,Afghanistan,0.32
+2011,Kingston upon Thames,E09000021,Total,160060,80,Middle East and Asia,Afghanistan,0.05
+2011,Merton,E09000024,Total,199693,125,Middle East and Asia,Afghanistan,0.06
+2011,Redbridge,E09000026,Total,278970,229,Middle East and Asia,Afghanistan,0.08
+2011,Richmond upon Thames,E09000027,Total,186990,99,Middle East and Asia,Afghanistan,0.05
+2011,Sutton,E09000029,Total,190146,56,Middle East and Asia,Afghanistan,0.03
+2011,Waltham Forest,E09000031,Total,258249,328,Middle East and Asia,Afghanistan,0.13
+2011,Camden,E09000007,Total,220338,1024,Middle East and Asia,Bangladesh,0.46
+2011,City of London,E09000001,Total,7375,15,Middle East and Asia,Bangladesh,0.2
+2011,Hackney,E09000012,Total,246270,487,Middle East and Asia,Bangladesh,0.2
+2011,Hammersmith and Fulham,E09000013,Total,182493,86,Middle East and Asia,Bangladesh,0.05
+2011,Haringey,E09000014,Total,254926,547,Middle East and Asia,Bangladesh,0.21
+2011,Islington,E09000019,Total,206125,345,Middle East and Asia,Bangladesh,0.17
+2011,Kensington and Chelsea,E09000020,Total,158649,93,Middle East and Asia,Bangladesh,0.06
+2011,Lambeth,E09000022,Total,303086,190,Middle East and Asia,Bangladesh,0.06
+2011,Lewisham,E09000023,Total,275885,243,Middle East and Asia,Bangladesh,0.09
+2011,Newham,E09000025,Total,307984,9544,Middle East and Asia,Bangladesh,3.1
+2011,Southwark,E09000028,Total,288283,360,Middle East and Asia,Bangladesh,0.12
+2011,Tower Hamlets,E09000030,Total,254096,10192,Middle East and Asia,Bangladesh,4.01
+2011,Wandsworth,E09000032,Total,306995,197,Middle East and Asia,Bangladesh,0.06
+2011,Westminster,E09000033,Total,219396,434,Middle East and Asia,Bangladesh,0.2
+2011,Barking and Dagenham,E09000002,Total,185911,1122,Middle East and Asia,Bangladesh,0.6
+2011,Barnet,E09000003,Total,356386,235,Middle East and Asia,Bangladesh,0.07
+2011,Bexley,E09000004,Total,231997,115,Middle East and Asia,Bangladesh,0.05
+2011,Brent,E09000005,Total,311215,170,Middle East and Asia,Bangladesh,0.05
+2011,Bromley,E09000006,Total,309392,139,Middle East and Asia,Bangladesh,0.04
+2011,Croydon,E09000008,Total,363378,254,Middle East and Asia,Bangladesh,0.07
+2011,Ealing,E09000009,Total,338449,258,Middle East and Asia,Bangladesh,0.08
+2011,Enfield,E09000010,Total,312466,793,Middle East and Asia,Bangladesh,0.25
+2011,Greenwich,E09000011,Total,254557,320,Middle East and Asia,Bangladesh,0.13
+2011,Harrow,E09000015,Total,239056,124,Middle East and Asia,Bangladesh,0.05
+2011,Havering,E09000016,Total,237232,165,Middle East and Asia,Bangladesh,0.07
+2011,Hillingdon,E09000017,Total,273936,325,Middle East and Asia,Bangladesh,0.12
+2011,Hounslow,E09000018,Total,253957,405,Middle East and Asia,Bangladesh,0.16
+2011,Kingston upon Thames,E09000021,Total,160060,150,Middle East and Asia,Bangladesh,0.09
+2011,Merton,E09000024,Total,199693,317,Middle East and Asia,Bangladesh,0.16
+2011,Redbridge,E09000026,Total,278970,1510,Middle East and Asia,Bangladesh,0.54
+2011,Richmond upon Thames,E09000027,Total,186990,128,Middle East and Asia,Bangladesh,0.07
+2011,Sutton,E09000029,Total,190146,158,Middle East and Asia,Bangladesh,0.08
+2011,Waltham Forest,E09000031,Total,258249,1121,Middle East and Asia,Bangladesh,0.43
+2011,Camden,E09000007,Total,220338,1360,Middle East and Asia,India,0.62
+2011,City of London,E09000001,Total,7375,61,Middle East and Asia,India,0.83
+2011,Hackney,E09000012,Total,246270,880,Middle East and Asia,India,0.36
+2011,Hammersmith and Fulham,E09000013,Total,182493,713,Middle East and Asia,India,0.39
+2011,Haringey,E09000014,Total,254926,942,Middle East and Asia,India,0.37
+2011,Islington,E09000019,Total,206125,696,Middle East and Asia,India,0.34
+2011,Kensington and Chelsea,E09000020,Total,158649,563,Middle East and Asia,India,0.35
+2011,Lambeth,E09000022,Total,303086,745,Middle East and Asia,India,0.25
+2011,Lewisham,E09000023,Total,275885,1504,Middle East and Asia,India,0.55
+2011,Newham,E09000025,Total,307984,17643,Middle East and Asia,India,5.73
+2011,Southwark,E09000028,Total,288283,1660,Middle East and Asia,India,0.58
+2011,Tower Hamlets,E09000030,Total,254096,3039,Middle East and Asia,India,1.2
+2011,Wandsworth,E09000032,Total,306995,1538,Middle East and Asia,India,0.5
+2011,Westminster,E09000033,Total,219396,2086,Middle East and Asia,India,0.95
+2011,Barking and Dagenham,E09000002,Total,185911,2731,Middle East and Asia,India,1.47
+2011,Barnet,E09000003,Total,356386,3305,Middle East and Asia,India,0.93
+2011,Bexley,E09000004,Total,231997,1047,Middle East and Asia,India,0.45
+2011,Brent,E09000005,Total,311215,13046,Middle East and Asia,India,4.19
+2011,Bromley,E09000006,Total,309392,1248,Middle East and Asia,India,0.4
+2011,Croydon,E09000008,Total,363378,6072,Middle East and Asia,India,1.67
+2011,Ealing,E09000009,Total,338449,11499,Middle East and Asia,India,3.4
+2011,Enfield,E09000010,Total,312466,1261,Middle East and Asia,India,0.4
+2011,Greenwich,E09000011,Total,254557,2093,Middle East and Asia,India,0.82
+2011,Harrow,E09000015,Total,239056,8211,Middle East and Asia,India,3.43
+2011,Havering,E09000016,Total,237232,853,Middle East and Asia,India,0.36
+2011,Hillingdon,E09000017,Total,273936,6768,Middle East and Asia,India,2.47
+2011,Hounslow,E09000018,Total,253957,14537,Middle East and Asia,India,5.72
+2011,Kingston upon Thames,E09000021,Total,160060,1285,Middle East and Asia,India,0.8
+2011,Merton,E09000024,Total,199693,1805,Middle East and Asia,India,0.9
+2011,Redbridge,E09000026,Total,278970,9965,Middle East and Asia,India,3.57
+2011,Richmond upon Thames,E09000027,Total,186990,744,Middle East and Asia,India,0.4
+2011,Sutton,E09000029,Total,190146,1296,Middle East and Asia,India,0.68
+2011,Waltham Forest,E09000031,Total,258249,1815,Middle East and Asia,India,0.7
+2011,Camden,E09000007,Total,220338,101,Middle East and Asia,Other Southern Asia,0.05
+2011,City of London,E09000001,Total,7375,1,Middle East and Asia,Other Southern Asia,0.01
+2011,Hackney,E09000012,Total,246270,36,Middle East and Asia,Other Southern Asia,0.01
+2011,Hammersmith and Fulham,E09000013,Total,182493,65,Middle East and Asia,Other Southern Asia,0.04
+2011,Haringey,E09000014,Total,254926,95,Middle East and Asia,Other Southern Asia,0.04
+2011,Islington,E09000019,Total,206125,79,Middle East and Asia,Other Southern Asia,0.04
+2011,Kensington and Chelsea,E09000020,Total,158649,88,Middle East and Asia,Other Southern Asia,0.06
+2011,Lambeth,E09000022,Total,303086,103,Middle East and Asia,Other Southern Asia,0.03
+2011,Lewisham,E09000023,Total,275885,206,Middle East and Asia,Other Southern Asia,0.07
+2011,Newham,E09000025,Total,307984,962,Middle East and Asia,Other Southern Asia,0.31
+2011,Southwark,E09000028,Total,288283,72,Middle East and Asia,Other Southern Asia,0.02
+2011,Tower Hamlets,E09000030,Total,254096,91,Middle East and Asia,Other Southern Asia,0.04
+2011,Wandsworth,E09000032,Total,306995,112,Middle East and Asia,Other Southern Asia,0.04
+2011,Westminster,E09000033,Total,219396,80,Middle East and Asia,Other Southern Asia,0.04
+2011,Barking and Dagenham,E09000002,Total,185911,123,Middle East and Asia,Other Southern Asia,0.07
+2011,Barnet,E09000003,Total,356386,705,Middle East and Asia,Other Southern Asia,0.2
+2011,Bexley,E09000004,Total,231997,183,Middle East and Asia,Other Southern Asia,0.08
+2011,Brent,E09000005,Total,311215,2113,Middle East and Asia,Other Southern Asia,0.68
+2011,Bromley,E09000006,Total,309392,112,Middle East and Asia,Other Southern Asia,0.04
+2011,Croydon,E09000008,Total,363378,199,Middle East and Asia,Other Southern Asia,0.05
+2011,Ealing,E09000009,Total,338449,2191,Middle East and Asia,Other Southern Asia,0.65
+2011,Enfield,E09000010,Total,312466,76,Middle East and Asia,Other Southern Asia,0.02
+2011,Greenwich,E09000011,Total,254557,4747,Middle East and Asia,Other Southern Asia,1.86
+2011,Harrow,E09000015,Total,239056,1180,Middle East and Asia,Other Southern Asia,0.49
+2011,Havering,E09000016,Total,237232,32,Middle East and Asia,Other Southern Asia,0.01
+2011,Hillingdon,E09000017,Total,273936,1363,Middle East and Asia,Other Southern Asia,0.5
+2011,Hounslow,E09000018,Total,253957,2109,Middle East and Asia,Other Southern Asia,0.83
+2011,Kingston upon Thames,E09000021,Total,160060,95,Middle East and Asia,Other Southern Asia,0.06
+2011,Merton,E09000024,Total,199693,378,Middle East and Asia,Other Southern Asia,0.19
+2011,Redbridge,E09000026,Total,278970,163,Middle East and Asia,Other Southern Asia,0.06
+2011,Richmond upon Thames,E09000027,Total,186990,49,Middle East and Asia,Other Southern Asia,0.03
+2011,Sutton,E09000029,Total,190146,201,Middle East and Asia,Other Southern Asia,0.11
+2011,Waltham Forest,E09000031,Total,258249,129,Middle East and Asia,Other Southern Asia,0.05
+2011,Camden,E09000007,Total,220338,283,Middle East and Asia,Pakistan,0.13
+2011,City of London,E09000001,Total,7375,2,Middle East and Asia,Pakistan,0.03
+2011,Hackney,E09000012,Total,246270,207,Middle East and Asia,Pakistan,0.08
+2011,Hammersmith and Fulham,E09000013,Total,182493,211,Middle East and Asia,Pakistan,0.12
+2011,Haringey,E09000014,Total,254926,312,Middle East and Asia,Pakistan,0.12
+2011,Islington,E09000019,Total,206125,206,Middle East and Asia,Pakistan,0.1
+2011,Kensington and Chelsea,E09000020,Total,158649,152,Middle East and Asia,Pakistan,0.1
+2011,Lambeth,E09000022,Total,303086,650,Middle East and Asia,Pakistan,0.21
+2011,Lewisham,E09000023,Total,275885,379,Middle East and Asia,Pakistan,0.14
+2011,Newham,E09000025,Total,307984,8127,Middle East and Asia,Pakistan,2.64
+2011,Southwark,E09000028,Total,288283,434,Middle East and Asia,Pakistan,0.15
+2011,Tower Hamlets,E09000030,Total,254096,566,Middle East and Asia,Pakistan,0.22
+2011,Wandsworth,E09000032,Total,306995,1594,Middle East and Asia,Pakistan,0.52
+2011,Westminster,E09000033,Total,219396,464,Middle East and Asia,Pakistan,0.21
+2011,Barking and Dagenham,E09000002,Total,185911,2349,Middle East and Asia,Pakistan,1.26
+2011,Barnet,E09000003,Total,356386,919,Middle East and Asia,Pakistan,0.26
+2011,Bexley,E09000004,Total,231997,108,Middle East and Asia,Pakistan,0.05
+2011,Brent,E09000005,Total,311215,2077,Middle East and Asia,Pakistan,0.67
+2011,Bromley,E09000006,Total,309392,158,Middle East and Asia,Pakistan,0.05
+2011,Croydon,E09000008,Total,363378,1995,Middle East and Asia,Pakistan,0.55
+2011,Ealing,E09000009,Total,338449,2521,Middle East and Asia,Pakistan,0.74
+2011,Enfield,E09000010,Total,312466,337,Middle East and Asia,Pakistan,0.11
+2011,Greenwich,E09000011,Total,254557,498,Middle East and Asia,Pakistan,0.2
+2011,Harrow,E09000015,Total,239056,1179,Middle East and Asia,Pakistan,0.49
+2011,Havering,E09000016,Total,237232,222,Middle East and Asia,Pakistan,0.09
+2011,Hillingdon,E09000017,Total,273936,2197,Middle East and Asia,Pakistan,0.8
+2011,Hounslow,E09000018,Total,253957,2666,Middle East and Asia,Pakistan,1.05
+2011,Kingston upon Thames,E09000021,Total,160060,359,Middle East and Asia,Pakistan,0.22
+2011,Merton,E09000024,Total,199693,1506,Middle East and Asia,Pakistan,0.75
+2011,Redbridge,E09000026,Total,278970,6375,Middle East and Asia,Pakistan,2.29
+2011,Richmond upon Thames,E09000027,Total,186990,186,Middle East and Asia,Pakistan,0.1
+2011,Sutton,E09000029,Total,190146,433,Middle East and Asia,Pakistan,0.23
+2011,Waltham Forest,E09000031,Total,258249,4857,Middle East and Asia,Pakistan,1.88
+2011,Camden,E09000007,Total,220338,154,Middle East and Asia,Sri Lanka,0.07
+2011,City of London,E09000001,Total,7375,3,Middle East and Asia,Sri Lanka,0.04
+2011,Hackney,E09000012,Total,246270,43,Middle East and Asia,Sri Lanka,0.02
+2011,Hammersmith and Fulham,E09000013,Total,182493,82,Middle East and Asia,Sri Lanka,0.04
+2011,Haringey,E09000014,Total,254926,146,Middle East and Asia,Sri Lanka,0.06
+2011,Islington,E09000019,Total,206125,72,Middle East and Asia,Sri Lanka,0.03
+2011,Kensington and Chelsea,E09000020,Total,158649,88,Middle East and Asia,Sri Lanka,0.06
+2011,Lambeth,E09000022,Total,303086,145,Middle East and Asia,Sri Lanka,0.05
+2011,Lewisham,E09000023,Total,275885,1027,Middle East and Asia,Sri Lanka,0.37
+2011,Newham,E09000025,Total,307984,1966,Middle East and Asia,Sri Lanka,0.64
+2011,Southwark,E09000028,Total,288283,153,Middle East and Asia,Sri Lanka,0.05
+2011,Tower Hamlets,E09000030,Total,254096,110,Middle East and Asia,Sri Lanka,0.04
+2011,Wandsworth,E09000032,Total,306995,330,Middle East and Asia,Sri Lanka,0.11
+2011,Westminster,E09000033,Total,219396,184,Middle East and Asia,Sri Lanka,0.08
+2011,Barking and Dagenham,E09000002,Total,185911,395,Middle East and Asia,Sri Lanka,0.21
+2011,Barnet,E09000003,Total,356386,955,Middle East and Asia,Sri Lanka,0.27
+2011,Bexley,E09000004,Total,231997,293,Middle East and Asia,Sri Lanka,0.13
+2011,Brent,E09000005,Total,311215,2568,Middle East and Asia,Sri Lanka,0.83
+2011,Bromley,E09000006,Total,309392,287,Middle East and Asia,Sri Lanka,0.09
+2011,Croydon,E09000008,Total,363378,1341,Middle East and Asia,Sri Lanka,0.37
+2011,Ealing,E09000009,Total,338449,1873,Middle East and Asia,Sri Lanka,0.55
+2011,Enfield,E09000010,Total,312466,748,Middle East and Asia,Sri Lanka,0.24
+2011,Greenwich,E09000011,Total,254557,496,Middle East and Asia,Sri Lanka,0.19
+2011,Harrow,E09000015,Total,239056,2979,Middle East and Asia,Sri Lanka,1.25
+2011,Havering,E09000016,Total,237232,178,Middle East and Asia,Sri Lanka,0.08
+2011,Hillingdon,E09000017,Total,273936,1483,Middle East and Asia,Sri Lanka,0.54
+2011,Hounslow,E09000018,Total,253957,1266,Middle East and Asia,Sri Lanka,0.5
+2011,Kingston upon Thames,E09000021,Total,160060,1019,Middle East and Asia,Sri Lanka,0.64
+2011,Merton,E09000024,Total,199693,1856,Middle East and Asia,Sri Lanka,0.93
+2011,Redbridge,E09000026,Total,278970,2048,Middle East and Asia,Sri Lanka,0.73
+2011,Richmond upon Thames,E09000027,Total,186990,148,Middle East and Asia,Sri Lanka,0.08
+2011,Sutton,E09000029,Total,190146,925,Middle East and Asia,Sri Lanka,0.49
+2011,Waltham Forest,E09000031,Total,258249,777,Middle East and Asia,Sri Lanka,0.3
+2011,Camden,E09000007,Total,220338,10595,No passport held,No passport held,4.81
+2011,City of London,E09000001,Total,7375,237,No passport held,No passport held,3.21
+2011,Hackney,E09000012,Total,246270,16734,No passport held,No passport held,6.79
+2011,Hammersmith and Fulham,E09000013,Total,182493,10093,No passport held,No passport held,5.53
+2011,Haringey,E09000014,Total,254926,15775,No passport held,No passport held,6.19
+2011,Islington,E09000019,Total,206125,14542,No passport held,No passport held,7.05
+2011,Kensington and Chelsea,E09000020,Total,158649,5040,No passport held,No passport held,3.18
+2011,Lambeth,E09000022,Total,303086,21434,No passport held,No passport held,7.07
+2011,Lewisham,E09000023,Total,275885,28173,No passport held,No passport held,10.21
+2011,Newham,E09000025,Total,307984,22267,No passport held,No passport held,7.23
+2011,Southwark,E09000028,Total,288283,23197,No passport held,No passport held,8.05
+2011,Tower Hamlets,E09000030,Total,254096,16790,No passport held,No passport held,6.61
+2011,Wandsworth,E09000032,Total,306995,19040,No passport held,No passport held,6.2
+2011,Westminster,E09000033,Total,219396,7905,No passport held,No passport held,3.6
+2011,Barking and Dagenham,E09000002,Total,185911,29669,No passport held,No passport held,15.96
+2011,Barnet,E09000003,Total,356386,19813,No passport held,No passport held,5.56
+2011,Bexley,E09000004,Total,231997,28433,No passport held,No passport held,12.26
+2011,Brent,E09000005,Total,311215,15798,No passport held,No passport held,5.08
+2011,Bromley,E09000006,Total,309392,29602,No passport held,No passport held,9.57
+2011,Croydon,E09000008,Total,363378,37777,No passport held,No passport held,10.4
+2011,Ealing,E09000009,Total,338449,20995,No passport held,No passport held,6.2
+2011,Enfield,E09000010,Total,312466,26869,No passport held,No passport held,8.6
+2011,Greenwich,E09000011,Total,254557,30894,No passport held,No passport held,12.14
+2011,Harrow,E09000015,Total,239056,12700,No passport held,No passport held,5.31
+2011,Havering,E09000016,Total,237232,29124,No passport held,No passport held,12.28
+2011,Hillingdon,E09000017,Total,273936,25979,No passport held,No passport held,9.48
+2011,Hounslow,E09000018,Total,253957,20703,No passport held,No passport held,8.15
+2011,Kingston upon Thames,E09000021,Total,160060,11929,No passport held,No passport held,7.45
+2011,Merton,E09000024,Total,199693,15552,No passport held,No passport held,7.79
+2011,Redbridge,E09000026,Total,278970,18082,No passport held,No passport held,6.48
+2011,Richmond upon Thames,E09000027,Total,186990,11031,No passport held,No passport held,5.9
+2011,Sutton,E09000029,Total,190146,19092,No passport held,No passport held,10.04
+2011,Waltham Forest,E09000031,Total,258249,22479,No passport held,No passport held,8.7
+2011,Camden,E09000007,Total,220338,250,The Americas and the Caribbean,Central America,0.11
+2011,City of London,E09000001,Total,7375,2,The Americas and the Caribbean,Central America,0.03
+2011,Hackney,E09000012,Total,246270,122,The Americas and the Caribbean,Central America,0.05
+2011,Hammersmith and Fulham,E09000013,Total,182493,206,The Americas and the Caribbean,Central America,0.11
+2011,Haringey,E09000014,Total,254926,113,The Americas and the Caribbean,Central America,0.04
+2011,Islington,E09000019,Total,206125,141,The Americas and the Caribbean,Central America,0.07
+2011,Kensington and Chelsea,E09000020,Total,158649,233,The Americas and the Caribbean,Central America,0.15
+2011,Lambeth,E09000022,Total,303086,163,The Americas and the Caribbean,Central America,0.05
+2011,Lewisham,E09000023,Total,275885,91,The Americas and the Caribbean,Central America,0.03
+2011,Newham,E09000025,Total,307984,38,The Americas and the Caribbean,Central America,0.01
+2011,Southwark,E09000028,Total,288283,184,The Americas and the Caribbean,Central America,0.06
+2011,Tower Hamlets,E09000030,Total,254096,139,The Americas and the Caribbean,Central America,0.05
+2011,Wandsworth,E09000032,Total,306995,191,The Americas and the Caribbean,Central America,0.06
+2011,Westminster,E09000033,Total,219396,305,The Americas and the Caribbean,Central America,0.14
+2011,Barking and Dagenham,E09000002,Total,185911,13,The Americas and the Caribbean,Central America,0.01
+2011,Barnet,E09000003,Total,356386,46,The Americas and the Caribbean,Central America,0.01
+2011,Bexley,E09000004,Total,231997,7,The Americas and the Caribbean,Central America,0
+2011,Brent,E09000005,Total,311215,73,The Americas and the Caribbean,Central America,0.02
+2011,Bromley,E09000006,Total,309392,34,The Americas and the Caribbean,Central America,0.01
+2011,Croydon,E09000008,Total,363378,40,The Americas and the Caribbean,Central America,0.01
+2011,Ealing,E09000009,Total,338449,66,The Americas and the Caribbean,Central America,0.02
+2011,Enfield,E09000010,Total,312466,17,The Americas and the Caribbean,Central America,0.01
+2011,Greenwich,E09000011,Total,254557,31,The Americas and the Caribbean,Central America,0.01
+2011,Harrow,E09000015,Total,239056,29,The Americas and the Caribbean,Central America,0.01
+2011,Havering,E09000016,Total,237232,6,The Americas and the Caribbean,Central America,0
+2011,Hillingdon,E09000017,Total,273936,51,The Americas and the Caribbean,Central America,0.02
+2011,Hounslow,E09000018,Total,253957,54,The Americas and the Caribbean,Central America,0.02
+2011,Kingston upon Thames,E09000021,Total,160060,38,The Americas and the Caribbean,Central America,0.02
+2011,Merton,E09000024,Total,199693,53,The Americas and the Caribbean,Central America,0.03
+2011,Redbridge,E09000026,Total,278970,17,The Americas and the Caribbean,Central America,0.01
+2011,Richmond upon Thames,E09000027,Total,186990,109,The Americas and the Caribbean,Central America,0.06
+2011,Sutton,E09000029,Total,190146,19,The Americas and the Caribbean,Central America,0.01
+2011,Waltham Forest,E09000031,Total,258249,105,The Americas and the Caribbean,Central America,0.04
+2011,Camden,E09000007,Total,220338,1298,The Americas and the Caribbean,Canada,0.59
+2011,City of London,E09000001,Total,7375,49,The Americas and the Caribbean,Canada,0.66
+2011,Hackney,E09000012,Total,246270,657,The Americas and the Caribbean,Canada,0.27
+2011,Hammersmith and Fulham,E09000013,Total,182493,739,The Americas and the Caribbean,Canada,0.4
+2011,Haringey,E09000014,Total,254926,437,The Americas and the Caribbean,Canada,0.17
+2011,Islington,E09000019,Total,206125,826,The Americas and the Caribbean,Canada,0.4
+2011,Kensington and Chelsea,E09000020,Total,158649,1174,The Americas and the Caribbean,Canada,0.74
+2011,Lambeth,E09000022,Total,303086,727,The Americas and the Caribbean,Canada,0.24
+2011,Lewisham,E09000023,Total,275885,343,The Americas and the Caribbean,Canada,0.12
+2011,Newham,E09000025,Total,307984,179,The Americas and the Caribbean,Canada,0.06
+2011,Southwark,E09000028,Total,288283,745,The Americas and the Caribbean,Canada,0.26
+2011,Tower Hamlets,E09000030,Total,254096,772,The Americas and the Caribbean,Canada,0.3
+2011,Wandsworth,E09000032,Total,306995,809,The Americas and the Caribbean,Canada,0.26
+2011,Westminster,E09000033,Total,219396,1536,The Americas and the Caribbean,Canada,0.7
+2011,Barking and Dagenham,E09000002,Total,185911,64,The Americas and the Caribbean,Canada,0.03
+2011,Barnet,E09000003,Total,356386,488,The Americas and the Caribbean,Canada,0.14
+2011,Bexley,E09000004,Total,231997,83,The Americas and the Caribbean,Canada,0.04
+2011,Brent,E09000005,Total,311215,304,The Americas and the Caribbean,Canada,0.1
+2011,Bromley,E09000006,Total,309392,202,The Americas and the Caribbean,Canada,0.07
+2011,Croydon,E09000008,Total,363378,261,The Americas and the Caribbean,Canada,0.07
+2011,Ealing,E09000009,Total,338449,480,The Americas and the Caribbean,Canada,0.14
+2011,Enfield,E09000010,Total,312466,137,The Americas and the Caribbean,Canada,0.04
+2011,Greenwich,E09000011,Total,254557,292,The Americas and the Caribbean,Canada,0.11
+2011,Harrow,E09000015,Total,239056,208,The Americas and the Caribbean,Canada,0.09
+2011,Havering,E09000016,Total,237232,87,The Americas and the Caribbean,Canada,0.04
+2011,Hillingdon,E09000017,Total,273936,280,The Americas and the Caribbean,Canada,0.1
+2011,Hounslow,E09000018,Total,253957,312,The Americas and the Caribbean,Canada,0.12
+2011,Kingston upon Thames,E09000021,Total,160060,258,The Americas and the Caribbean,Canada,0.16
+2011,Merton,E09000024,Total,199693,346,The Americas and the Caribbean,Canada,0.17
+2011,Redbridge,E09000026,Total,278970,245,The Americas and the Caribbean,Canada,0.09
+2011,Richmond upon Thames,E09000027,Total,186990,422,The Americas and the Caribbean,Canada,0.23
+2011,Sutton,E09000029,Total,190146,134,The Americas and the Caribbean,Canada,0.07
+2011,Waltham Forest,E09000031,Total,258249,187,The Americas and the Caribbean,Canada,0.07
+2011,Camden,E09000007,Total,220338,5093,The Americas and the Caribbean,United States,2.31
+2011,City of London,E09000001,Total,7375,148,The Americas and the Caribbean,United States,2.01
+2011,Hackney,E09000012,Total,246270,2240,The Americas and the Caribbean,United States,0.91
+2011,Hammersmith and Fulham,E09000013,Total,182493,2037,The Americas and the Caribbean,United States,1.12
+2011,Haringey,E09000014,Total,254926,1400,The Americas and the Caribbean,United States,0.55
+2011,Islington,E09000019,Total,206125,2486,The Americas and the Caribbean,United States,1.21
+2011,Kensington and Chelsea,E09000020,Total,158649,6489,The Americas and the Caribbean,United States,4.09
+2011,Lambeth,E09000022,Total,303086,1698,The Americas and the Caribbean,United States,0.56
+2011,Lewisham,E09000023,Total,275885,954,The Americas and the Caribbean,United States,0.35
+2011,Newham,E09000025,Total,307984,419,The Americas and the Caribbean,United States,0.14
+2011,Southwark,E09000028,Total,288283,1759,The Americas and the Caribbean,United States,0.61
+2011,Tower Hamlets,E09000030,Total,254096,1794,The Americas and the Caribbean,United States,0.71
+2011,Wandsworth,E09000032,Total,306995,2279,The Americas and the Caribbean,United States,0.74
+2011,Westminster,E09000033,Total,219396,6606,The Americas and the Caribbean,United States,3.01
+2011,Barking and Dagenham,E09000002,Total,185911,183,The Americas and the Caribbean,United States,0.1
+2011,Barnet,E09000003,Total,356386,1594,The Americas and the Caribbean,United States,0.45
+2011,Bexley,E09000004,Total,231997,192,The Americas and the Caribbean,United States,0.08
+2011,Brent,E09000005,Total,311215,731,The Americas and the Caribbean,United States,0.23
+2011,Bromley,E09000006,Total,309392,602,The Americas and the Caribbean,United States,0.19
+2011,Croydon,E09000008,Total,363378,596,The Americas and the Caribbean,United States,0.16
+2011,Ealing,E09000009,Total,338449,1067,The Americas and the Caribbean,United States,0.32
+2011,Enfield,E09000010,Total,312466,398,The Americas and the Caribbean,United States,0.13
+2011,Greenwich,E09000011,Total,254557,822,The Americas and the Caribbean,United States,0.32
+2011,Harrow,E09000015,Total,239056,467,The Americas and the Caribbean,United States,0.2
+2011,Havering,E09000016,Total,237232,144,The Americas and the Caribbean,United States,0.06
+2011,Hillingdon,E09000017,Total,273936,590,The Americas and the Caribbean,United States,0.22
+2011,Hounslow,E09000018,Total,253957,852,The Americas and the Caribbean,United States,0.34
+2011,Kingston upon Thames,E09000021,Total,160060,597,The Americas and the Caribbean,United States,0.37
+2011,Merton,E09000024,Total,199693,810,The Americas and the Caribbean,United States,0.41
+2011,Redbridge,E09000026,Total,278970,465,The Americas and the Caribbean,United States,0.17
+2011,Richmond upon Thames,E09000027,Total,186990,1849,The Americas and the Caribbean,United States,0.99
+2011,Sutton,E09000029,Total,190146,240,The Americas and the Caribbean,United States,0.13
+2011,Waltham Forest,E09000031,Total,258249,461,The Americas and the Caribbean,United States,0.18
+2011,Camden,E09000007,Total,220338,1288,The Americas and the Caribbean,South America,0.58
+2011,City of London,E09000001,Total,7375,38,The Americas and the Caribbean,South America,0.52
+2011,Hackney,E09000012,Total,246270,1751,The Americas and the Caribbean,South America,0.71
+2011,Hammersmith and Fulham,E09000013,Total,182493,1420,The Americas and the Caribbean,South America,0.78
+2011,Haringey,E09000014,Total,254926,2056,The Americas and the Caribbean,South America,0.81
+2011,Islington,E09000019,Total,206125,1268,The Americas and the Caribbean,South America,0.62
+2011,Kensington and Chelsea,E09000020,Total,158649,1207,The Americas and the Caribbean,South America,0.76
+2011,Lambeth,E09000022,Total,303086,3664,The Americas and the Caribbean,South America,1.21
+2011,Lewisham,E09000023,Total,275885,1302,The Americas and the Caribbean,South America,0.47
+2011,Newham,E09000025,Total,307984,1401,The Americas and the Caribbean,South America,0.45
+2011,Southwark,E09000028,Total,288283,3542,The Americas and the Caribbean,South America,1.23
+2011,Tower Hamlets,E09000030,Total,254096,1276,The Americas and the Caribbean,South America,0.5
+2011,Wandsworth,E09000032,Total,306995,1985,The Americas and the Caribbean,South America,0.65
+2011,Westminster,E09000033,Total,219396,1867,The Americas and the Caribbean,South America,0.85
+2011,Barking and Dagenham,E09000002,Total,185911,205,The Americas and the Caribbean,South America,0.11
+2011,Barnet,E09000003,Total,356386,1132,The Americas and the Caribbean,South America,0.32
+2011,Bexley,E09000004,Total,231997,123,The Americas and the Caribbean,South America,0.05
+2011,Brent,E09000005,Total,311215,2495,The Americas and the Caribbean,South America,0.8
+2011,Bromley,E09000006,Total,309392,462,The Americas and the Caribbean,South America,0.15
+2011,Croydon,E09000008,Total,363378,848,The Americas and the Caribbean,South America,0.23
+2011,Ealing,E09000009,Total,338449,978,The Americas and the Caribbean,South America,0.29
+2011,Enfield,E09000010,Total,312466,601,The Americas and the Caribbean,South America,0.19
+2011,Greenwich,E09000011,Total,254557,623,The Americas and the Caribbean,South America,0.24
+2011,Harrow,E09000015,Total,239056,283,The Americas and the Caribbean,South America,0.12
+2011,Havering,E09000016,Total,237232,89,The Americas and the Caribbean,South America,0.04
+2011,Hillingdon,E09000017,Total,273936,311,The Americas and the Caribbean,South America,0.11
+2011,Hounslow,E09000018,Total,253957,582,The Americas and the Caribbean,South America,0.23
+2011,Kingston upon Thames,E09000021,Total,160060,413,The Americas and the Caribbean,South America,0.26
+2011,Merton,E09000024,Total,199693,838,The Americas and the Caribbean,South America,0.42
+2011,Redbridge,E09000026,Total,278970,346,The Americas and the Caribbean,South America,0.12
+2011,Richmond upon Thames,E09000027,Total,186990,450,The Americas and the Caribbean,South America,0.24
+2011,Sutton,E09000029,Total,190146,347,The Americas and the Caribbean,South America,0.18
+2011,Waltham Forest,E09000031,Total,258249,834,The Americas and the Caribbean,South America,0.32
+2011,Camden,E09000007,Total,220338,79,The Americas and the Caribbean,Jamaica,0.04
+2011,City of London,E09000001,Total,7375,1,The Americas and the Caribbean,Jamaica,0.01
+2011,Hackney,E09000012,Total,246270,1239,The Americas and the Caribbean,Jamaica,0.5
+2011,Hammersmith and Fulham,E09000013,Total,182493,211,The Americas and the Caribbean,Jamaica,0.12
+2011,Haringey,E09000014,Total,254926,1458,The Americas and the Caribbean,Jamaica,0.57
+2011,Islington,E09000019,Total,206125,318,The Americas and the Caribbean,Jamaica,0.15
+2011,Kensington and Chelsea,E09000020,Total,158649,76,The Americas and the Caribbean,Jamaica,0.05
+2011,Lambeth,E09000022,Total,303086,2752,The Americas and the Caribbean,Jamaica,0.91
+2011,Lewisham,E09000023,Total,275885,2911,The Americas and the Caribbean,Jamaica,1.06
+2011,Newham,E09000025,Total,307984,783,The Americas and the Caribbean,Jamaica,0.25
+2011,Southwark,E09000028,Total,288283,1643,The Americas and the Caribbean,Jamaica,0.57
+2011,Tower Hamlets,E09000030,Total,254096,211,The Americas and the Caribbean,Jamaica,0.08
+2011,Wandsworth,E09000032,Total,306995,762,The Americas and the Caribbean,Jamaica,0.25
+2011,Westminster,E09000033,Total,219396,148,The Americas and the Caribbean,Jamaica,0.07
+2011,Barking and Dagenham,E09000002,Total,185911,330,The Americas and the Caribbean,Jamaica,0.18
+2011,Barnet,E09000003,Total,356386,225,The Americas and the Caribbean,Jamaica,0.06
+2011,Bexley,E09000004,Total,231997,149,The Americas and the Caribbean,Jamaica,0.06
+2011,Brent,E09000005,Total,311215,1660,The Americas and the Caribbean,Jamaica,0.53
+2011,Bromley,E09000006,Total,309392,411,The Americas and the Caribbean,Jamaica,0.13
+2011,Croydon,E09000008,Total,363378,2556,The Americas and the Caribbean,Jamaica,0.7
+2011,Ealing,E09000009,Total,338449,485,The Americas and the Caribbean,Jamaica,0.14
+2011,Enfield,E09000010,Total,312466,1253,The Americas and the Caribbean,Jamaica,0.4
+2011,Greenwich,E09000011,Total,254557,561,The Americas and the Caribbean,Jamaica,0.22
+2011,Harrow,E09000015,Total,239056,303,The Americas and the Caribbean,Jamaica,0.13
+2011,Havering,E09000016,Total,237232,87,The Americas and the Caribbean,Jamaica,0.04
+2011,Hillingdon,E09000017,Total,273936,209,The Americas and the Caribbean,Jamaica,0.08
+2011,Hounslow,E09000018,Total,253957,205,The Americas and the Caribbean,Jamaica,0.08
+2011,Kingston upon Thames,E09000021,Total,160060,22,The Americas and the Caribbean,Jamaica,0.01
+2011,Merton,E09000024,Total,199693,448,The Americas and the Caribbean,Jamaica,0.22
+2011,Redbridge,E09000026,Total,278970,349,The Americas and the Caribbean,Jamaica,0.13
+2011,Richmond upon Thames,E09000027,Total,186990,32,The Americas and the Caribbean,Jamaica,0.02
+2011,Sutton,E09000029,Total,190146,100,The Americas and the Caribbean,Jamaica,0.05
+2011,Waltham Forest,E09000031,Total,258249,1082,The Americas and the Caribbean,Jamaica,0.42
+2011,Camden,E09000007,Total,220338,171,The Americas and the Caribbean,Other Caribbean,0.08
+2011,City of London,E09000001,Total,7375,7,The Americas and the Caribbean,Other Caribbean,0.09
+2011,Hackney,E09000012,Total,246270,512,The Americas and the Caribbean,Other Caribbean,0.21
+2011,Hammersmith and Fulham,E09000013,Total,182493,326,The Americas and the Caribbean,Other Caribbean,0.18
+2011,Haringey,E09000014,Total,254926,349,The Americas and the Caribbean,Other Caribbean,0.14
+2011,Islington,E09000019,Total,206125,219,The Americas and the Caribbean,Other Caribbean,0.11
+2011,Kensington and Chelsea,E09000020,Total,158649,151,The Americas and the Caribbean,Other Caribbean,0.1
+2011,Lambeth,E09000022,Total,303086,472,The Americas and the Caribbean,Other Caribbean,0.16
+2011,Lewisham,E09000023,Total,275885,561,The Americas and the Caribbean,Other Caribbean,0.2
+2011,Newham,E09000025,Total,307984,523,The Americas and the Caribbean,Other Caribbean,0.17
+2011,Southwark,E09000028,Total,288283,371,The Americas and the Caribbean,Other Caribbean,0.13
+2011,Tower Hamlets,E09000030,Total,254096,265,The Americas and the Caribbean,Other Caribbean,0.1
+2011,Wandsworth,E09000032,Total,306995,240,The Americas and the Caribbean,Other Caribbean,0.08
+2011,Westminster,E09000033,Total,219396,237,The Americas and the Caribbean,Other Caribbean,0.11
+2011,Barking and Dagenham,E09000002,Total,185911,192,The Americas and the Caribbean,Other Caribbean,0.1
+2011,Barnet,E09000003,Total,356386,208,The Americas and the Caribbean,Other Caribbean,0.06
+2011,Bexley,E09000004,Total,231997,80,The Americas and the Caribbean,Other Caribbean,0.03
+2011,Brent,E09000005,Total,311215,519,The Americas and the Caribbean,Other Caribbean,0.17
+2011,Bromley,E09000006,Total,309392,145,The Americas and the Caribbean,Other Caribbean,0.05
+2011,Croydon,E09000008,Total,363378,537,The Americas and the Caribbean,Other Caribbean,0.15
+2011,Ealing,E09000009,Total,338449,468,The Americas and the Caribbean,Other Caribbean,0.14
+2011,Enfield,E09000010,Total,312466,379,The Americas and the Caribbean,Other Caribbean,0.12
+2011,Greenwich,E09000011,Total,254557,257,The Americas and the Caribbean,Other Caribbean,0.1
+2011,Harrow,E09000015,Total,239056,145,The Americas and the Caribbean,Other Caribbean,0.06
+2011,Havering,E09000016,Total,237232,124,The Americas and the Caribbean,Other Caribbean,0.05
+2011,Hillingdon,E09000017,Total,273936,219,The Americas and the Caribbean,Other Caribbean,0.08
+2011,Hounslow,E09000018,Total,253957,172,The Americas and the Caribbean,Other Caribbean,0.07
+2011,Kingston upon Thames,E09000021,Total,160060,55,The Americas and the Caribbean,Other Caribbean,0.03
+2011,Merton,E09000024,Total,199693,145,The Americas and the Caribbean,Other Caribbean,0.07
+2011,Redbridge,E09000026,Total,278970,247,The Americas and the Caribbean,Other Caribbean,0.09
+2011,Richmond upon Thames,E09000027,Total,186990,57,The Americas and the Caribbean,Other Caribbean,0.03
+2011,Sutton,E09000029,Total,190146,84,The Americas and the Caribbean,Other Caribbean,0.04
+2011,Waltham Forest,E09000031,Total,258249,526,The Americas and the Caribbean,Other Caribbean,0.2

@@ -1,0 +1,103 @@
+date,geography,geography_code,Rural_Urban,total_pop,value,passports_region,passports,percs
+2011,London,E12000007,Total,8173941,29233,Africa,Ghana,0.36
+2011,London,E12000007,Total,8173941,61893,Africa,Nigeria,0.76
+2011,London,E12000007,Total,8173941,17340,Africa,Other Central and Western Africa,0.21
+2011,London,E12000007,Total,8173941,13432,Africa,North Africa,0.16
+2011,London,E12000007,Total,8173941,5730,Africa,Kenya,0.07
+2011,London,E12000007,Total,8173941,23772,Africa,Other South and Eastern Africa,0.29
+2011,London,E12000007,Total,8173941,678,Africa,Somalia,0.01
+2011,London,E12000007,Total,8173941,21986,Africa,South Africa,0.27
+2011,London,E12000007,Total,8173941,8529,Africa,Zimbabwe,0.1
+2011,London,E12000007,Total,8173941,40257,Antarctica and Oceania,Australia,0.49
+2011,London,E12000007,Total,8173941,18622,Antarctica and Oceania,New Zealand,0.23
+2011,London,E12000007,Total,8173941,366,Antarctica and Oceania,Other Oceania,0
+2011,London,E12000007,Total,8173941,452,British Overseas Territories,British Overseas Territories,0.01
+2011,London,E12000007,Total,8173941,141029,Europe,Ireland,1.73
+2011,London,E12000007,Total,8173941,85930,Europe,EU: France,1.05
+2011,London,E12000007,Total,8173941,53405,Europe,EU: Germany,0.65
+2011,London,E12000007,Total,8173941,77080,Europe,EU: Italy,0.94
+2011,London,E12000007,Total,8173941,43965,Europe,EU: Lithuania,0.54
+2011,London,E12000007,Total,8173941,197995,Europe,EU: Other EU countries,2.42
+2011,London,E12000007,Total,8173941,156497,Europe,EU: Poland,1.91
+2011,London,E12000007,Total,8173941,58945,Europe,EU: Portugal,0.72
+2011,London,E12000007,Total,8173941,42774,Europe,EU: Romania,0.52
+2011,London,E12000007,Total,8173941,43320,Europe,EU: Spain,0.53
+2011,London,E12000007,Total,8173941,37536,Europe,Rest of Europe: Other Europe,0.46
+2011,London,E12000007,Total,8173941,15408,Europe,Rest of Europe: Turkey,0.19
+2011,London,E12000007,Total,8173941,5820992,Europe,United Kingdom,71.21
+2011,London,E12000007,Total,8173941,3248,Middle East and Asia,Central Asia,0.04
+2011,London,E12000007,Total,8173941,24527,Middle East and Asia,China,0.3
+2011,London,E12000007,Total,8173941,1799,Middle East and Asia,Hong Kong,0.02
+2011,London,E12000007,Total,8173941,19621,Middle East and Asia,Japan,0.24
+2011,London,E12000007,Total,8173941,9959,Middle East and Asia,Other Eastern Asia,0.12
+2011,London,E12000007,Total,8173941,7826,Middle East and Asia,Iran,0.1
+2011,London,E12000007,Total,8173941,2231,Middle East and Asia,Iraq,0.03
+2011,London,E12000007,Total,8173941,13409,Middle East and Asia,Other Middle East,0.16
+2011,London,E12000007,Total,8173941,14627,Middle East and Asia,Malaysia,0.18
+2011,London,E12000007,Total,8173941,11217,Middle East and Asia,Other South-East Asia,0.14
+2011,London,E12000007,Total,8173941,19617,Middle East and Asia,Philippines,0.24
+2011,London,E12000007,Total,8173941,4634,Middle East and Asia,Singapore,0.06
+2011,London,E12000007,Total,8173941,8058,Middle East and Asia,Afghanistan,0.1
+2011,London,E12000007,Total,8173941,31566,Middle East and Asia,Bangladesh,0.39
+2011,London,E12000007,Total,8173941,123011,Middle East and Asia,India,1.5
+2011,London,E12000007,Total,8173941,18239,Middle East and Asia,Other Southern Asia,0.22
+2011,London,E12000007,Total,8173941,44529,Middle East and Asia,Pakistan,0.54
+2011,London,E12000007,Total,8173941,26138,Middle East and Asia,Sri Lanka,0.32
+2011,London,E12000007,Total,8173941,638343,No passport held,No passport held,7.81
+2011,London,E12000007,Total,8173941,2986,The Americas and the Caribbean,Central America,0.04
+2011,London,E12000007,Total,8173941,15081,The Americas and the Caribbean,Canada,0.18
+2011,London,E12000007,Total,8173941,48062,The Americas and the Caribbean,United States,0.59
+2011,London,E12000007,Total,8173941,36025,The Americas and the Caribbean,South America,0.44
+2011,London,E12000007,Total,8173941,23059,The Americas and the Caribbean,Jamaica,0.28
+2011,London,E12000007,Total,8173941,8963,The Americas and the Caribbean,Other Caribbean,0.11
+2011,England,,Total,44838515,17118,Africa,Ghana,0.04
+2011,England,,Total,44838515,9445,Africa,Kenya,0.02
+2011,England,,Total,44838515,48620,Africa,Nigeria,0.11
+2011,England,,Total,44838515,19821,Africa,North Africa,0.04
+2011,England,,Total,44838515,14915,Africa,Other Central and Western Africa,0.03
+2011,England,,Total,44838515,26174,Africa,Other South and Eastern Africa,0.06
+2011,England,,Total,44838515,476,Africa,Somalia,0
+2011,England,,Total,44838515,36575,Africa,South Africa,0.08
+2011,England,,Total,44838515,39382,Africa,Zimbabwe,0.09
+2011,England,,Total,44838515,25509,Antarctica and Oceania,Australia,0.06
+2011,England,,Total,44838515,12998,Antarctica and Oceania,New Zealand,0.03
+2011,England,,Total,44838515,3120,Antarctica and Oceania,Other Oceania,0.01
+2011,England,,Total,44838515,886,British Overseas Territories,British Overseas Territories,0
+2011,England,,Total,44838515,58224,Europe,EU: France,0.13
+2011,England,,Total,44838515,69052,Europe,EU: Germany,0.15
+2011,England,,Total,44838515,74710,Europe,EU: Italy,0.17
+2011,England,,Total,44838515,59323,Europe,EU: Lithuania,0.13
+2011,England,,Total,44838515,307475,Europe,EU: Other EU countries,0.69
+2011,England,,Total,44838515,384981,Europe,EU: Poland,0.86
+2011,England,,Total,44838515,56642,Europe,EU: Portugal,0.13
+2011,England,,Total,44838515,29087,Europe,EU: Romania,0.06
+2011,England,,Total,44838515,37054,Europe,EU: Spain,0.08
+2011,England,,Total,44838515,221817,Europe,Ireland,0.49
+2011,England,,Total,44838515,38708,Europe,Rest of Europe: Other Europe,0.09
+2011,England,,Total,44838515,12313,Europe,Rest of Europe: Turkey,0.03
+2011,England,,Total,44838515,34353498,Europe,United Kingdom,76.62
+2011,England,,Total,44838515,8176,Middle East and Asia,Afghanistan,0.02
+2011,England,,Total,44838515,24476,Middle East and Asia,Bangladesh,0.05
+2011,England,,Total,44838515,2275,Middle East and Asia,Central Asia,0.01
+2011,England,,Total,44838515,73172,Middle East and Asia,China,0.16
+2011,England,,Total,44838515,6467,Middle East and Asia,Hong Kong,0.01
+2011,England,,Total,44838515,184222,Middle East and Asia,India,0.41
+2011,England,,Total,44838515,9958,Middle East and Asia,Iran,0.02
+2011,England,,Total,44838515,6731,Middle East and Asia,Iraq,0.02
+2011,England,,Total,44838515,11534,Middle East and Asia,Japan,0.03
+2011,England,,Total,44838515,25346,Middle East and Asia,Malaysia,0.06
+2011,England,,Total,44838515,10275,Middle East and Asia,Other Eastern Asia,0.02
+2011,England,,Total,44838515,29944,Middle East and Asia,Other Middle East,0.07
+2011,England,,Total,44838515,26481,Middle East and Asia,Other South-East Asia,0.06
+2011,England,,Total,44838515,27682,Middle East and Asia,Other Southern Asia,0.06
+2011,England,,Total,44838515,103125,Middle East and Asia,Pakistan,0.23
+2011,England,,Total,44838515,36545,Middle East and Asia,Philippines,0.08
+2011,England,,Total,44838515,4202,Middle East and Asia,Singapore,0.01
+2011,England,,Total,44838515,15996,Middle East and Asia,Sri Lanka,0.04
+2011,England,,Total,44838515,8132189,No passport held,No passport held,18.14
+2011,England,,Total,44838515,19433,The Americas and the Caribbean,Canada,0.04
+2011,England,,Total,44838515,3859,The Americas and the Caribbean,Central America,0.01
+2011,England,,Total,44838515,15822,The Americas and the Caribbean,Jamaica,0.04
+2011,England,,Total,44838515,7887,The Americas and the Caribbean,Other Caribbean,0.02
+2011,England,,Total,44838515,18850,The Americas and the Caribbean,South America,0.04
+2011,England,,Total,44838515,75945,The Americas and the Caribbean,United States,0.17

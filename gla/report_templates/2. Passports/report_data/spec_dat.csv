@@ -1,0 +1,52 @@
+date,geography,geography_code,Rural_Urban,total_pop,value,passports_region,passports,percs,passports_new
+2011,London,E12000007,Total,9188981,34375,Africa,Ghana,0.4,Ghana
+2011,London,E12000007,Total,9188981,73018,Africa,Nigeria,0.8,Nigeria
+2011,London,E12000007,Total,9188981,16531,Africa,Other Central and Western Africa,0.2,Other Africa
+2011,London,E12000007,Total,9188981,13369,Africa,North Africa,0.1,Other Africa
+2011,London,E12000007,Total,9188981,6823,Africa,Kenya,0.1,Other Africa
+2011,London,E12000007,Total,9188981,21425,Africa,Other South and Eastern Africa,0.2,Other Africa
+2011,London,E12000007,Total,9188981,754,Africa,Somalia,0,Other Africa
+2011,London,E12000007,Total,9188981,24038,Africa,South Africa,0.3,Other Africa
+2011,London,E12000007,Total,9188981,11852,Africa,Zimbabwe,0.1,Other Africa
+2011,London,E12000007,Total,9188981,32086,Antarctica and Oceania,Australia,0.3,Australia
+2011,London,E12000007,Total,9188981,18360,Antarctica and Oceania,New Zealand,0.2,Other Antarctica and Oceania
+2011,London,E12000007,Total,9188981,416,Antarctica and Oceania,Other Oceania,0,Other Antarctica and Oceania
+2011,London,E12000007,Total,9188981,559,British Overseas Territories,British Overseas Territories,0,British Overseas Territories
+2011,London,E12000007,Total,9188981,162743,Europe,Ireland,1.8,Ireland
+2011,London,E12000007,Total,9188981,79671,Europe,EU: France,0.9,EU: France
+2011,London,E12000007,Total,9188981,69103,Europe,EU: Germany,0.8,EU: Germany
+2011,London,E12000007,Total,9188981,68931,Europe,EU: Italy,0.8,EU: Italy
+2011,London,E12000007,Total,9188981,42149,Europe,EU: Lithuania,0.5,Other Europe
+2011,London,E12000007,Total,9188981,211000,Europe,EU: Other EU countries,2.3,EU: Other EU countries
+2011,London,E12000007,Total,9188981,202282,Europe,EU: Poland,2.2,EU: Poland
+2011,London,E12000007,Total,9188981,66056,Europe,EU: Portugal,0.7,EU: Portugal
+2011,London,E12000007,Total,9188981,48892,Europe,EU: Romania,0.5,Other Europe
+2011,London,E12000007,Total,9188981,53838,Europe,EU: Spain,0.6,EU: Spain
+2011,London,E12000007,Total,9188981,43860,Europe,Rest of Europe: Other Europe,0.5,Other Europe
+2011,London,E12000007,Total,9188981,14599,Europe,Rest of Europe: Turkey,0.2,Other Europe
+2011,London,E12000007,Total,9188981,6641593,Europe,United Kingdom,72.3,United Kingdom
+2011,London,E12000007,Total,9188981,3440,Middle East and Asia,Central Asia,0,Other Middle East and Asia
+2011,London,E12000007,Total,9188981,30616,Middle East and Asia,China,0.3,Other Middle East and Asia
+2011,London,E12000007,Total,9188981,1881,Middle East and Asia,Hong Kong,0,Other Middle East and Asia
+2011,London,E12000007,Total,9188981,17998,Middle East and Asia,Japan,0.2,Other Middle East and Asia
+2011,London,E12000007,Total,9188981,11146,Middle East and Asia,Other Eastern Asia,0.1,Other Middle East and Asia
+2011,London,E12000007,Total,9188981,8651,Middle East and Asia,Iran,0.1,Other Middle East and Asia
+2011,London,E12000007,Total,9188981,2383,Middle East and Asia,Iraq,0,Other Middle East and Asia
+2011,London,E12000007,Total,9188981,12931,Middle East and Asia,Other Middle East,0.1,Other Middle East and Asia
+2011,London,E12000007,Total,9188981,14424,Middle East and Asia,Malaysia,0.2,Other Middle East and Asia
+2011,London,E12000007,Total,9188981,11988,Middle East and Asia,Other South-East Asia,0.1,Other Middle East and Asia
+2011,London,E12000007,Total,9188981,23027,Middle East and Asia,Philippines,0.3,Other Middle East and Asia
+2011,London,E12000007,Total,9188981,4789,Middle East and Asia,Singapore,0.1,Other Middle East and Asia
+2011,London,E12000007,Total,9188981,7920,Middle East and Asia,Afghanistan,0.1,Other Middle East and Asia
+2011,London,E12000007,Total,9188981,25240,Middle East and Asia,Bangladesh,0.3,Other Middle East and Asia
+2011,London,E12000007,Total,9188981,137702,Middle East and Asia,India,1.5,India
+2011,London,E12000007,Total,9188981,20295,Middle East and Asia,Other Southern Asia,0.2,Other Middle East and Asia
+2011,London,E12000007,Total,9188981,53476,Middle East and Asia,Pakistan,0.6,Pakistan
+2011,London,E12000007,Total,9188981,31801,Middle East and Asia,Sri Lanka,0.3,Other Middle East and Asia
+2011,London,E12000007,Total,9188981,673895,No passport held,No passport held,7.3,No passport held
+2011,London,E12000007,Total,9188981,3583,The Americas and the Caribbean,Central America,0,Other Americas and the Caribbean
+2011,London,E12000007,Total,9188981,16139,The Americas and the Caribbean,Canada,0.2,Other Americas and the Caribbean
+2011,London,E12000007,Total,9188981,48175,The Americas and the Caribbean,United States,0.5,United States
+2011,London,E12000007,Total,9188981,35491,The Americas and the Caribbean,South America,0.4,Other Americas and the Caribbean
+2011,London,E12000007,Total,9188981,23873,The Americas and the Caribbean,Jamaica,0.3,Other Americas and the Caribbean
+2011,London,E12000007,Total,9188981,9794,The Americas and the Caribbean,Other Caribbean,0.1,Other Americas and the Caribbean

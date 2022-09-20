@@ -1,0 +1,12 @@
+HH_TENURE_9A,num_HH_TENURE_9A,dat_11,common_cats
+Owned: Owns outright,1,Owned: Owned outright,Owned: Owns outright
+Owned: Owns with a mortgage or loan,2,Owned: Owned with a mortgage or loan,Owned: Owns with a mortgage or loan
+Shared ownership: Shared ownership,3,Shared ownership (part owned and part rented),Shared ownership: Shared ownership
+Social rented: Rents from council or Local Authority,4,Social rented: Rented from council (Local Authority),Social rented: Rents from council or Local Authority
+Social rented: Other social rented,5,Social rented: Other social rented,Social rented: Other social rented
+Private rented: Private landlord or letting agency,6,Private rented: Private landlord or letting agency,Private rented: Private landlord or letting agency
+Private rented: Other private rented,7,Private rented: Employer of a household member,Private rented: Other private rented
+Private rented: Other private rented,7,Private rented: Relative or friend of household member,Private rented: Other private rented
+Private rented: Other private rented,7,Private rented: Other,Private rented: Other private rented
+Lives rent free,8,Living rent free,Lives rent free
+,,,

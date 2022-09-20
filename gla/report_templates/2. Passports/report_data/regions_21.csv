@@ -1,0 +1,460 @@
+date,geography,geography_code,Rural_Urban,total_pop,value,passports_region,passports,percs
+2011,North East,E12000001,Total,2901250,207,Africa,Ghana,0
+2011,North West,E12000002,Total,7869972,2325,Africa,Ghana,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,1750,Africa,Ghana,0
+2011,East Midlands,E12000004,Total,5247264,1707,Africa,Ghana,0
+2011,West Midlands,E12000005,Total,6225632,2346,Africa,Ghana,0
+2011,East,E12000006,Total,6409180,4193,Africa,Ghana,0.1
+2011,London,E12000007,Total,8872079,29251,Africa,Ghana,0.3
+2011,South East,E12000008,Total,9592834,4513,Africa,Ghana,0
+2011,South West,E12000009,Total,6078543,1044,Africa,Ghana,0
+2011,North East,E12000001,Total,2901250,2233,Africa,Nigeria,0.1
+2011,North West,E12000002,Total,7869972,10413,Africa,Nigeria,0.1
+2011,Yorkshire and The Humber,E12000003,Total,5854365,4451,Africa,Nigeria,0.1
+2011,East Midlands,E12000004,Total,5247264,5369,Africa,Nigeria,0.1
+2011,West Midlands,E12000005,Total,6225632,6710,Africa,Nigeria,0.1
+2011,East,E12000006,Total,6409180,8969,Africa,Nigeria,0.1
+2011,London,E12000007,Total,8872079,63123,Africa,Nigeria,0.7
+2011,South East,E12000008,Total,9592834,8712,Africa,Nigeria,0.1
+2011,South West,E12000009,Total,6078543,2206,Africa,Nigeria,0
+2011,North East,E12000001,Total,2901250,461,Africa,Other Central and Western Africa,0
+2011,North West,E12000002,Total,7869972,2322,Africa,Other Central and Western Africa,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,2099,Africa,Other Central and Western Africa,0
+2011,East Midlands,E12000004,Total,5247264,1349,Africa,Other Central and Western Africa,0
+2011,West Midlands,E12000005,Total,6225632,3465,Africa,Other Central and Western Africa,0.1
+2011,East,E12000006,Total,6409180,1468,Africa,Other Central and Western Africa,0
+2011,London,E12000007,Total,8872079,17071,Africa,Other Central and Western Africa,0.2
+2011,South East,E12000008,Total,9592834,3159,Africa,Other Central and Western Africa,0
+2011,South West,E12000009,Total,6078543,1116,Africa,Other Central and Western Africa,0
+2011,North East,E12000001,Total,2901250,1588,Africa,North Africa,0.1
+2011,North West,E12000002,Total,7869972,3134,Africa,North Africa,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,3636,Africa,North Africa,0.1
+2011,East Midlands,E12000004,Total,5247264,2289,Africa,North Africa,0
+2011,West Midlands,E12000005,Total,6225632,2254,Africa,North Africa,0
+2011,East,E12000006,Total,6409180,1764,Africa,North Africa,0
+2011,London,E12000007,Total,8872079,13590,Africa,North Africa,0.2
+2011,South East,E12000008,Total,9592834,3141,Africa,North Africa,0
+2011,South West,E12000009,Total,6078543,1315,Africa,North Africa,0
+2011,North East,E12000001,Total,2901250,214,Africa,Kenya,0
+2011,North West,E12000002,Total,7869972,1096,Africa,Kenya,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,1267,Africa,Kenya,0
+2011,East Midlands,E12000004,Total,5247264,1298,Africa,Kenya,0
+2011,West Midlands,E12000005,Total,6225632,1301,Africa,Kenya,0
+2011,East,E12000006,Total,6409180,1556,Africa,Kenya,0
+2011,London,E12000007,Total,8872079,6507,Africa,Kenya,0.1
+2011,South East,E12000008,Total,9592834,3287,Africa,Kenya,0
+2011,South West,E12000009,Total,6078543,817,Africa,Kenya,0
+2011,North East,E12000001,Total,2901250,540,Africa,Other South and Eastern Africa,0
+2011,North West,E12000002,Total,7869972,3501,Africa,Other South and Eastern Africa,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,3591,Africa,Other South and Eastern Africa,0.1
+2011,East Midlands,E12000004,Total,5247264,3018,Africa,Other South and Eastern Africa,0.1
+2011,West Midlands,E12000005,Total,6225632,4096,Africa,Other South and Eastern Africa,0.1
+2011,East,E12000006,Total,6409180,4937,Africa,Other South and Eastern Africa,0.1
+2011,London,E12000007,Total,8872079,26236,Africa,Other South and Eastern Africa,0.3
+2011,South East,E12000008,Total,9592834,7735,Africa,Other South and Eastern Africa,0.1
+2011,South West,E12000009,Total,6078543,1645,Africa,Other South and Eastern Africa,0
+2011,North East,E12000001,Total,2901250,1,Africa,Somalia,0
+2011,North West,E12000002,Total,7869972,85,Africa,Somalia,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,134,Africa,Somalia,0
+2011,East Midlands,E12000004,Total,5247264,67,Africa,Somalia,0
+2011,West Midlands,E12000005,Total,6225632,116,Africa,Somalia,0
+2011,East,E12000006,Total,6409180,19,Africa,Somalia,0
+2011,London,E12000007,Total,8872079,743,Africa,Somalia,0
+2011,South East,E12000008,Total,9592834,24,Africa,Somalia,0
+2011,South West,E12000009,Total,6078543,67,Africa,Somalia,0
+2011,North East,E12000001,Total,2901250,786,Africa,South Africa,0
+2011,North West,E12000002,Total,7869972,2396,Africa,South Africa,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,2260,Africa,South Africa,0
+2011,East Midlands,E12000004,Total,5247264,2897,Africa,South Africa,0.1
+2011,West Midlands,E12000005,Total,6225632,2943,Africa,South Africa,0
+2011,East,E12000006,Total,6409180,7379,Africa,South Africa,0.1
+2011,London,E12000007,Total,8872079,22640,Africa,South Africa,0.3
+2011,South East,E12000008,Total,9592834,15859,Africa,South Africa,0.2
+2011,South West,E12000009,Total,6078543,4156,Africa,South Africa,0.1
+2011,North East,E12000001,Total,2901250,954,Africa,Zimbabwe,0
+2011,North West,E12000002,Total,7869972,3688,Africa,Zimbabwe,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,5882,Africa,Zimbabwe,0.1
+2011,East Midlands,E12000004,Total,5247264,5962,Africa,Zimbabwe,0.1
+2011,West Midlands,E12000005,Total,6225632,6066,Africa,Zimbabwe,0.1
+2011,East,E12000006,Total,6409180,8048,Africa,Zimbabwe,0.1
+2011,London,E12000007,Total,8872079,8158,Africa,Zimbabwe,0.1
+2011,South East,E12000008,Total,9592834,11483,Africa,Zimbabwe,0.1
+2011,South West,E12000009,Total,6078543,2500,Africa,Zimbabwe,0
+2011,North East,E12000001,Total,2901250,710,Antarctica and Oceania,Australia,0
+2011,North West,E12000002,Total,7869972,2576,Antarctica and Oceania,Australia,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,1776,Antarctica and Oceania,Australia,0
+2011,East Midlands,E12000004,Total,5247264,1645,Antarctica and Oceania,Australia,0
+2011,West Midlands,E12000005,Total,6225632,1647,Antarctica and Oceania,Australia,0
+2011,East,E12000006,Total,6409180,4322,Antarctica and Oceania,Australia,0.1
+2011,London,E12000007,Total,8872079,43747,Antarctica and Oceania,Australia,0.5
+2011,South East,E12000008,Total,9592834,9652,Antarctica and Oceania,Australia,0.1
+2011,South West,E12000009,Total,6078543,3842,Antarctica and Oceania,Australia,0.1
+2011,North East,E12000001,Total,2901250,277,Antarctica and Oceania,New Zealand,0
+2011,North West,E12000002,Total,7869972,1089,Antarctica and Oceania,New Zealand,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,870,Antarctica and Oceania,New Zealand,0
+2011,East Midlands,E12000004,Total,5247264,758,Antarctica and Oceania,New Zealand,0
+2011,West Midlands,E12000005,Total,6225632,756,Antarctica and Oceania,New Zealand,0
+2011,East,E12000006,Total,6409180,2912,Antarctica and Oceania,New Zealand,0
+2011,London,E12000007,Total,8872079,19967,Antarctica and Oceania,New Zealand,0.2
+2011,South East,E12000008,Total,9592834,5787,Antarctica and Oceania,New Zealand,0.1
+2011,South West,E12000009,Total,6078543,1715,Antarctica and Oceania,New Zealand,0
+2011,North East,E12000001,Total,2901250,40,Antarctica and Oceania,Other Oceania,0
+2011,North West,E12000002,Total,7869972,216,Antarctica and Oceania,Other Oceania,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,443,Antarctica and Oceania,Other Oceania,0
+2011,East Midlands,E12000004,Total,5247264,113,Antarctica and Oceania,Other Oceania,0
+2011,West Midlands,E12000005,Total,6225632,316,Antarctica and Oceania,Other Oceania,0
+2011,East,E12000006,Total,6409180,415,Antarctica and Oceania,Other Oceania,0
+2011,London,E12000007,Total,8872079,419,Antarctica and Oceania,Other Oceania,0
+2011,South East,E12000008,Total,9592834,1062,Antarctica and Oceania,Other Oceania,0
+2011,South West,E12000009,Total,6078543,946,Antarctica and Oceania,Other Oceania,0
+2011,North East,E12000001,Total,2901250,56,British Overseas Territories,British Overseas Territories,0
+2011,North West,E12000002,Total,7869972,105,British Overseas Territories,British Overseas Territories,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,81,British Overseas Territories,British Overseas Territories,0
+2011,East Midlands,E12000004,Total,5247264,120,British Overseas Territories,British Overseas Territories,0
+2011,West Midlands,E12000005,Total,6225632,124,British Overseas Territories,British Overseas Territories,0
+2011,East,E12000006,Total,6409180,72,British Overseas Territories,British Overseas Territories,0
+2011,London,E12000007,Total,8872079,431,British Overseas Territories,British Overseas Territories,0
+2011,South East,E12000008,Total,9592834,246,British Overseas Territories,British Overseas Territories,0
+2011,South West,E12000009,Total,6078543,125,British Overseas Territories,British Overseas Territories,0
+2011,North East,E12000001,Total,2901250,5451,Europe,Ireland,0.2
+2011,North West,E12000002,Total,7869972,40409,Europe,Ireland,0.5
+2011,Yorkshire and The Humber,E12000003,Total,5854365,13479,Europe,Ireland,0.2
+2011,East Midlands,E12000004,Total,5247264,20055,Europe,Ireland,0.4
+2011,West Midlands,E12000005,Total,6225632,32715,Europe,Ireland,0.5
+2011,East,E12000006,Total,6409180,41135,Europe,Ireland,0.6
+2011,London,E12000007,Total,8872079,170577,Europe,Ireland,1.9
+2011,South East,E12000008,Total,9592834,61472,Europe,Ireland,0.6
+2011,South West,E12000009,Total,6078543,19695,Europe,Ireland,0.3
+2011,North East,E12000001,Total,2901250,1403,Europe,EU: France,0
+2011,North West,E12000002,Total,7869972,6327,Europe,EU: France,0.1
+2011,Yorkshire and The Humber,E12000003,Total,5854365,4558,Europe,EU: France,0.1
+2011,East Midlands,E12000004,Total,5247264,4623,Europe,EU: France,0.1
+2011,West Midlands,E12000005,Total,6225632,6205,Europe,EU: France,0.1
+2011,East,E12000006,Total,6409180,10152,Europe,EU: France,0.2
+2011,London,E12000007,Total,8872079,88703,Europe,EU: France,1
+2011,South East,E12000008,Total,9592834,23557,Europe,EU: France,0.2
+2011,South West,E12000009,Total,6078543,8429,Europe,EU: France,0.1
+2011,North East,E12000001,Total,2901250,2156,Europe,EU: Germany,0.1
+2011,North West,E12000002,Total,7869972,8176,Europe,EU: Germany,0.1
+2011,Yorkshire and The Humber,E12000003,Total,5854365,6064,Europe,EU: Germany,0.1
+2011,East Midlands,E12000004,Total,5247264,5914,Europe,EU: Germany,0.1
+2011,West Midlands,E12000005,Total,6225632,6420,Europe,EU: Germany,0.1
+2011,East,E12000006,Total,6409180,11016,Europe,EU: Germany,0.2
+2011,London,E12000007,Total,8872079,55060,Europe,EU: Germany,0.6
+2011,South East,E12000008,Total,9592834,21908,Europe,EU: Germany,0.2
+2011,South West,E12000009,Total,6078543,8902,Europe,EU: Germany,0.1
+2011,North East,E12000001,Total,2901250,1517,Europe,EU: Italy,0.1
+2011,North West,E12000002,Total,7869972,8398,Europe,EU: Italy,0.1
+2011,Yorkshire and The Humber,E12000003,Total,5854365,5656,Europe,EU: Italy,0.1
+2011,East Midlands,E12000004,Total,5247264,7367,Europe,EU: Italy,0.1
+2011,West Midlands,E12000005,Total,6225632,7325,Europe,EU: Italy,0.1
+2011,East,E12000006,Total,6409180,20169,Europe,EU: Italy,0.3
+2011,London,E12000007,Total,8872079,80003,Europe,EU: Italy,0.9
+2011,South East,E12000008,Total,9592834,25988,Europe,EU: Italy,0.3
+2011,South West,E12000009,Total,6078543,9194,Europe,EU: Italy,0.2
+2011,North East,E12000001,Total,2901250,1344,Europe,EU: Lithuania,0
+2011,North West,E12000002,Total,7869972,4988,Europe,EU: Lithuania,0.1
+2011,Yorkshire and The Humber,E12000003,Total,5854365,5500,Europe,EU: Lithuania,0.1
+2011,East Midlands,E12000004,Total,5247264,10827,Europe,EU: Lithuania,0.2
+2011,West Midlands,E12000005,Total,6225632,4851,Europe,EU: Lithuania,0.1
+2011,East,E12000006,Total,6409180,17776,Europe,EU: Lithuania,0.3
+2011,London,E12000007,Total,8872079,60424,Europe,EU: Lithuania,0.7
+2011,South East,E12000008,Total,9592834,11486,Europe,EU: Lithuania,0.1
+2011,South West,E12000009,Total,6078543,4416,Europe,EU: Lithuania,0.1
+2011,North East,E12000001,Total,2901250,5967,Europe,EU: Other EU countries,0.2
+2011,North West,E12000002,Total,7869972,37890,Europe,EU: Other EU countries,0.5
+2011,Yorkshire and The Humber,E12000003,Total,5854365,38811,Europe,EU: Other EU countries,0.7
+2011,East Midlands,E12000004,Total,5247264,38085,Europe,EU: Other EU countries,0.7
+2011,West Midlands,E12000005,Total,6225632,47739,Europe,EU: Other EU countries,0.8
+2011,East,E12000006,Total,6409180,57144,Europe,EU: Other EU countries,0.9
+2011,London,E12000007,Total,8872079,235002,Europe,EU: Other EU countries,2.6
+2011,South East,E12000008,Total,9592834,83104,Europe,EU: Other EU countries,0.9
+2011,South West,E12000009,Total,6078543,33101,Europe,EU: Other EU countries,0.5
+2011,North East,E12000001,Total,2901250,8656,Europe,EU: Poland,0.3
+2011,North West,E12000002,Total,7869972,50394,Europe,EU: Poland,0.6
+2011,Yorkshire and The Humber,E12000003,Total,5854365,35170,Europe,EU: Poland,0.6
+2011,East Midlands,E12000004,Total,5247264,50285,Europe,EU: Poland,1
+2011,West Midlands,E12000005,Total,6225632,55910,Europe,EU: Poland,0.9
+2011,East,E12000006,Total,6409180,77459,Europe,EU: Poland,1.2
+2011,London,E12000007,Total,8872079,175288,Europe,EU: Poland,2
+2011,South East,E12000008,Total,9592834,88953,Europe,EU: Poland,0.9
+2011,South West,E12000009,Total,6078543,41685,Europe,EU: Poland,0.7
+2011,North East,E12000001,Total,2901250,924,Europe,EU: Portugal,0
+2011,North West,E12000002,Total,7869972,4417,Europe,EU: Portugal,0.1
+2011,Yorkshire and The Humber,E12000003,Total,5854365,3508,Europe,EU: Portugal,0.1
+2011,East Midlands,E12000004,Total,5247264,8693,Europe,EU: Portugal,0.2
+2011,West Midlands,E12000005,Total,6225632,4538,Europe,EU: Portugal,0.1
+2011,East,E12000006,Total,6409180,15252,Europe,EU: Portugal,0.2
+2011,London,E12000007,Total,8872079,64908,Europe,EU: Portugal,0.7
+2011,South East,E12000008,Total,9592834,17016,Europe,EU: Portugal,0.2
+2011,South West,E12000009,Total,6078543,9418,Europe,EU: Portugal,0.2
+2011,North East,E12000001,Total,2901250,980,Europe,EU: Romania,0
+2011,North West,E12000002,Total,7869972,2792,Europe,EU: Romania,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,1862,Europe,EU: Romania,0
+2011,East Midlands,E12000004,Total,5247264,3311,Europe,EU: Romania,0.1
+2011,West Midlands,E12000005,Total,6225632,3901,Europe,EU: Romania,0.1
+2011,East,E12000006,Total,6409180,7358,Europe,EU: Romania,0.1
+2011,London,E12000007,Total,8872079,38894,Europe,EU: Romania,0.4
+2011,South East,E12000008,Total,9592834,8091,Europe,EU: Romania,0.1
+2011,South West,E12000009,Total,6078543,3389,Europe,EU: Romania,0.1
+2011,North East,E12000001,Total,2901250,881,Europe,EU: Spain,0
+2011,North West,E12000002,Total,7869972,5330,Europe,EU: Spain,0.1
+2011,Yorkshire and The Humber,E12000003,Total,5854365,2650,Europe,EU: Spain,0
+2011,East Midlands,E12000004,Total,5247264,2616,Europe,EU: Spain,0
+2011,West Midlands,E12000005,Total,6225632,2834,Europe,EU: Spain,0
+2011,East,E12000006,Total,6409180,7098,Europe,EU: Spain,0.1
+2011,London,E12000007,Total,8872079,56201,Europe,EU: Spain,0.6
+2011,South East,E12000008,Total,9592834,15403,Europe,EU: Spain,0.2
+2011,South West,E12000009,Total,6078543,4852,Europe,EU: Spain,0.1
+2011,North East,E12000001,Total,2901250,1327,Europe,Rest of Europe: Other Europe,0
+2011,North West,E12000002,Total,7869972,5694,Europe,Rest of Europe: Other Europe,0.1
+2011,Yorkshire and The Humber,E12000003,Total,5854365,3239,Europe,Rest of Europe: Other Europe,0.1
+2011,East Midlands,E12000004,Total,5247264,2982,Europe,Rest of Europe: Other Europe,0.1
+2011,West Midlands,E12000005,Total,6225632,4352,Europe,Rest of Europe: Other Europe,0.1
+2011,East,E12000006,Total,6409180,6550,Europe,Rest of Europe: Other Europe,0.1
+2011,London,E12000007,Total,8872079,39132,Europe,Rest of Europe: Other Europe,0.4
+2011,South East,E12000008,Total,9592834,12087,Europe,Rest of Europe: Other Europe,0.1
+2011,South West,E12000009,Total,6078543,5077,Europe,Rest of Europe: Other Europe,0.1
+2011,North East,E12000001,Total,2901250,517,Europe,Rest of Europe: Turkey,0
+2011,North West,E12000002,Total,7869972,1415,Europe,Rest of Europe: Turkey,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,930,Europe,Rest of Europe: Turkey,0
+2011,East Midlands,E12000004,Total,5247264,1276,Europe,Rest of Europe: Turkey,0
+2011,West Midlands,E12000005,Total,6225632,1246,Europe,Rest of Europe: Turkey,0
+2011,East,E12000006,Total,6409180,2333,Europe,Rest of Europe: Turkey,0
+2011,London,E12000007,Total,8872079,16578,Europe,Rest of Europe: Turkey,0.2
+2011,South East,E12000008,Total,9592834,3556,Europe,Rest of Europe: Turkey,0
+2011,South West,E12000009,Total,6078543,1419,Europe,Rest of Europe: Turkey,0
+2011,North East,E12000001,Total,2901250,2253328,Europe,United Kingdom,77.7
+2011,North West,E12000002,Total,7869972,6271512,Europe,United Kingdom,79.7
+2011,Yorkshire and The Humber,E12000003,Total,5854365,4404615,Europe,United Kingdom,75.2
+2011,East Midlands,E12000004,Total,5247264,4068439,Europe,United Kingdom,77.5
+2011,West Midlands,E12000005,Total,6225632,4599579,Europe,United Kingdom,73.9
+2011,East,E12000006,Total,6409180,4912696,Europe,United Kingdom,76.7
+2011,London,E12000007,Total,8872079,6384490,Europe,United Kingdom,72
+2011,South East,E12000008,Total,9592834,7601594,Europe,United Kingdom,79.2
+2011,South West,E12000009,Total,6078543,4753673,Europe,United Kingdom,78.2
+2011,North East,E12000001,Total,2901250,120,Middle East and Asia,Central Asia,0
+2011,North West,E12000002,Total,7869972,274,Middle East and Asia,Central Asia,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,182,Middle East and Asia,Central Asia,0
+2011,East Midlands,E12000004,Total,5247264,192,Middle East and Asia,Central Asia,0
+2011,West Midlands,E12000005,Total,6225632,287,Middle East and Asia,Central Asia,0
+2011,East,E12000006,Total,6409180,319,Middle East and Asia,Central Asia,0
+2011,London,E12000007,Total,8872079,3559,Middle East and Asia,Central Asia,0
+2011,South East,E12000008,Total,9592834,775,Middle East and Asia,Central Asia,0
+2011,South West,E12000009,Total,6078543,326,Middle East and Asia,Central Asia,0
+2011,North East,E12000001,Total,2901250,5404,Middle East and Asia,China,0.2
+2011,North West,E12000002,Total,7869972,14070,Middle East and Asia,China,0.2
+2011,Yorkshire and The Humber,E12000003,Total,5854365,9329,Middle East and Asia,China,0.2
+2011,East Midlands,E12000004,Total,5247264,9205,Middle East and Asia,China,0.2
+2011,West Midlands,E12000005,Total,6225632,9732,Middle East and Asia,China,0.2
+2011,East,E12000006,Total,6409180,7828,Middle East and Asia,China,0.1
+2011,London,E12000007,Total,8872079,23331,Middle East and Asia,China,0.3
+2011,South East,E12000008,Total,9592834,13897,Middle East and Asia,China,0.1
+2011,South West,E12000009,Total,6078543,7384,Middle East and Asia,China,0.1
+2011,North East,E12000001,Total,2901250,387,Middle East and Asia,Hong Kong,0
+2011,North West,E12000002,Total,7869972,797,Middle East and Asia,Hong Kong,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,646,Middle East and Asia,Hong Kong,0
+2011,East Midlands,E12000004,Total,5247264,780,Middle East and Asia,Hong Kong,0
+2011,West Midlands,E12000005,Total,6225632,1071,Middle East and Asia,Hong Kong,0
+2011,East,E12000006,Total,6409180,733,Middle East and Asia,Hong Kong,0
+2011,London,E12000007,Total,8872079,2070,Middle East and Asia,Hong Kong,0
+2011,South East,E12000008,Total,9592834,1960,Middle East and Asia,Hong Kong,0
+2011,South West,E12000009,Total,6078543,1043,Middle East and Asia,Hong Kong,0
+2011,North East,E12000001,Total,2901250,456,Middle East and Asia,Japan,0
+2011,North West,E12000002,Total,7869972,934,Middle East and Asia,Japan,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,862,Middle East and Asia,Japan,0
+2011,East Midlands,E12000004,Total,5247264,747,Middle East and Asia,Japan,0
+2011,West Midlands,E12000005,Total,6225632,1203,Middle East and Asia,Japan,0
+2011,East,E12000006,Total,6409180,1790,Middle East and Asia,Japan,0
+2011,London,E12000007,Total,8872079,21621,Middle East and Asia,Japan,0.2
+2011,South East,E12000008,Total,9592834,4313,Middle East and Asia,Japan,0
+2011,South West,E12000009,Total,6078543,1469,Middle East and Asia,Japan,0
+2011,North East,E12000001,Total,2901250,449,Middle East and Asia,Other Eastern Asia,0
+2011,North West,E12000002,Total,7869972,1263,Middle East and Asia,Other Eastern Asia,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,1138,Middle East and Asia,Other Eastern Asia,0
+2011,East Midlands,E12000004,Total,5247264,840,Middle East and Asia,Other Eastern Asia,0
+2011,West Midlands,E12000005,Total,6225632,1080,Middle East and Asia,Other Eastern Asia,0
+2011,East,E12000006,Total,6409180,1096,Middle East and Asia,Other Eastern Asia,0
+2011,London,E12000007,Total,8872079,12305,Middle East and Asia,Other Eastern Asia,0.1
+2011,South East,E12000008,Total,9592834,4238,Middle East and Asia,Other Eastern Asia,0
+2011,South West,E12000009,Total,6078543,1132,Middle East and Asia,Other Eastern Asia,0
+2011,North East,E12000001,Total,2901250,676,Middle East and Asia,Iran,0
+2011,North West,E12000002,Total,7869972,2360,Middle East and Asia,Iran,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,1624,Middle East and Asia,Iran,0
+2011,East Midlands,E12000004,Total,5247264,778,Middle East and Asia,Iran,0
+2011,West Midlands,E12000005,Total,6225632,1588,Middle East and Asia,Iran,0
+2011,East,E12000006,Total,6409180,888,Middle East and Asia,Iran,0
+2011,London,E12000007,Total,8872079,9164,Middle East and Asia,Iran,0.1
+2011,South East,E12000008,Total,9592834,2056,Middle East and Asia,Iran,0
+2011,South West,E12000009,Total,6078543,539,Middle East and Asia,Iran,0
+2011,North East,E12000001,Total,2901250,458,Middle East and Asia,Iraq,0
+2011,North West,E12000002,Total,7869972,1618,Middle East and Asia,Iraq,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,1523,Middle East and Asia,Iraq,0
+2011,East Midlands,E12000004,Total,5247264,908,Middle East and Asia,Iraq,0
+2011,West Midlands,E12000005,Total,6225632,1312,Middle East and Asia,Iraq,0
+2011,East,E12000006,Total,6409180,535,Middle East and Asia,Iraq,0
+2011,London,E12000007,Total,8872079,2293,Middle East and Asia,Iraq,0
+2011,South East,E12000008,Total,9592834,824,Middle East and Asia,Iraq,0
+2011,South West,E12000009,Total,6078543,367,Middle East and Asia,Iraq,0
+2011,North East,E12000001,Total,2901250,2214,Middle East and Asia,Other Middle East,0.1
+2011,North West,E12000002,Total,7869972,5775,Middle East and Asia,Other Middle East,0.1
+2011,Yorkshire and The Humber,E12000003,Total,5854365,6899,Middle East and Asia,Other Middle East,0.1
+2011,East Midlands,E12000004,Total,5247264,3867,Middle East and Asia,Other Middle East,0.1
+2011,West Midlands,E12000005,Total,6225632,3074,Middle East and Asia,Other Middle East,0
+2011,East,E12000006,Total,6409180,3575,Middle East and Asia,Other Middle East,0.1
+2011,London,E12000007,Total,8872079,14380,Middle East and Asia,Other Middle East,0.2
+2011,South East,E12000008,Total,9592834,5236,Middle East and Asia,Other Middle East,0.1
+2011,South West,E12000009,Total,6078543,1529,Middle East and Asia,Other Middle East,0
+2011,North East,E12000001,Total,2901250,1909,Middle East and Asia,Malaysia,0.1
+2011,North West,E12000002,Total,7869972,3688,Middle East and Asia,Malaysia,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,3490,Middle East and Asia,Malaysia,0.1
+2011,East Midlands,E12000004,Total,5247264,2526,Middle East and Asia,Malaysia,0
+2011,West Midlands,E12000005,Total,6225632,3353,Middle East and Asia,Malaysia,0.1
+2011,East,E12000006,Total,6409180,3517,Middle East and Asia,Malaysia,0.1
+2011,London,E12000007,Total,8872079,16079,Middle East and Asia,Malaysia,0.2
+2011,South East,E12000008,Total,9592834,6685,Middle East and Asia,Malaysia,0.1
+2011,South West,E12000009,Total,6078543,2262,Middle East and Asia,Malaysia,0
+2011,North East,E12000001,Total,2901250,1677,Middle East and Asia,Other South-East Asia,0.1
+2011,North West,E12000002,Total,7869972,3714,Middle East and Asia,Other South-East Asia,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,2755,Middle East and Asia,Other South-East Asia,0
+2011,East Midlands,E12000004,Total,5247264,2795,Middle East and Asia,Other South-East Asia,0.1
+2011,West Midlands,E12000005,Total,6225632,3793,Middle East and Asia,Other South-East Asia,0.1
+2011,East,E12000006,Total,6409180,3605,Middle East and Asia,Other South-East Asia,0.1
+2011,London,E12000007,Total,8872079,11085,Middle East and Asia,Other South-East Asia,0.1
+2011,South East,E12000008,Total,9592834,6665,Middle East and Asia,Other South-East Asia,0.1
+2011,South West,E12000009,Total,6078543,3478,Middle East and Asia,Other South-East Asia,0.1
+2011,North East,E12000001,Total,2901250,2066,Middle East and Asia,Philippines,0.1
+2011,North West,E12000002,Total,7869972,4374,Middle East and Asia,Philippines,0.1
+2011,Yorkshire and The Humber,E12000003,Total,5854365,3004,Middle East and Asia,Philippines,0.1
+2011,East Midlands,E12000004,Total,5247264,3151,Middle East and Asia,Philippines,0.1
+2011,West Midlands,E12000005,Total,6225632,3635,Middle East and Asia,Philippines,0.1
+2011,East,E12000006,Total,6409180,5376,Middle East and Asia,Philippines,0.1
+2011,London,E12000007,Total,8872079,20065,Middle East and Asia,Philippines,0.2
+2011,South East,E12000008,Total,9592834,10959,Middle East and Asia,Philippines,0.1
+2011,South West,E12000009,Total,6078543,4014,Middle East and Asia,Philippines,0.1
+2011,North East,E12000001,Total,2901250,204,Middle East and Asia,Singapore,0
+2011,North West,E12000002,Total,7869972,516,Middle East and Asia,Singapore,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,385,Middle East and Asia,Singapore,0
+2011,East Midlands,E12000004,Total,5247264,278,Middle East and Asia,Singapore,0
+2011,West Midlands,E12000005,Total,6225632,501,Middle East and Asia,Singapore,0
+2011,East,E12000006,Total,6409180,946,Middle East and Asia,Singapore,0
+2011,London,E12000007,Total,8872079,4551,Middle East and Asia,Singapore,0.1
+2011,South East,E12000008,Total,9592834,1265,Middle East and Asia,Singapore,0
+2011,South West,E12000009,Total,6078543,553,Middle East and Asia,Singapore,0
+2011,North East,E12000001,Total,2901250,294,Middle East and Asia,Afghanistan,0
+2011,North West,E12000002,Total,7869972,1580,Middle East and Asia,Afghanistan,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,1226,Middle East and Asia,Afghanistan,0
+2011,East Midlands,E12000004,Total,5247264,886,Middle East and Asia,Afghanistan,0
+2011,West Midlands,E12000005,Total,6225632,2450,Middle East and Asia,Afghanistan,0
+2011,East,E12000006,Total,6409180,813,Middle East and Asia,Afghanistan,0
+2011,London,E12000007,Total,8872079,7586,Middle East and Asia,Afghanistan,0.1
+2011,South East,E12000008,Total,9592834,1461,Middle East and Asia,Afghanistan,0
+2011,South West,E12000009,Total,6078543,301,Middle East and Asia,Afghanistan,0
+2011,North East,E12000001,Total,2901250,1616,Middle East and Asia,Bangladesh,0.1
+2011,North West,E12000002,Total,7869972,4822,Middle East and Asia,Bangladesh,0.1
+2011,Yorkshire and The Humber,E12000003,Total,5854365,1961,Middle East and Asia,Bangladesh,0
+2011,East Midlands,E12000004,Total,5247264,1696,Middle East and Asia,Bangladesh,0
+2011,West Midlands,E12000005,Total,6225632,5317,Middle East and Asia,Bangladesh,0.1
+2011,East,E12000006,Total,6409180,4149,Middle East and Asia,Bangladesh,0.1
+2011,London,E12000007,Total,8872079,34193,Middle East and Asia,Bangladesh,0.4
+2011,South East,E12000008,Total,9592834,4250,Middle East and Asia,Bangladesh,0
+2011,South West,E12000009,Total,6078543,1495,Middle East and Asia,Bangladesh,0
+2011,North East,E12000001,Total,2901250,6685,Middle East and Asia,India,0.2
+2011,North West,E12000002,Total,7869972,19492,Middle East and Asia,India,0.2
+2011,Yorkshire and The Humber,E12000003,Total,5854365,13593,Middle East and Asia,India,0.2
+2011,East Midlands,E12000004,Total,5247264,20204,Middle East and Asia,India,0.4
+2011,West Midlands,E12000005,Total,6225632,42697,Middle East and Asia,India,0.7
+2011,East,E12000006,Total,6409180,27720,Middle East and Asia,India,0.4
+2011,London,E12000007,Total,8872079,141932,Middle East and Asia,India,1.6
+2011,South East,E12000008,Total,9592834,48998,Middle East and Asia,India,0.5
+2011,South West,E12000009,Total,6078543,15063,Middle East and Asia,India,0.2
+2011,North East,E12000001,Total,2901250,328,Middle East and Asia,Other Southern Asia,0
+2011,North West,E12000002,Total,7869972,540,Middle East and Asia,Other Southern Asia,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,1963,Middle East and Asia,Other Southern Asia,0
+2011,East Midlands,E12000004,Total,5247264,930,Middle East and Asia,Other Southern Asia,0
+2011,West Midlands,E12000005,Total,6225632,1433,Middle East and Asia,Other Southern Asia,0
+2011,East,E12000006,Total,6409180,1755,Middle East and Asia,Other Southern Asia,0
+2011,London,E12000007,Total,8872079,21527,Middle East and Asia,Other Southern Asia,0.2
+2011,South East,E12000008,Total,9592834,20056,Middle East and Asia,Other Southern Asia,0.2
+2011,South West,E12000009,Total,6078543,3044,Middle East and Asia,Other Southern Asia,0.1
+2011,North East,E12000001,Total,2901250,3145,Middle East and Asia,Pakistan,0.1
+2011,North West,E12000002,Total,7869972,27543,Middle East and Asia,Pakistan,0.3
+2011,Yorkshire and The Humber,E12000003,Total,5854365,23516,Middle East and Asia,Pakistan,0.4
+2011,East Midlands,E12000004,Total,5247264,6253,Middle East and Asia,Pakistan,0.1
+2011,West Midlands,E12000005,Total,6225632,20404,Middle East and Asia,Pakistan,0.3
+2011,East,E12000006,Total,6409180,10051,Middle East and Asia,Pakistan,0.2
+2011,London,E12000007,Total,8872079,45770,Middle East and Asia,Pakistan,0.5
+2011,South East,E12000008,Total,9592834,13973,Middle East and Asia,Pakistan,0.1
+2011,South West,E12000009,Total,6078543,2559,Middle East and Asia,Pakistan,0
+2011,North East,E12000001,Total,2901250,674,Middle East and Asia,Sri Lanka,0
+2011,North West,E12000002,Total,7869972,1668,Middle East and Asia,Sri Lanka,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,853,Middle East and Asia,Sri Lanka,0
+2011,East Midlands,E12000004,Total,5247264,1516,Middle East and Asia,Sri Lanka,0
+2011,West Midlands,E12000005,Total,6225632,2138,Middle East and Asia,Sri Lanka,0
+2011,East,E12000006,Total,6409180,3338,Middle East and Asia,Sri Lanka,0.1
+2011,London,E12000007,Total,8872079,27223,Middle East and Asia,Sri Lanka,0.3
+2011,South East,E12000008,Total,9592834,5241,Middle East and Asia,Sri Lanka,0.1
+2011,South West,E12000009,Total,6078543,663,Middle East and Asia,Sri Lanka,0
+2011,North East,E12000001,Total,2901250,576516,No passport held,No passport held,19.9
+2011,North West,E12000002,Total,7869972,1280763,No passport held,No passport held,16.3
+2011,Yorkshire and The Humber,E12000003,Total,5854365,1213463,No passport held,No passport held,20.7
+2011,East Midlands,E12000004,Total,5247264,927837,No passport held,No passport held,17.7
+2011,West Midlands,E12000005,Total,6225632,1293642,No passport held,No passport held,20.8
+2011,East,E12000006,Total,6409180,1060082,No passport held,No passport held,16.5
+2011,London,E12000007,Total,8872079,604073,No passport held,No passport held,6.8
+2011,South East,E12000008,Total,9592834,1350012,No passport held,No passport held,14.1
+2011,South West,E12000009,Total,6078543,1089516,No passport held,No passport held,17.9
+2011,North East,E12000001,Total,2901250,139,The Americas and the Caribbean,Central America,0
+2011,North West,E12000002,Total,7869972,731,The Americas and the Caribbean,Central America,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,508,The Americas and the Caribbean,Central America,0
+2011,East Midlands,E12000004,Total,5247264,348,The Americas and the Caribbean,Central America,0
+2011,West Midlands,E12000005,Total,6225632,390,The Americas and the Caribbean,Central America,0
+2011,East,E12000006,Total,6409180,513,The Americas and the Caribbean,Central America,0
+2011,London,E12000007,Total,8872079,3417,The Americas and the Caribbean,Central America,0
+2011,South East,E12000008,Total,9592834,995,The Americas and the Caribbean,Central America,0
+2011,South West,E12000009,Total,6078543,334,The Americas and the Caribbean,Central America,0
+2011,North East,E12000001,Total,2901250,703,The Americas and the Caribbean,Canada,0
+2011,North West,E12000002,Total,7869972,2015,The Americas and the Caribbean,Canada,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,1394,The Americas and the Caribbean,Canada,0
+2011,East Midlands,E12000004,Total,5247264,1903,The Americas and the Caribbean,Canada,0
+2011,West Midlands,E12000005,Total,6225632,2104,The Americas and the Caribbean,Canada,0
+2011,East,E12000006,Total,6409180,3319,The Americas and the Caribbean,Canada,0.1
+2011,London,E12000007,Total,8872079,14216,The Americas and the Caribbean,Canada,0.2
+2011,South East,E12000008,Total,9592834,7104,The Americas and the Caribbean,Canada,0.1
+2011,South West,E12000009,Total,6078543,2836,The Americas and the Caribbean,Canada,0
+2011,North East,E12000001,Total,2901250,1878,The Americas and the Caribbean,United States,0.1
+2011,North West,E12000002,Total,7869972,5903,The Americas and the Caribbean,United States,0.1
+2011,Yorkshire and The Humber,E12000003,Total,5854365,6454,The Americas and the Caribbean,United States,0.1
+2011,East Midlands,E12000004,Total,5247264,4658,The Americas and the Caribbean,United States,0.1
+2011,West Midlands,E12000005,Total,6225632,4699,The Americas and the Caribbean,United States,0.1
+2011,East,E12000006,Total,6409180,28456,The Americas and the Caribbean,United States,0.4
+2011,London,E12000007,Total,8872079,49463,The Americas and the Caribbean,United States,0.6
+2011,South East,E12000008,Total,9592834,22658,The Americas and the Caribbean,United States,0.2
+2011,South West,E12000009,Total,6078543,8671,The Americas and the Caribbean,United States,0.1
+2011,North East,E12000001,Total,2901250,479,The Americas and the Caribbean,South America,0
+2011,North West,E12000002,Total,7869972,2331,The Americas and the Caribbean,South America,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,1523,The Americas and the Caribbean,South America,0
+2011,East Midlands,E12000004,Total,5247264,1288,The Americas and the Caribbean,South America,0
+2011,West Midlands,E12000005,Total,6225632,1499,The Americas and the Caribbean,South America,0
+2011,East,E12000006,Total,6409180,3415,The Americas and the Caribbean,South America,0.1
+2011,London,E12000007,Total,8872079,33238,The Americas and the Caribbean,South America,0.4
+2011,South East,E12000008,Total,9592834,6023,The Americas and the Caribbean,South America,0.1
+2011,South West,E12000009,Total,6078543,3094,The Americas and the Caribbean,South America,0.1
+2011,North East,E12000001,Total,2901250,127,The Americas and the Caribbean,Jamaica,0
+2011,North West,E12000002,Total,7869972,1746,The Americas and the Caribbean,Jamaica,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,1031,The Americas and the Caribbean,Jamaica,0
+2011,East Midlands,E12000004,Total,5247264,1854,The Americas and the Caribbean,Jamaica,0
+2011,West Midlands,E12000005,Total,6225632,7539,The Americas and the Caribbean,Jamaica,0.1
+2011,East,E12000006,Total,6409180,1650,The Americas and the Caribbean,Jamaica,0
+2011,London,E12000007,Total,8872079,22241,The Americas and the Caribbean,Jamaica,0.3
+2011,South East,E12000008,Total,9592834,1414,The Americas and the Caribbean,Jamaica,0
+2011,South West,E12000009,Total,6078543,1305,The Americas and the Caribbean,Jamaica,0
+2011,North East,E12000001,Total,2901250,128,The Americas and the Caribbean,Other Caribbean,0
+2011,North West,E12000002,Total,7869972,767,The Americas and the Caribbean,Other Caribbean,0
+2011,Yorkshire and The Humber,E12000003,Total,5854365,761,The Americas and the Caribbean,Other Caribbean,0
+2011,East Midlands,E12000004,Total,5247264,759,The Americas and the Caribbean,Other Caribbean,0
+2011,West Midlands,E12000005,Total,6225632,936,The Americas and the Caribbean,Other Caribbean,0
+2011,East,E12000006,Total,6409180,1519,The Americas and the Caribbean,Other Caribbean,0
+2011,London,E12000007,Total,8872079,9554,The Americas and the Caribbean,Other Caribbean,0.1
+2011,South East,E12000008,Total,9592834,2901,The Americas and the Caribbean,Other Caribbean,0
+2011,South West,E12000009,Total,6078543,822,The Americas and the Caribbean,Other Caribbean,0

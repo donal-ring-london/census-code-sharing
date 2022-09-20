@@ -1,0 +1,10 @@
+ACCOM_BY_DWELLING_TYPE_9A,num_ACCOMMODATION_TYPE_8A,dat_11,common_cats
+Unshared dwelling: Detached whole house or bungalow,1,Unshared dwelling: Whole house or bungalow: Detached,Unshared dwelling: Detached whole house or bungalow
+Unshared dwelling: Semi-detached house or bungalow,2,Unshared dwelling: Whole house or bungalow: Semi-detached,Unshared dwelling: Semi-detached house or bungalow
+Unshared dwelling: Terraced,3,Unshared dwelling: Whole house or bungalow: Terraced (including end-terrace),Unshared dwelling: Terraced
+Unshared dwelling: In a purpose-built block of flats or tenement,4,"Unshared dwelling: Flat, maisonette or apartment: Purpose-built block of flats or tenement",Unshared dwelling: In a purpose-built block of flats or tenement
+"Unshared dwelling: Part of a converted or shared house, including bedsits",5,"Unshared dwelling: Flat, maisonette or apartment: Part of a converted or shared house (including bed-sits)",Unshared dwelling: Part of a converted or shared house or building
+"Unshared dwelling: Part of another converted building, for example, former school, church or warehouse",6,,Unshared dwelling: Part of a converted or shared house or building
+"Unshared dwelling: In a commercial building, for example, in an office building, hotel or over a shop",7,"Unshared dwelling: Flat, maisonette or apartment: In commercial building","Unshared dwelling: In a commercial building, for example, in an office building, hotel or over a shop"
+Unshared dwelling: A caravan or other mobile or temporary structure,8,Unshared dwelling: Caravan or other mobile or temporary structure,Unshared dwelling: A caravan or other mobile or temporary structure
+Shared dwelling,9,Shared dwelling,Shared dwelling

@@ -1,0 +1,619 @@
+---
+output: html_document
+runtime: shiny
+---
+
+&nbsp;
+<hr />
+
+<table style="background-color:#353D42; color:#ffffff"; width=100%; >
+
+<tr><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td></tr>
+
+<tr><td>
+  
+  <img src="ciu_logo.png" alt="CIU Logo" style="padding:10px; width:300px;" align="right">
+  
+</td></tr>
+
+<tr><td>&nbsp;</td></tr>
+
+<tr><td style="padding:10px; font-size:240%">Census 2021 Report - Passports Snapshot</td></tr>
+
+<tr><td style="padding:10px; font-size:160%">Census 2021 Reporting Series</td></tr>
+
+<tr><td style="padding:10px; font-size:120%">November 2022</td></tr>
+
+<tr><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td></tr>
+</table>
+&nbsp;
+
+<style type="text/css">
+  body{
+  font-size: 11pt; font-family: arial;
+}
+</style>
+
+
+```{r, include = FALSE}
+## loading libraries, setting options, setting plot options
+
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE, include = TRUE)
+
+library(gglaplot)
+library(dplyr)
+library(tidyverse)
+library(plotly)
+library(data.table)
+library(scales)
+library(reactable)
+library(DT)
+library(RJSONIO)
+library(rmarkdown)
+# library(reticulate)
+library(httpuv)
+library(RColorBrewer)
+library(sf)
+library(shiny)
+
+```
+
+
+
+<p style="font-family:arial; font-size:22pt; font-weight:bold">
+  Introduction
+</p>
+
+This report is one in a series giving a London perspective on some of the topics for which data from the 2021 are being made available. This report looks at the initial data released on passports held by Londoners, as recorded in the 2021 Census. The detail in this initial release on passports held does not give every country, as only certain countries are listed. It is expected that further detail will be available in later 2021 Census releases. It is important to note that the question asks about passports held, not entitlement or citizenship.
+
+<br>
+
+Overall, the Census recorded 8.8 million usual residents in London. This number is believed to be temporarily reduced due to changes in population behaviour as a result of the Covid pandemic, with London’s population in 2020 around 9 million and returning to this level by 2022. Further details are given in the GLA’s report on the 2021 First Release. For passports held, other considerations resulting from the pandemic, such as travel restrictions and longer waiting times for passport processing may have impacted on the numbers of people holding passports in March 2021 compared to other points in time. The initial data released count individuals once, with priority given to UK and then Irish passports, so if an individual holds two passports – one from UK and one from another country they would be counted in this dataset as holding a UK passport.
+
+
+<br>
+
+<a href = "#top">
+  Back to top
+</a>
+
+<hr style = "border: 0.8px solid gray">
+
+<br>
+
+
+<p style="font-family:arial; font-size:22pt; font-weight:bold">
+  Key Findings
+</p>
+
+- Key finding 1. Key finding 1. Key finding 1. Key finding 1. Key finding 1. Key finding 1. Key finding 1. 
+- Key finding 2. Key finding 2. Key finding 2. Key finding 2. Key finding 2. 
+- Key finding 3. Key finding 3. Key finding 3. 
+- Key finding 4
+- Key finding 5
+- Key finding 6. Key finding 6. Key finding 6. Key finding 6. Key finding 6. Key finding 6. Key finding 6. Key finding 6. Key finding 6. Key finding 6. 
+
+<br>
+
+<a href = "#top">
+  Back to top
+</a>
+
+<hr style = "border: 0.8px solid gray">
+
+<br>
+
+
+<p style="font-family:arial; font-size:22pt; font-weight:bold">
+  The 2021 Picture in London
+</p>
+
+## {.tabset}
+
+### Regions
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Output X: put description here
+
+</div>
+
+<div align = "center">
+```{r}
+
+shinyAppDir("scripts/london_regions", 
+            options = list(height = 580,
+                           width = 750))
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2011 Census, ONS
+<br>
+Crown Copyright. Ordnance Survey 100032216 GLA
+
+</div>
+
+### Top countries
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Output X: put description here
+
+</div>
+
+<div align = "center">
+```{r}
+
+source("scripts/london_top_passports.R")
+
+fin_plot
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2011 Census, ONS
+<br>
+Crown Copyright. Ordnance Survey 100032216 GLA
+
+</div>
+
+### Table
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Output X: put description here
+
+</div>
+
+<div align = "center">
+```{r}
+
+source("scripts/london_table.R")
+
+datatable(tab_dat,
+          extensions = "Buttons",
+          rownames = "",
+          filter = "top",
+          width = "75%",
+          options =  list(buttons = c('csv'),
+                          dom = "Brftip",
+                          columnDefs = list(list(className = 'dt-center', targets = 3:4)),
+                          initComplete = htmlwidgets::JS(
+                                   "function(settings, json) {",
+                                   paste0("$(this.api().table().container()).css({'font-size': '", font.size, "'});"),
+                                   "}"))
+          )
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2011 Census, ONS
+<br>
+Crown Copyright. Ordnance Survey 100032216 GLA
+
+</div>
+
+## {-}
+
+- Point 1
+- Point 2
+- Point 3
+- Point 4
+- Point 5
+
+
+<a href = "#top">
+  Back to top
+</a>
+
+<hr style = "border: 0.8px solid gray">
+
+<br>
+
+
+<p style="font-family:arial; font-size:22pt; font-weight:bold">
+  How London compares with England
+</p>
+
+
+Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. 
+
+
+## {.tabset}
+
+### Regions (need to rename)
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Output X: put description here
+
+</div>
+
+<div align = "center">
+```{r}
+
+shinyAppDir("scripts/londonuk_regions", 
+            options = list(height = 580,
+                           width = 750))
+
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2011 Census, ONS
+<br>
+Crown Copyright. Ordnance Survey 100032216 GLA
+
+</div>
+
+
+### Top countries
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Output X: put description here
+
+</div>
+
+<div align = "center">
+```{r}
+
+source("scripts/londonuk_top_passports.R")
+
+fin_plot
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2011 Census, ONS
+<br>
+Crown Copyright. Ordnance Survey 100032216 GLA
+
+</div>
+
+### Table
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Output X: put description here
+
+</div>
+
+<div align = "center">
+```{r}
+
+source("scripts/londonuk_top_passports_tab.R")
+
+datatable(tab_dat,
+          extensions = "Buttons",
+          rownames = "",
+          filter = "top",
+          width = "75%",
+          options =  list(buttons = c('csv'),
+                          dom = "Brftip",
+                          columnDefs = list(list(className = 'dt-center', targets = 3:6)),
+                          initComplete = htmlwidgets::JS(
+                                   "function(settings, json) {",
+                                   paste0("$(this.api().table().container()).css({'font-size': '", font.size, "'});"),
+                                   "}"))
+          )
+
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2011 Census, ONS
+<br>
+Crown Copyright. Ordnance Survey 100032216 GLA
+
+</div>
+
+## {-}
+
+- Point 1
+- Point 2
+- Point 3
+- Point 4
+- Point 5
+
+<br>
+
+
+<a href = "#top">
+  Back to top
+</a>
+
+<hr style = "border: 0.8px solid gray">
+
+<br>
+
+
+<p style="font-family:arial; font-size:22pt; font-weight:bold">
+  Change in London 2011-2021
+</p>
+
+
+Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. 
+
+
+
+## {.tabset}
+
+### Regions (need to rename)
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Output X: put description here
+
+</div>
+
+<div align = "center">
+```{r}
+
+shinyAppDir("scripts/londonchange_regions", 
+            options = list(height = 580,
+                           width = 750))
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2011 Census, ONS
+<br>
+Crown Copyright. Ordnance Survey 100032216 GLA
+
+</div>
+
+### Top countries
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Output X: put description here
+
+</div>
+
+<div align = "center">
+```{r}
+
+source("scripts/londonchange_top_passports.R")
+
+fin_plot
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2011 Census, ONS
+<br>
+Crown Copyright. Ordnance Survey 100032216 GLA
+
+</div>
+
+
+### Table
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Output X: put description here
+
+</div>
+
+<div align = "center">
+```{r}
+
+source("scripts/londonchange_table.R")
+
+datatable(tab_dat,
+          extensions = "Buttons",
+          rownames = "",
+          filter = "top",
+          width = "100%",
+          options =  list(buttons = c('csv'),
+                          dom = "Brftip",
+                          columnDefs = list(list(className = 'dt-center', targets = 3:6)),
+                          initComplete = htmlwidgets::JS(
+                                   "function(settings, json) {",
+                                   paste0("$(this.api().table().container()).css({'font-size': '", font.size, "'});"),
+                                   "}"))
+          )
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2011 Census, ONS
+<br>
+Crown Copyright. Ordnance Survey 100032216 GLA
+
+</div>
+
+
+## {-}
+
+<br>
+
+- Point 1
+- Point 2
+- Point 3
+- Point 4
+- Point 5
+- Point 6
+
+<br>
+
+<a href = "#top">
+  Back to top
+</a>
+
+<hr style = "border: 0.8px solid gray">
+
+<br>
+
+
+<p style="font-family:arial; font-size:22pt; font-weight:bold">
+  Within London picture
+</p>
+
+
+Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. Introduction text here. 
+
+## {.tabset}
+
+### Maps
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Output X: put description here
+
+</div>
+
+<div align = "center">
+```{r}
+
+shinyAppDir("scripts/borough_map_app",
+            options = list(
+              height = 580,
+              width = 750
+            ))
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2011 Census, ONS
+<br>
+Crown Copyright. Ordnance Survey 100032216 GLA
+
+</div>
+
+
+### Plots
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Output X: put description here
+
+</div>
+
+<div align = "center">
+```{r}
+
+shinyAppDir("scripts/borough_plot_app",
+            options = list(
+              height = 580,
+              width = 750
+            ))
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2011 Census, ONS
+<br>
+Crown Copyright. Ordnance Survey 100032216 GLA
+
+</div>
+
+
+### Table
+
+<div style = "font-family: arial; font-size: 13pt; font-weight: bold">
+
+Output X: put description here
+
+</div>
+
+<div align = "center">
+```{r}
+
+source("scripts/boroughs_table.R")
+
+datatable(tab_dat,
+          extensions = "Buttons",
+          rownames = "",
+          filter = "top",
+          width = "75%",
+          options =  list(buttons = c('csv'),
+                          dom = "Brftip",
+                          columnDefs = list(list(className = 'dt-center', targets = 4:5)),
+                          initComplete = htmlwidgets::JS(
+                                   "function(settings, json) {",
+                                   paste0("$(this.api().table().container()).css({'font-size': '", font.size, "'});"),
+                                   "}"))
+          )
+
+```
+</div>
+
+<div style = "font-family: arial; font-size: 9.5pt">
+
+Source: 2011 Census, ONS
+<br>
+Crown Copyright. Ordnance Survey 100032216 GLA
+
+</div>
+
+
+## {-}
+
+- Point 1. 
+- Point 2. 
+- Point 3. 
+- Point 4. 
+- Point 5.
+
+<a href = "#top">
+  Back to top
+</a>
+
+<hr style = "border: 0.8px solid gray">
+
+<br>
+
+
+
+&nbsp;
+<hr />
+
+<table style="background-color:#353D42; color:#ffffff"; width=100%; >
+  
+<tr><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td></tr>
+
+<tr><td style="padding:10px">For more information please contact the Census Team, GLA City Intelligence Unit.<br>
+
+<a href="mailto:census@london.gov.uk">census@london.gov.uk</a></td></tr>
+
+<tr><td>&nbsp;</td></tr>
+
+<tr><td style="padding:10px">Copyright &copy; Greater London Authority, 2022</td></tr>
+
+<tr><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td></tr>
+</table>
+&nbsp;
+
+
+
