@@ -1,0 +1,82 @@
+---
+output: html_fragment
+---
+
+```{r}
+### note - this map is created as a html fragment directly into the "scripts" folder. It is then placed manually into the "fragments" folder. This isn't automated and must be carried out manually - if this isn't done the document won't run correctly when the file "template_religion.Rmd" file is run.
+```
+
+
+```{r, include = FALSE}
+## loading libraries, setting options, setting plot options
+
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE, include = TRUE)
+
+library(gglaplot)
+library(dplyr)
+library(tidyverse)
+library(plotly)
+library(data.table)
+library(scales)
+library(reactable)
+library(DT)
+library(RJSONIO)
+library(rmarkdown)
+# library(reticulate)
+library(httpuv)
+library(RColorBrewer)
+library(sf)
+library(ggthemes)
+
+```
+
+
+```{r}
+
+data <- st_read("../geo_data/ent_change.shp", quiet = TRUE)
+
+colnames(data)[1] <- "ward_gss_code"
+
+tf <- list(family = "Arial",
+           size = 12)
+
+map_21 <- ggplot(data = data, 
+                 aes(text = paste0("Ward: ", ward_nm,
+                                   "<br>",
+                                   "Borough: ",l_dstrc,
+                                   "<br>",
+                                   "Index change: ",change))) + 
+  geom_sf(aes(fill = change,color = ward_gss_code), lwd = 0.2) + 
+  theme(
+    panel.ontop = TRUE,
+    panel.grid = element_blank(), 
+    line = element_blank(), 
+    rect = element_blank(), 
+    axis.text.y = element_blank(),
+    axis.text.x = element_blank(),
+    axis.ticks = element_blank(),
+    text = element_blank(), 
+    plot.background = element_rect(fill = "white")) + 
+  scale_fill_gradient2_tableau(palette = "Orange-Blue-White Diverging",
+                               limits = c(-0.25,0.25),
+                               name = NULL)
+  #scale_fill_gradient(low = "#56B1F7", high = "#132B43", name = NULL)
+
+tf <- list(family = "Arial",
+           size = 12)
+
+out_map <- ggplotly(map_21, height = 500,width = 700, tooltip = "text")
+
+out_map <- out_map %>%
+  style(hoverlabel = list(bgcolor = "white"),
+        hoveron = "fills",
+        traces = seq.int(2, length(out_map$x$data)),
+        line.color = toRGB("gray40")) %>%
+  hide_legend()
+
+out_map
+
+```
+
+
+

@@ -1,0 +1,1783 @@
+date,geography,geography_code,Rural_Urban,total_pop,value,religion,religion_det,percs
+2011,Camden,E09000007,Total,2063,411,Buddhist,Buddhist,0.0999999999999999
+2011,City of London,E09000001,Total,-241,11,Buddhist,Buddhist,0.2
+2011,Hackney,E09000012,Total,21248,-97,Buddhist,Buddhist,-0.0999999999999999
+2011,Hammersmith and Fulham,E09000013,Total,11155,427,Buddhist,Buddhist,0.2
+2011,Haringey,E09000014,Total,17794,446,Buddhist,Buddhist,0.0999999999999999
+2011,Islington,E09000019,Total,15869,215,Buddhist,Buddhist,0.1
+2011,Kensington and Chelsea,E09000020,Total,8707,673,Buddhist,Buddhist,0.4
+2011,Lambeth,E09000022,Total,38917,92,Buddhist,Buddhist,-0.1
+2011,Lewisham,E09000023,Total,32964,44,Buddhist,Buddhist,-0.1
+2011,Newham,E09000025,Total,12654,273,Buddhist,Buddhist,0
+2011,Southwark,E09000028,Total,33787,-348,Buddhist,Buddhist,-0.2
+2011,Tower Hamlets,E09000030,Total,9715,145,Buddhist,Buddhist,0
+2011,Wandsworth,E09000032,Total,24250,196,Buddhist,Buddhist,0
+2011,Westminster,E09000033,Total,9413,676,Buddhist,Buddhist,0.2
+2011,Barking and Dagenham,E09000002,Total,14392,-33,Buddhist,Buddhist,-0.1
+2011,Barnet,E09000003,Total,31904,327,Buddhist,Buddhist,-0.1
+2011,Bexley,E09000004,Total,19019,-34,Buddhist,Buddhist,-0.1
+2011,Brent,E09000005,Total,22601,736,Buddhist,Buddhist,0.1
+2011,Bromley,E09000006,Total,18015,184,Buddhist,Buddhist,0
+2011,Croydon,E09000008,Total,47564,-260,Buddhist,Buddhist,-0.2
+2011,Ealing,E09000009,Total,49254,1,Buddhist,Buddhist,-0.0999999999999999
+2011,Enfield,E09000010,Total,-21324,367,Buddhist,Buddhist,0.2
+2011,Greenwich,E09000011,Total,10048,608,Buddhist,Buddhist,0.1
+2011,Harrow,E09000015,Total,17315,168,Buddhist,Buddhist,0
+2011,Havering,E09000016,Total,9979,83,Buddhist,Buddhist,0
+2011,Hillingdon,E09000017,Total,26170,231,Buddhist,Buddhist,0
+2011,Hounslow,E09000018,Total,22338,553,Buddhist,Buddhist,0.1
+2011,Kingston upon Thames,E09000021,Total,655,252,Buddhist,Buddhist,0.2
+2011,Merton,E09000024,Total,2833,-84,Buddhist,Buddhist,0
+2011,Redbridge,E09000026,Total,11373,301,Buddhist,Buddhist,0
+2011,Richmond upon Thames,E09000027,Total,-3410,74,Buddhist,Buddhist,0.1
+2011,Sutton,E09000029,Total,25169,273,Buddhist,Buddhist,0.1
+2011,Waltham Forest,E09000031,Total,3687,189,Buddhist,Buddhist,0
+2011,Camden,E09000007,Total,2063,3737,Christian,Christian,1.3
+2011,City of London,E09000001,Total,-241,-150,Christian,Christian,-0.5
+2011,Hackney,E09000012,Total,21248,4877,Christian,Christian,-1.2
+2011,Hammersmith and Fulham,E09000013,Total,11155,8115,Christian,Christian,1.1
+2011,Haringey,E09000014,Total,17794,11075,Christian,Christian,1.1
+2011,Islington,E09000019,Total,15869,9927,Christian,Christian,1.59999999999999
+2011,Kensington and Chelsea,E09000020,Total,8707,6833,Christian,Christian,1.3
+2011,Lambeth,E09000022,Total,38917,24094,Christian,Christian,1
+2011,Lewisham,E09000023,Total,32964,27549,Christian,Christian,3.3
+2011,Newham,E09000025,Total,12654,5935,Christian,Christian,0.200000000000003
+2011,Southwark,E09000028,Total,33787,18129,Christian,Christian,0.200000000000003
+2011,Tower Hamlets,E09000030,Total,9715,7617,Christian,Christian,1.9
+2011,Wandsworth,E09000032,Total,24250,-127,Christian,Christian,-4
+2011,Westminster,E09000033,Total,9413,7699,Christian,Christian,1.5
+2011,Barking and Dagenham,E09000002,Total,14392,5282,Christian,Christian,-1.4
+2011,Barnet,E09000003,Total,31904,27963,Christian,Christian,3.8
+2011,Bexley,E09000004,Total,19019,8684,Christian,Christian,-1.2
+2011,Brent,E09000005,Total,22601,12760,Christian,Christian,1
+2011,Bromley,E09000006,Total,18015,21493,Christian,Christian,3.2
+2011,Croydon,E09000008,Total,47564,36827,Christian,Christian,2.5
+2011,Ealing,E09000009,Total,49254,32859,Christian,Christian,3
+2011,Enfield,E09000010,Total,-21324,-28092,Christian,Christian,-5.7
+2011,Greenwich,E09000011,Total,10048,6419,Christian,Christian,0.399999999999999
+2011,Harrow,E09000015,Total,17315,5464,Christian,Christian,-0.399999999999999
+2011,Havering,E09000016,Total,9979,-5700,Christian,Christian,-4.99999999999999
+2011,Hillingdon,E09000017,Total,26170,21361,Christian,Christian,2.8
+2011,Hounslow,E09000018,Total,22338,13727,Christian,Christian,1.6
+2011,Kingston upon Thames,E09000021,Total,655,-3641,Christian,Christian,-2.5
+2011,Merton,E09000024,Total,2833,-1324,Christian,Christian,-1.5
+2011,Redbridge,E09000026,Total,11373,8077,Christian,Christian,1.40000000000001
+2011,Richmond upon Thames,E09000027,Total,-3410,-4472,Christian,Christian,-1.5
+2011,Sutton,E09000029,Total,25169,12372,Christian,Christian,-1.1
+2011,Waltham Forest,E09000031,Total,3687,-8173,Christian,Christian,-3.8
+2011,Camden,E09000007,Total,2063,71,Hindu,Hindu,0
+2011,City of London,E09000001,Total,-241,32,Hindu,Hindu,0.5
+2011,Hackney,E09000012,Total,21248,503,Hindu,Hindu,0.2
+2011,Hammersmith and Fulham,E09000013,Total,11155,287,Hindu,Hindu,0.0999999999999999
+2011,Haringey,E09000014,Total,17794,722,Hindu,Hindu,0.0999999999999999
+2011,Islington,E09000019,Total,15869,512,Hindu,Hindu,0.2
+2011,Kensington and Chelsea,E09000020,Total,8707,155,Hindu,Hindu,0
+2011,Lambeth,E09000022,Total,38917,-39,Hindu,Hindu,-0.1
+2011,Lewisham,E09000023,Total,32964,266,Hindu,Hindu,-0.2
+2011,Newham,E09000025,Total,12654,372,Hindu,Hindu,-0.300000000000001
+2011,Southwark,E09000028,Total,33787,-121,Hindu,Hindu,-0.2
+2011,Tower Hamlets,E09000030,Total,9715,-436,Hindu,Hindu,-0.3
+2011,Wandsworth,E09000032,Total,24250,528,Hindu,Hindu,0
+2011,Westminster,E09000033,Total,9413,143,Hindu,Hindu,0
+2011,Barking and Dagenham,E09000002,Total,14392,402,Hindu,Hindu,0
+2011,Barnet,E09000003,Total,31904,-1247,Hindu,Hindu,-0.9
+2011,Bexley,E09000004,Total,19019,491,Hindu,Hindu,0.1
+2011,Brent,E09000005,Total,22601,5398,Hindu,Hindu,0.399999999999999
+2011,Bromley,E09000006,Total,18015,91,Hindu,Hindu,0
+2011,Croydon,E09000008,Total,47564,1372,Hindu,Hindu,-0.4
+2011,Ealing,E09000009,Total,49254,1193,Hindu,Hindu,-0.7
+2011,Enfield,E09000010,Total,-21324,1054,Hindu,Hindu,0.6
+2011,Greenwich,E09000011,Total,10048,-431,Hindu,Hindu,-0.3
+2011,Harrow,E09000015,Total,17315,7096,Hindu,Hindu,1
+2011,Havering,E09000016,Total,9979,-89,Hindu,Hindu,0
+2011,Hillingdon,E09000017,Total,26170,3543,Hindu,Hindu,0.5
+2011,Hounslow,E09000018,Total,22338,5071,Hindu,Hindu,1
+2011,Kingston upon Thames,E09000021,Total,655,236,Hindu,Hindu,0.0999999999999996
+2011,Merton,E09000024,Total,2833,1922,Hindu,Hindu,0.9
+2011,Redbridge,E09000026,Total,11373,2332,Hindu,Hindu,0.299999999999999
+2011,Richmond upon Thames,E09000027,Total,-3410,-422,Hindu,Hindu,-0.2
+2011,Sutton,E09000029,Total,25169,777,Hindu,Hindu,-0.100000000000001
+2011,Waltham Forest,E09000031,Total,3687,-129,Hindu,Hindu,-0.0999999999999996
+2011,Camden,E09000007,Total,2063,-369,Jewish,Jewish,-0.2
+2011,City of London,E09000001,Total,-241,34,Jewish,Jewish,0.5
+2011,Hackney,E09000012,Total,21248,780,Jewish,Jewish,-0.2
+2011,Hammersmith and Fulham,E09000013,Total,11155,286,Jewish,Jewish,0.1
+2011,Haringey,E09000014,Total,17794,160,Jewish,Jewish,-0.1
+2011,Islington,E09000019,Total,15869,97,Jewish,Jewish,0
+2011,Kensington and Chelsea,E09000020,Total,8707,213,Jewish,Jewish,0
+2011,Lambeth,E09000022,Total,38917,26,Jewish,Jewish,-0.1
+2011,Lewisham,E09000023,Total,32964,9,Jewish,Jewish,0
+2011,Newham,E09000025,Total,12654,39,Jewish,Jewish,0
+2011,Southwark,E09000028,Total,33787,-34,Jewish,Jewish,0
+2011,Tower Hamlets,E09000030,Total,9715,217,Jewish,Jewish,0.1
+2011,Wandsworth,E09000032,Total,24250,-205,Jewish,Jewish,-0.1
+2011,Westminster,E09000033,Total,9413,-398,Jewish,Jewish,-0.3
+2011,Barking and Dagenham,E09000002,Total,14392,-9,Jewish,Jewish,0
+2011,Barnet,E09000003,Total,31904,2383,Jewish,Jewish,-0.699999999999999
+2011,Bexley,E09000004,Total,19019,23,Jewish,Jewish,0
+2011,Brent,E09000005,Total,22601,-447,Jewish,Jewish,-0.2
+2011,Bromley,E09000006,Total,18015,49,Jewish,Jewish,0
+2011,Croydon,E09000008,Total,47564,18,Jewish,Jewish,0
+2011,Ealing,E09000009,Total,49254,226,Jewish,Jewish,0.1
+2011,Enfield,E09000010,Total,-21324,787,Jewish,Jewish,0.4
+2011,Greenwich,E09000011,Total,10048,52,Jewish,Jewish,0
+2011,Harrow,E09000015,Total,17315,-235,Jewish,Jewish,-0.4
+2011,Havering,E09000016,Total,9979,-33,Jewish,Jewish,0
+2011,Hillingdon,E09000017,Total,26170,13,Jewish,Jewish,0
+2011,Hounslow,E09000018,Total,22338,112,Jewish,Jewish,0
+2011,Kingston upon Thames,E09000021,Total,655,150,Jewish,Jewish,0.1
+2011,Merton,E09000024,Total,2833,67,Jewish,Jewish,0
+2011,Redbridge,E09000026,Total,11373,-429,Jewish,Jewish,-0.3
+2011,Richmond upon Thames,E09000027,Total,-3410,160,Jewish,Jewish,0.1
+2011,Sutton,E09000029,Total,25169,4,Jewish,Jewish,-0.1
+2011,Waltham Forest,E09000031,Total,3687,76,Jewish,Jewish,0
+2011,Camden,E09000007,Total,2063,198,Muslim,Muslim,0
+2011,City of London,E09000001,Total,-241,28,Muslim,Muslim,0.6
+2011,Hackney,E09000012,Total,21248,3507,Muslim,Muslim,0.200000000000001
+2011,Hammersmith and Fulham,E09000013,Total,11155,1089,Muslim,Muslim,0
+2011,Haringey,E09000014,Total,17794,1171,Muslim,Muslim,-0.5
+2011,Islington,E09000019,Total,15869,1144,Muslim,Muslim,-0.199999999999999
+2011,Kensington and Chelsea,E09000020,Total,8707,-897,Muslim,Muslim,-1.1
+2011,Lambeth,E09000022,Total,38917,143,Muslim,Muslim,-0.8
+2011,Lewisham,E09000023,Total,32964,302,Muslim,Muslim,-0.600000000000001
+2011,Newham,E09000025,Total,12654,8441,Muslim,Muslim,1.3
+2011,Southwark,E09000028,Total,33787,-2493,Muslim,Muslim,-1.7
+2011,Tower Hamlets,E09000030,Total,9715,-3231,Muslim,Muslim,-2.5
+2011,Wandsworth,E09000032,Total,24250,1839,Muslim,Muslim,-0.0999999999999996
+2011,Westminster,E09000033,Total,9413,1156,Muslim,Muslim,-0.300000000000001
+2011,Barking and Dagenham,E09000002,Total,14392,3021,Muslim,Muslim,0.5
+2011,Barnet,E09000003,Total,31904,1082,Muslim,Muslim,-0.600000000000001
+2011,Bexley,E09000004,Total,19019,356,Muslim,Muslim,0
+2011,Brent,E09000005,Total,22601,4821,Muslim,Muslim,0.199999999999999
+2011,Bromley,E09000006,Total,18015,-246,Muslim,Muslim,-0.2
+2011,Croydon,E09000008,Total,47564,692,Muslim,Muslim,-0.699999999999999
+2011,Ealing,E09000009,Total,49254,2414,Muslim,Muslim,-1.4
+2011,Enfield,E09000010,Total,-21324,-2517,Muslim,Muslim,0.300000000000001
+2011,Greenwich,E09000011,Total,10048,972,Muslim,Muslim,0.100000000000001
+2011,Harrow,E09000015,Total,17315,1029,Muslim,Muslim,-0.4
+2011,Havering,E09000016,Total,9979,448,Muslim,Muslim,0.1
+2011,Hillingdon,E09000017,Total,26170,403,Muslim,Muslim,-0.799999999999999
+2011,Hounslow,E09000018,Total,22338,1173,Muslim,Muslim,-0.699999999999999
+2011,Kingston upon Thames,E09000021,Total,655,447,Muslim,Muslim,0.3
+2011,Merton,E09000024,Total,2833,1176,Muslim,Muslim,0.5
+2011,Redbridge,E09000026,Total,11373,3218,Muslim,Muslim,0.199999999999999
+2011,Richmond upon Thames,E09000027,Total,-3410,-214,Muslim,Muslim,-0.0999999999999996
+2011,Sutton,E09000029,Total,25169,554,Muslim,Muslim,-0.3
+2011,Waltham Forest,E09000031,Total,3687,2226,Muslim,Muslim,0.5
+2011,Camden,E09000007,Total,2063,23,No religion,No religion: Agnostic,0
+2011,City of London,E09000001,Total,-241,0,No religion,No religion: Agnostic,0
+2011,Hackney,E09000012,Total,21248,30,No religion,No religion: Agnostic,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,43,No religion,No religion: Agnostic,0
+2011,Haringey,E09000014,Total,17794,17,No religion,No religion: Agnostic,0
+2011,Islington,E09000019,Total,15869,49,No religion,No religion: Agnostic,0
+2011,Kensington and Chelsea,E09000020,Total,8707,8,No religion,No religion: Agnostic,0
+2011,Lambeth,E09000022,Total,38917,13,No religion,No religion: Agnostic,0
+2011,Lewisham,E09000023,Total,32964,-23,No religion,No religion: Agnostic,0
+2011,Newham,E09000025,Total,12654,-6,No religion,No religion: Agnostic,0
+2011,Southwark,E09000028,Total,33787,68,No religion,No religion: Agnostic,0
+2011,Tower Hamlets,E09000030,Total,9715,67,No religion,No religion: Agnostic,0
+2011,Wandsworth,E09000032,Total,24250,11,No religion,No religion: Agnostic,0
+2011,Westminster,E09000033,Total,9413,8,No religion,No religion: Agnostic,0
+2011,Barking and Dagenham,E09000002,Total,14392,-3,No religion,No religion: Agnostic,0
+2011,Barnet,E09000003,Total,31904,32,No religion,No religion: Agnostic,0
+2011,Bexley,E09000004,Total,19019,7,No religion,No religion: Agnostic,0
+2011,Brent,E09000005,Total,22601,5,No religion,No religion: Agnostic,0
+2011,Bromley,E09000006,Total,18015,-12,No religion,No religion: Agnostic,0
+2011,Croydon,E09000008,Total,47564,28,No religion,No religion: Agnostic,0
+2011,Ealing,E09000009,Total,49254,18,No religion,No religion: Agnostic,0
+2011,Enfield,E09000010,Total,-21324,17,No religion,No religion: Agnostic,0.1
+2011,Greenwich,E09000011,Total,10048,11,No religion,No religion: Agnostic,0
+2011,Harrow,E09000015,Total,17315,12,No religion,No religion: Agnostic,0
+2011,Havering,E09000016,Total,9979,5,No religion,No religion: Agnostic,0
+2011,Hillingdon,E09000017,Total,26170,11,No religion,No religion: Agnostic,0
+2011,Hounslow,E09000018,Total,22338,13,No religion,No religion: Agnostic,0
+2011,Kingston upon Thames,E09000021,Total,655,2,No religion,No religion: Agnostic,0
+2011,Merton,E09000024,Total,2833,2,No religion,No religion: Agnostic,0
+2011,Redbridge,E09000026,Total,11373,-12,No religion,No religion: Agnostic,0
+2011,Richmond upon Thames,E09000027,Total,-3410,37,No religion,No religion: Agnostic,0
+2011,Sutton,E09000029,Total,25169,-4,No religion,No religion: Agnostic,-0.1
+2011,Waltham Forest,E09000031,Total,3687,-7,No religion,No religion: Agnostic,0
+2011,Camden,E09000007,Total,2063,11,No religion,No religion: Atheist,0
+2011,City of London,E09000001,Total,-241,0,No religion,No religion: Atheist,0
+2011,Hackney,E09000012,Total,21248,57,No religion,No religion: Atheist,0.1
+2011,Hammersmith and Fulham,E09000013,Total,11155,11,No religion,No religion: Atheist,0
+2011,Haringey,E09000014,Total,17794,41,No religion,No religion: Atheist,0
+2011,Islington,E09000019,Total,15869,3,No religion,No religion: Atheist,0
+2011,Kensington and Chelsea,E09000020,Total,8707,-10,No religion,No religion: Atheist,0
+2011,Lambeth,E09000022,Total,38917,55,No religion,No religion: Atheist,0
+2011,Lewisham,E09000023,Total,32964,-4,No religion,No religion: Atheist,0
+2011,Newham,E09000025,Total,12654,14,No religion,No religion: Atheist,0
+2011,Southwark,E09000028,Total,33787,35,No religion,No religion: Atheist,0
+2011,Tower Hamlets,E09000030,Total,9715,-13,No religion,No religion: Atheist,0
+2011,Wandsworth,E09000032,Total,24250,23,No religion,No religion: Atheist,0
+2011,Westminster,E09000033,Total,9413,4,No religion,No religion: Atheist,0
+2011,Barking and Dagenham,E09000002,Total,14392,1,No religion,No religion: Atheist,0
+2011,Barnet,E09000003,Total,31904,-7,No religion,No religion: Atheist,-0.1
+2011,Bexley,E09000004,Total,19019,4,No religion,No religion: Atheist,0
+2011,Brent,E09000005,Total,22601,19,No religion,No religion: Atheist,0
+2011,Bromley,E09000006,Total,18015,8,No religion,No religion: Atheist,0
+2011,Croydon,E09000008,Total,47564,-3,No religion,No religion: Atheist,0
+2011,Ealing,E09000009,Total,49254,6,No religion,No religion: Atheist,0
+2011,Enfield,E09000010,Total,-21324,4,No religion,No religion: Atheist,0
+2011,Greenwich,E09000011,Total,10048,11,No religion,No religion: Atheist,0
+2011,Harrow,E09000015,Total,17315,-4,No religion,No religion: Atheist,0
+2011,Havering,E09000016,Total,9979,6,No religion,No religion: Atheist,0
+2011,Hillingdon,E09000017,Total,26170,-2,No religion,No religion: Atheist,0
+2011,Hounslow,E09000018,Total,22338,21,No religion,No religion: Atheist,0.1
+2011,Kingston upon Thames,E09000021,Total,655,6,No religion,No religion: Atheist,0
+2011,Merton,E09000024,Total,2833,3,No religion,No religion: Atheist,0
+2011,Redbridge,E09000026,Total,11373,-8,No religion,No religion: Atheist,0
+2011,Richmond upon Thames,E09000027,Total,-3410,37,No religion,No religion: Atheist,0
+2011,Sutton,E09000029,Total,25169,9,No religion,No religion: Atheist,0
+2011,Waltham Forest,E09000031,Total,3687,17,No religion,No religion: Atheist,0
+2011,Camden,E09000007,Total,2063,0,No religion,No religion: Free Thinker,0
+2011,City of London,E09000001,Total,-241,0,No religion,No religion: Free Thinker,0
+2011,Hackney,E09000012,Total,21248,0,No religion,No religion: Free Thinker,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,1,No religion,No religion: Free Thinker,0
+2011,Haringey,E09000014,Total,17794,0,No religion,No religion: Free Thinker,0
+2011,Islington,E09000019,Total,15869,0,No religion,No religion: Free Thinker,0
+2011,Kensington and Chelsea,E09000020,Total,8707,0,No religion,No religion: Free Thinker,0
+2011,Lambeth,E09000022,Total,38917,0,No religion,No religion: Free Thinker,0
+2011,Lewisham,E09000023,Total,32964,0,No religion,No religion: Free Thinker,0
+2011,Newham,E09000025,Total,12654,1,No religion,No religion: Free Thinker,0
+2011,Southwark,E09000028,Total,33787,0,No religion,No religion: Free Thinker,0
+2011,Tower Hamlets,E09000030,Total,9715,0,No religion,No religion: Free Thinker,0
+2011,Wandsworth,E09000032,Total,24250,0,No religion,No religion: Free Thinker,0
+2011,Westminster,E09000033,Total,9413,1,No religion,No religion: Free Thinker,0
+2011,Barking and Dagenham,E09000002,Total,14392,1,No religion,No religion: Free Thinker,0
+2011,Barnet,E09000003,Total,31904,0,No religion,No religion: Free Thinker,0
+2011,Bexley,E09000004,Total,19019,0,No religion,No religion: Free Thinker,0
+2011,Brent,E09000005,Total,22601,0,No religion,No religion: Free Thinker,0
+2011,Bromley,E09000006,Total,18015,0,No religion,No religion: Free Thinker,0
+2011,Croydon,E09000008,Total,47564,1,No religion,No religion: Free Thinker,0
+2011,Ealing,E09000009,Total,49254,0,No religion,No religion: Free Thinker,0
+2011,Enfield,E09000010,Total,-21324,0,No religion,No religion: Free Thinker,0
+2011,Greenwich,E09000011,Total,10048,0,No religion,No religion: Free Thinker,0
+2011,Harrow,E09000015,Total,17315,0,No religion,No religion: Free Thinker,0
+2011,Havering,E09000016,Total,9979,0,No religion,No religion: Free Thinker,0
+2011,Hillingdon,E09000017,Total,26170,1,No religion,No religion: Free Thinker,0
+2011,Hounslow,E09000018,Total,22338,0,No religion,No religion: Free Thinker,0
+2011,Kingston upon Thames,E09000021,Total,655,0,No religion,No religion: Free Thinker,0
+2011,Merton,E09000024,Total,2833,1,No religion,No religion: Free Thinker,0
+2011,Redbridge,E09000026,Total,11373,0,No religion,No religion: Free Thinker,0
+2011,Richmond upon Thames,E09000027,Total,-3410,0,No religion,No religion: Free Thinker,0
+2011,Sutton,E09000029,Total,25169,0,No religion,No religion: Free Thinker,0
+2011,Waltham Forest,E09000031,Total,3687,1,No religion,No religion: Free Thinker,0
+2011,Camden,E09000007,Total,2063,410,No religion,No religion: No religion,-0.0999999999999979
+2011,City of London,E09000001,Total,-241,-141,No religion,No religion: No religion,-0.799999999999997
+2011,Hackney,E09000012,Total,21248,7388,No religion,No religion: No religion,0.600000000000001
+2011,Hammersmith and Fulham,E09000013,Total,11155,931,No religion,No religion: No religion,-0.900000000000002
+2011,Haringey,E09000014,Total,17794,1882,No religion,No religion: No religion,-0.899999999999999
+2011,Islington,E09000019,Total,15869,1034,No religion,No religion: No religion,-1.6
+2011,Kensington and Chelsea,E09000020,Total,8707,2698,No religion,No religion: No religion,0.5
+2011,Lambeth,E09000022,Total,38917,10817,No religion,No religion: No religion,0
+2011,Lewisham,E09000023,Total,32964,-2001,No religion,No religion: No religion,-3.5
+2011,Newham,E09000025,Total,12654,-1927,No religion,No religion: No religion,-1
+2011,Southwark,E09000028,Total,33787,17993,No religion,No religion: No religion,2.8
+2011,Tower Hamlets,E09000030,Total,9715,-3285,No religion,No religion: No religion,-2
+2011,Wandsworth,E09000032,Total,24250,21341,No religion,No religion: No religion,4.5
+2011,Westminster,E09000033,Total,9413,877,No religion,No religion: No religion,-0.400000000000002
+2011,Barking and Dagenham,E09000002,Total,14392,3305,No religion,No religion: No religion,0.300000000000001
+2011,Barnet,E09000003,Total,31904,2713,No religion,No religion: No religion,-0.6
+2011,Bexley,E09000004,Total,19019,6467,No religion,No religion: No religion,0.699999999999999
+2011,Brent,E09000005,Total,22601,2776,No religion,No religion: No religion,0.0999999999999996
+2011,Bromley,E09000006,Total,18015,-3147,No religion,No religion: No religion,-2.4
+2011,Croydon,E09000008,Total,47564,7332,No religion,No religion: No religion,-0.5
+2011,Ealing,E09000009,Total,49254,1739,No religion,No religion: No religion,-1.5
+2011,Enfield,E09000010,Total,-21324,6032,No religion,No religion: No religion,3.2
+2011,Greenwich,E09000011,Total,10048,930,No religion,No religion: No religion,-0.599999999999998
+2011,Harrow,E09000015,Total,17315,1748,No religion,No religion: No religion,0
+2011,Havering,E09000016,Total,9979,14840,No religion,No religion: No religion,5.1
+2011,Hillingdon,E09000017,Total,26170,1438,No religion,No religion: No religion,-0.999999999999998
+2011,Hounslow,E09000018,Total,22338,78,No religion,No religion: No religion,-1.3
+2011,Kingston upon Thames,E09000021,Total,655,3633,No religion,No religion: No religion,2.2
+2011,Merton,E09000024,Total,2833,2297,No religion,No religion: No religion,0.800000000000001
+2011,Redbridge,E09000026,Total,11373,-665,No religion,No religion: No religion,-0.6
+2011,Richmond upon Thames,E09000027,Total,-3410,45,No religion,No religion: No religion,0.600000000000001
+2011,Sutton,E09000029,Total,25169,10219,No religion,No religion: No religion,1.9
+2011,Waltham Forest,E09000031,Total,3687,9046,No religion,No religion: No religion,3.2
+2011,Camden,E09000007,Total,2063,8,No religion,No religion: Humanist,0
+2011,City of London,E09000001,Total,-241,0,No religion,No religion: Humanist,0
+2011,Hackney,E09000012,Total,21248,14,No religion,No religion: Humanist,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,4,No religion,No religion: Humanist,0
+2011,Haringey,E09000014,Total,17794,6,No religion,No religion: Humanist,0
+2011,Islington,E09000019,Total,15869,16,No religion,No religion: Humanist,0
+2011,Kensington and Chelsea,E09000020,Total,8707,9,No religion,No religion: Humanist,0
+2011,Lambeth,E09000022,Total,38917,10,No religion,No religion: Humanist,0
+2011,Lewisham,E09000023,Total,32964,18,No religion,No religion: Humanist,0
+2011,Newham,E09000025,Total,12654,2,No religion,No religion: Humanist,0
+2011,Southwark,E09000028,Total,33787,2,No religion,No religion: Humanist,0
+2011,Tower Hamlets,E09000030,Total,9715,11,No religion,No religion: Humanist,0
+2011,Wandsworth,E09000032,Total,24250,-11,No religion,No religion: Humanist,0
+2011,Westminster,E09000033,Total,9413,5,No religion,No religion: Humanist,0
+2011,Barking and Dagenham,E09000002,Total,14392,0,No religion,No religion: Humanist,0
+2011,Barnet,E09000003,Total,31904,2,No religion,No religion: Humanist,0
+2011,Bexley,E09000004,Total,19019,3,No religion,No religion: Humanist,0
+2011,Brent,E09000005,Total,22601,-1,No religion,No religion: Humanist,0
+2011,Bromley,E09000006,Total,18015,12,No religion,No religion: Humanist,0
+2011,Croydon,E09000008,Total,47564,-1,No religion,No religion: Humanist,0
+2011,Ealing,E09000009,Total,49254,18,No religion,No religion: Humanist,0
+2011,Enfield,E09000010,Total,-21324,1,No religion,No religion: Humanist,0
+2011,Greenwich,E09000011,Total,10048,13,No religion,No religion: Humanist,0
+2011,Harrow,E09000015,Total,17315,6,No religion,No religion: Humanist,0
+2011,Havering,E09000016,Total,9979,-6,No religion,No religion: Humanist,0
+2011,Hillingdon,E09000017,Total,26170,11,No religion,No religion: Humanist,0
+2011,Hounslow,E09000018,Total,22338,11,No religion,No religion: Humanist,0
+2011,Kingston upon Thames,E09000021,Total,655,2,No religion,No religion: Humanist,0
+2011,Merton,E09000024,Total,2833,13,No religion,No religion: Humanist,0
+2011,Redbridge,E09000026,Total,11373,6,No religion,No religion: Humanist,0
+2011,Richmond upon Thames,E09000027,Total,-3410,16,No religion,No religion: Humanist,0
+2011,Sutton,E09000029,Total,25169,-4,No religion,No religion: Humanist,0
+2011,Waltham Forest,E09000031,Total,3687,-5,No religion,No religion: Humanist,0
+2011,Camden,E09000007,Total,2063,0,No religion,No religion: Realist,0
+2011,City of London,E09000001,Total,-241,0,No religion,No religion: Realist,0
+2011,Hackney,E09000012,Total,21248,0,No religion,No religion: Realist,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,1,No religion,No religion: Realist,0
+2011,Haringey,E09000014,Total,17794,0,No religion,No religion: Realist,0
+2011,Islington,E09000019,Total,15869,0,No religion,No religion: Realist,0
+2011,Kensington and Chelsea,E09000020,Total,8707,0,No religion,No religion: Realist,0
+2011,Lambeth,E09000022,Total,38917,0,No religion,No religion: Realist,0
+2011,Lewisham,E09000023,Total,32964,0,No religion,No religion: Realist,0
+2011,Newham,E09000025,Total,12654,0,No religion,No religion: Realist,0
+2011,Southwark,E09000028,Total,33787,0,No religion,No religion: Realist,0
+2011,Tower Hamlets,E09000030,Total,9715,0,No religion,No religion: Realist,0
+2011,Wandsworth,E09000032,Total,24250,0,No religion,No religion: Realist,0
+2011,Westminster,E09000033,Total,9413,0,No religion,No religion: Realist,0
+2011,Barking and Dagenham,E09000002,Total,14392,0,No religion,No religion: Realist,0
+2011,Barnet,E09000003,Total,31904,0,No religion,No religion: Realist,0
+2011,Bexley,E09000004,Total,19019,0,No religion,No religion: Realist,0
+2011,Brent,E09000005,Total,22601,0,No religion,No religion: Realist,0
+2011,Bromley,E09000006,Total,18015,0,No religion,No religion: Realist,0
+2011,Croydon,E09000008,Total,47564,0,No religion,No religion: Realist,0
+2011,Ealing,E09000009,Total,49254,0,No religion,No religion: Realist,0
+2011,Enfield,E09000010,Total,-21324,0,No religion,No religion: Realist,0
+2011,Greenwich,E09000011,Total,10048,0,No religion,No religion: Realist,0
+2011,Harrow,E09000015,Total,17315,0,No religion,No religion: Realist,0
+2011,Havering,E09000016,Total,9979,0,No religion,No religion: Realist,0
+2011,Hillingdon,E09000017,Total,26170,0,No religion,No religion: Realist,0
+2011,Hounslow,E09000018,Total,22338,0,No religion,No religion: Realist,0
+2011,Kingston upon Thames,E09000021,Total,655,0,No religion,No religion: Realist,0
+2011,Merton,E09000024,Total,2833,0,No religion,No religion: Realist,0
+2011,Redbridge,E09000026,Total,11373,0,No religion,No religion: Realist,0
+2011,Richmond upon Thames,E09000027,Total,-3410,0,No religion,No religion: Realist,0
+2011,Sutton,E09000029,Total,25169,0,No religion,No religion: Realist,0
+2011,Waltham Forest,E09000031,Total,3687,0,No religion,No religion: Realist,0
+2011,Camden,E09000007,Total,2063,1,Other religion,Other religion: Animism,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Animism,0
+2011,Hackney,E09000012,Total,21248,1,Other religion,Other religion: Animism,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,0,Other religion,Other religion: Animism,0
+2011,Haringey,E09000014,Total,17794,1,Other religion,Other religion: Animism,0
+2011,Islington,E09000019,Total,15869,1,Other religion,Other religion: Animism,0
+2011,Kensington and Chelsea,E09000020,Total,8707,0,Other religion,Other religion: Animism,0
+2011,Lambeth,E09000022,Total,38917,-1,Other religion,Other religion: Animism,0
+2011,Lewisham,E09000023,Total,32964,1,Other religion,Other religion: Animism,0
+2011,Newham,E09000025,Total,12654,0,Other religion,Other religion: Animism,0
+2011,Southwark,E09000028,Total,33787,1,Other religion,Other religion: Animism,0
+2011,Tower Hamlets,E09000030,Total,9715,0,Other religion,Other religion: Animism,0
+2011,Wandsworth,E09000032,Total,24250,0,Other religion,Other religion: Animism,0
+2011,Westminster,E09000033,Total,9413,0,Other religion,Other religion: Animism,0
+2011,Barking and Dagenham,E09000002,Total,14392,0,Other religion,Other religion: Animism,0
+2011,Barnet,E09000003,Total,31904,0,Other religion,Other religion: Animism,0
+2011,Bexley,E09000004,Total,19019,0,Other religion,Other religion: Animism,0
+2011,Brent,E09000005,Total,22601,0,Other religion,Other religion: Animism,0
+2011,Bromley,E09000006,Total,18015,0,Other religion,Other religion: Animism,0
+2011,Croydon,E09000008,Total,47564,0,Other religion,Other religion: Animism,0
+2011,Ealing,E09000009,Total,49254,0,Other religion,Other religion: Animism,0
+2011,Enfield,E09000010,Total,-21324,0,Other religion,Other religion: Animism,0
+2011,Greenwich,E09000011,Total,10048,-1,Other religion,Other religion: Animism,0
+2011,Harrow,E09000015,Total,17315,0,Other religion,Other religion: Animism,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: Animism,0
+2011,Hillingdon,E09000017,Total,26170,0,Other religion,Other religion: Animism,0
+2011,Hounslow,E09000018,Total,22338,0,Other religion,Other religion: Animism,0
+2011,Kingston upon Thames,E09000021,Total,655,0,Other religion,Other religion: Animism,0
+2011,Merton,E09000024,Total,2833,0,Other religion,Other religion: Animism,0
+2011,Redbridge,E09000026,Total,11373,0,Other religion,Other religion: Animism,0
+2011,Richmond upon Thames,E09000027,Total,-3410,0,Other religion,Other religion: Animism,0
+2011,Sutton,E09000029,Total,25169,0,Other religion,Other religion: Animism,0
+2011,Waltham Forest,E09000031,Total,3687,0,Other religion,Other religion: Animism,0
+2011,Camden,E09000007,Total,2063,13,Other religion,Other religion: Baha'i,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Baha'i,0
+2011,Hackney,E09000012,Total,21248,1,Other religion,Other religion: Baha'i,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,7,Other religion,Other religion: Baha'i,0
+2011,Haringey,E09000014,Total,17794,6,Other religion,Other religion: Baha'i,0
+2011,Islington,E09000019,Total,15869,0,Other religion,Other religion: Baha'i,0
+2011,Kensington and Chelsea,E09000020,Total,8707,18,Other religion,Other religion: Baha'i,0
+2011,Lambeth,E09000022,Total,38917,4,Other religion,Other religion: Baha'i,0
+2011,Lewisham,E09000023,Total,32964,6,Other religion,Other religion: Baha'i,0
+2011,Newham,E09000025,Total,12654,-2,Other religion,Other religion: Baha'i,0
+2011,Southwark,E09000028,Total,33787,2,Other religion,Other religion: Baha'i,0
+2011,Tower Hamlets,E09000030,Total,9715,1,Other religion,Other religion: Baha'i,0
+2011,Wandsworth,E09000032,Total,24250,-2,Other religion,Other religion: Baha'i,0
+2011,Westminster,E09000033,Total,9413,-9,Other religion,Other religion: Baha'i,0
+2011,Barking and Dagenham,E09000002,Total,14392,1,Other religion,Other religion: Baha'i,0
+2011,Barnet,E09000003,Total,31904,-3,Other religion,Other religion: Baha'i,0
+2011,Bexley,E09000004,Total,19019,0,Other religion,Other religion: Baha'i,0
+2011,Brent,E09000005,Total,22601,4,Other religion,Other religion: Baha'i,0
+2011,Bromley,E09000006,Total,18015,-1,Other religion,Other religion: Baha'i,0
+2011,Croydon,E09000008,Total,47564,-2,Other religion,Other religion: Baha'i,0
+2011,Ealing,E09000009,Total,49254,3,Other religion,Other religion: Baha'i,0
+2011,Enfield,E09000010,Total,-21324,1,Other religion,Other religion: Baha'i,0
+2011,Greenwich,E09000011,Total,10048,6,Other religion,Other religion: Baha'i,0
+2011,Harrow,E09000015,Total,17315,-1,Other religion,Other religion: Baha'i,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: Baha'i,0
+2011,Hillingdon,E09000017,Total,26170,5,Other religion,Other religion: Baha'i,0
+2011,Hounslow,E09000018,Total,22338,-2,Other religion,Other religion: Baha'i,0
+2011,Kingston upon Thames,E09000021,Total,655,7,Other religion,Other religion: Baha'i,0
+2011,Merton,E09000024,Total,2833,4,Other religion,Other religion: Baha'i,0
+2011,Redbridge,E09000026,Total,11373,1,Other religion,Other religion: Baha'i,0
+2011,Richmond upon Thames,E09000027,Total,-3410,7,Other religion,Other religion: Baha'i,0
+2011,Sutton,E09000029,Total,25169,3,Other religion,Other religion: Baha'i,0
+2011,Waltham Forest,E09000031,Total,3687,1,Other religion,Other religion: Baha'i,0
+2011,Camden,E09000007,Total,2063,5,Other religion,Other religion: Believe in God,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Believe in God,0
+2011,Hackney,E09000012,Total,21248,-3,Other religion,Other religion: Believe in God,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,-1,Other religion,Other religion: Believe in God,0
+2011,Haringey,E09000014,Total,17794,6,Other religion,Other religion: Believe in God,0
+2011,Islington,E09000019,Total,15869,6,Other religion,Other religion: Believe in God,0
+2011,Kensington and Chelsea,E09000020,Total,8707,3,Other religion,Other religion: Believe in God,0
+2011,Lambeth,E09000022,Total,38917,-2,Other religion,Other religion: Believe in God,0
+2011,Lewisham,E09000023,Total,32964,2,Other religion,Other religion: Believe in God,0
+2011,Newham,E09000025,Total,12654,1,Other religion,Other religion: Believe in God,0
+2011,Southwark,E09000028,Total,33787,4,Other religion,Other religion: Believe in God,0
+2011,Tower Hamlets,E09000030,Total,9715,-1,Other religion,Other religion: Believe in God,0
+2011,Wandsworth,E09000032,Total,24250,4,Other religion,Other religion: Believe in God,0
+2011,Westminster,E09000033,Total,9413,11,Other religion,Other religion: Believe in God,0
+2011,Barking and Dagenham,E09000002,Total,14392,2,Other religion,Other religion: Believe in God,0
+2011,Barnet,E09000003,Total,31904,-2,Other religion,Other religion: Believe in God,0
+2011,Bexley,E09000004,Total,19019,5,Other religion,Other religion: Believe in God,0
+2011,Brent,E09000005,Total,22601,1,Other religion,Other religion: Believe in God,0
+2011,Bromley,E09000006,Total,18015,6,Other religion,Other religion: Believe in God,0
+2011,Croydon,E09000008,Total,47564,2,Other religion,Other religion: Believe in God,0
+2011,Ealing,E09000009,Total,49254,-3,Other religion,Other religion: Believe in God,0
+2011,Enfield,E09000010,Total,-21324,7,Other religion,Other religion: Believe in God,0
+2011,Greenwich,E09000011,Total,10048,3,Other religion,Other religion: Believe in God,0
+2011,Harrow,E09000015,Total,17315,2,Other religion,Other religion: Believe in God,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: Believe in God,0
+2011,Hillingdon,E09000017,Total,26170,-4,Other religion,Other religion: Believe in God,0
+2011,Hounslow,E09000018,Total,22338,0,Other religion,Other religion: Believe in God,0
+2011,Kingston upon Thames,E09000021,Total,655,0,Other religion,Other religion: Believe in God,0
+2011,Merton,E09000024,Total,2833,2,Other religion,Other religion: Believe in God,0
+2011,Redbridge,E09000026,Total,11373,0,Other religion,Other religion: Believe in God,0
+2011,Richmond upon Thames,E09000027,Total,-3410,-2,Other religion,Other religion: Believe in God,0
+2011,Sutton,E09000029,Total,25169,0,Other religion,Other religion: Believe in God,0
+2011,Waltham Forest,E09000031,Total,3687,4,Other religion,Other religion: Believe in God,0
+2011,Camden,E09000007,Total,2063,0,Other religion,Other religion: Brahma Kumari,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Brahma Kumari,0
+2011,Hackney,E09000012,Total,21248,0,Other religion,Other religion: Brahma Kumari,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,0,Other religion,Other religion: Brahma Kumari,0
+2011,Haringey,E09000014,Total,17794,0,Other religion,Other religion: Brahma Kumari,0
+2011,Islington,E09000019,Total,15869,0,Other religion,Other religion: Brahma Kumari,0
+2011,Kensington and Chelsea,E09000020,Total,8707,1,Other religion,Other religion: Brahma Kumari,0
+2011,Lambeth,E09000022,Total,38917,0,Other religion,Other religion: Brahma Kumari,0
+2011,Lewisham,E09000023,Total,32964,1,Other religion,Other religion: Brahma Kumari,0
+2011,Newham,E09000025,Total,12654,0,Other religion,Other religion: Brahma Kumari,0
+2011,Southwark,E09000028,Total,33787,0,Other religion,Other religion: Brahma Kumari,0
+2011,Tower Hamlets,E09000030,Total,9715,0,Other religion,Other religion: Brahma Kumari,0
+2011,Wandsworth,E09000032,Total,24250,0,Other religion,Other religion: Brahma Kumari,0
+2011,Westminster,E09000033,Total,9413,0,Other religion,Other religion: Brahma Kumari,0
+2011,Barking and Dagenham,E09000002,Total,14392,0,Other religion,Other religion: Brahma Kumari,0
+2011,Barnet,E09000003,Total,31904,0,Other religion,Other religion: Brahma Kumari,0
+2011,Bexley,E09000004,Total,19019,0,Other religion,Other religion: Brahma Kumari,0
+2011,Brent,E09000005,Total,22601,12,Other religion,Other religion: Brahma Kumari,0
+2011,Bromley,E09000006,Total,18015,0,Other religion,Other religion: Brahma Kumari,0
+2011,Croydon,E09000008,Total,47564,0,Other religion,Other religion: Brahma Kumari,0
+2011,Ealing,E09000009,Total,49254,0,Other religion,Other religion: Brahma Kumari,0
+2011,Enfield,E09000010,Total,-21324,0,Other religion,Other religion: Brahma Kumari,0
+2011,Greenwich,E09000011,Total,10048,0,Other religion,Other religion: Brahma Kumari,0
+2011,Harrow,E09000015,Total,17315,2,Other religion,Other religion: Brahma Kumari,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: Brahma Kumari,0
+2011,Hillingdon,E09000017,Total,26170,0,Other religion,Other religion: Brahma Kumari,0
+2011,Hounslow,E09000018,Total,22338,0,Other religion,Other religion: Brahma Kumari,0
+2011,Kingston upon Thames,E09000021,Total,655,0,Other religion,Other religion: Brahma Kumari,0
+2011,Merton,E09000024,Total,2833,0,Other religion,Other religion: Brahma Kumari,0
+2011,Redbridge,E09000026,Total,11373,0,Other religion,Other religion: Brahma Kumari,0
+2011,Richmond upon Thames,E09000027,Total,-3410,0,Other religion,Other religion: Brahma Kumari,0
+2011,Sutton,E09000029,Total,25169,0,Other religion,Other religion: Brahma Kumari,0
+2011,Waltham Forest,E09000031,Total,3687,0,Other religion,Other religion: Brahma Kumari,0
+2011,Camden,E09000007,Total,2063,0,Other religion,Other religion: Chinese Religion,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Chinese Religion,0
+2011,Hackney,E09000012,Total,21248,2,Other religion,Other religion: Chinese Religion,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,0,Other religion,Other religion: Chinese Religion,0
+2011,Haringey,E09000014,Total,17794,1,Other religion,Other religion: Chinese Religion,0
+2011,Islington,E09000019,Total,15869,0,Other religion,Other religion: Chinese Religion,0
+2011,Kensington and Chelsea,E09000020,Total,8707,0,Other religion,Other religion: Chinese Religion,0
+2011,Lambeth,E09000022,Total,38917,0,Other religion,Other religion: Chinese Religion,0
+2011,Lewisham,E09000023,Total,32964,1,Other religion,Other religion: Chinese Religion,0
+2011,Newham,E09000025,Total,12654,0,Other religion,Other religion: Chinese Religion,0
+2011,Southwark,E09000028,Total,33787,0,Other religion,Other religion: Chinese Religion,0
+2011,Tower Hamlets,E09000030,Total,9715,0,Other religion,Other religion: Chinese Religion,0
+2011,Wandsworth,E09000032,Total,24250,0,Other religion,Other religion: Chinese Religion,0
+2011,Westminster,E09000033,Total,9413,0,Other religion,Other religion: Chinese Religion,0
+2011,Barking and Dagenham,E09000002,Total,14392,0,Other religion,Other religion: Chinese Religion,0
+2011,Barnet,E09000003,Total,31904,0,Other religion,Other religion: Chinese Religion,0
+2011,Bexley,E09000004,Total,19019,0,Other religion,Other religion: Chinese Religion,0
+2011,Brent,E09000005,Total,22601,0,Other religion,Other religion: Chinese Religion,0
+2011,Bromley,E09000006,Total,18015,0,Other religion,Other religion: Chinese Religion,0
+2011,Croydon,E09000008,Total,47564,0,Other religion,Other religion: Chinese Religion,0
+2011,Ealing,E09000009,Total,49254,0,Other religion,Other religion: Chinese Religion,0
+2011,Enfield,E09000010,Total,-21324,0,Other religion,Other religion: Chinese Religion,0
+2011,Greenwich,E09000011,Total,10048,0,Other religion,Other religion: Chinese Religion,0
+2011,Harrow,E09000015,Total,17315,0,Other religion,Other religion: Chinese Religion,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: Chinese Religion,0
+2011,Hillingdon,E09000017,Total,26170,0,Other religion,Other religion: Chinese Religion,0
+2011,Hounslow,E09000018,Total,22338,0,Other religion,Other religion: Chinese Religion,0
+2011,Kingston upon Thames,E09000021,Total,655,0,Other religion,Other religion: Chinese Religion,0
+2011,Merton,E09000024,Total,2833,0,Other religion,Other religion: Chinese Religion,0
+2011,Redbridge,E09000026,Total,11373,0,Other religion,Other religion: Chinese Religion,0
+2011,Richmond upon Thames,E09000027,Total,-3410,0,Other religion,Other religion: Chinese Religion,0
+2011,Sutton,E09000029,Total,25169,0,Other religion,Other religion: Chinese Religion,0
+2011,Waltham Forest,E09000031,Total,3687,2,Other religion,Other religion: Chinese Religion,0
+2011,Camden,E09000007,Total,2063,0,Other religion,Other religion: Church of All Religion,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Church of All Religion,0
+2011,Hackney,E09000012,Total,21248,0,Other religion,Other religion: Church of All Religion,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,0,Other religion,Other religion: Church of All Religion,0
+2011,Haringey,E09000014,Total,17794,0,Other religion,Other religion: Church of All Religion,0
+2011,Islington,E09000019,Total,15869,1,Other religion,Other religion: Church of All Religion,0
+2011,Kensington and Chelsea,E09000020,Total,8707,0,Other religion,Other religion: Church of All Religion,0
+2011,Lambeth,E09000022,Total,38917,0,Other religion,Other religion: Church of All Religion,0
+2011,Lewisham,E09000023,Total,32964,0,Other religion,Other religion: Church of All Religion,0
+2011,Newham,E09000025,Total,12654,0,Other religion,Other religion: Church of All Religion,0
+2011,Southwark,E09000028,Total,33787,0,Other religion,Other religion: Church of All Religion,0
+2011,Tower Hamlets,E09000030,Total,9715,-1,Other religion,Other religion: Church of All Religion,0
+2011,Wandsworth,E09000032,Total,24250,0,Other religion,Other religion: Church of All Religion,0
+2011,Westminster,E09000033,Total,9413,1,Other religion,Other religion: Church of All Religion,0
+2011,Barking and Dagenham,E09000002,Total,14392,0,Other religion,Other religion: Church of All Religion,0
+2011,Barnet,E09000003,Total,31904,0,Other religion,Other religion: Church of All Religion,0
+2011,Bexley,E09000004,Total,19019,0,Other religion,Other religion: Church of All Religion,0
+2011,Brent,E09000005,Total,22601,0,Other religion,Other religion: Church of All Religion,0
+2011,Bromley,E09000006,Total,18015,0,Other religion,Other religion: Church of All Religion,0
+2011,Croydon,E09000008,Total,47564,1,Other religion,Other religion: Church of All Religion,0
+2011,Ealing,E09000009,Total,49254,0,Other religion,Other religion: Church of All Religion,0
+2011,Enfield,E09000010,Total,-21324,0,Other religion,Other religion: Church of All Religion,0
+2011,Greenwich,E09000011,Total,10048,0,Other religion,Other religion: Church of All Religion,0
+2011,Harrow,E09000015,Total,17315,0,Other religion,Other religion: Church of All Religion,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: Church of All Religion,0
+2011,Hillingdon,E09000017,Total,26170,0,Other religion,Other religion: Church of All Religion,0
+2011,Hounslow,E09000018,Total,22338,0,Other religion,Other religion: Church of All Religion,0
+2011,Kingston upon Thames,E09000021,Total,655,0,Other religion,Other religion: Church of All Religion,0
+2011,Merton,E09000024,Total,2833,0,Other religion,Other religion: Church of All Religion,0
+2011,Redbridge,E09000026,Total,11373,0,Other religion,Other religion: Church of All Religion,0
+2011,Richmond upon Thames,E09000027,Total,-3410,0,Other religion,Other religion: Church of All Religion,0
+2011,Sutton,E09000029,Total,25169,0,Other religion,Other religion: Church of All Religion,0
+2011,Waltham Forest,E09000031,Total,3687,0,Other religion,Other religion: Church of All Religion,0
+2011,Camden,E09000007,Total,2063,0,Other religion,Other religion: Confucianist,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Confucianist,0
+2011,Hackney,E09000012,Total,21248,0,Other religion,Other religion: Confucianist,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,0,Other religion,Other religion: Confucianist,0
+2011,Haringey,E09000014,Total,17794,0,Other religion,Other religion: Confucianist,0
+2011,Islington,E09000019,Total,15869,0,Other religion,Other religion: Confucianist,0
+2011,Kensington and Chelsea,E09000020,Total,8707,0,Other religion,Other religion: Confucianist,0
+2011,Lambeth,E09000022,Total,38917,0,Other religion,Other religion: Confucianist,0
+2011,Lewisham,E09000023,Total,32964,0,Other religion,Other religion: Confucianist,0
+2011,Newham,E09000025,Total,12654,0,Other religion,Other religion: Confucianist,0
+2011,Southwark,E09000028,Total,33787,0,Other religion,Other religion: Confucianist,0
+2011,Tower Hamlets,E09000030,Total,9715,0,Other religion,Other religion: Confucianist,0
+2011,Wandsworth,E09000032,Total,24250,0,Other religion,Other religion: Confucianist,0
+2011,Westminster,E09000033,Total,9413,0,Other religion,Other religion: Confucianist,0
+2011,Barking and Dagenham,E09000002,Total,14392,0,Other religion,Other religion: Confucianist,0
+2011,Barnet,E09000003,Total,31904,0,Other religion,Other religion: Confucianist,0
+2011,Bexley,E09000004,Total,19019,0,Other religion,Other religion: Confucianist,0
+2011,Brent,E09000005,Total,22601,0,Other religion,Other religion: Confucianist,0
+2011,Bromley,E09000006,Total,18015,0,Other religion,Other religion: Confucianist,0
+2011,Croydon,E09000008,Total,47564,0,Other religion,Other religion: Confucianist,0
+2011,Ealing,E09000009,Total,49254,0,Other religion,Other religion: Confucianist,0
+2011,Enfield,E09000010,Total,-21324,0,Other religion,Other religion: Confucianist,0
+2011,Greenwich,E09000011,Total,10048,0,Other religion,Other religion: Confucianist,0
+2011,Harrow,E09000015,Total,17315,0,Other religion,Other religion: Confucianist,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: Confucianist,0
+2011,Hillingdon,E09000017,Total,26170,0,Other religion,Other religion: Confucianist,0
+2011,Hounslow,E09000018,Total,22338,0,Other religion,Other religion: Confucianist,0
+2011,Kingston upon Thames,E09000021,Total,655,0,Other religion,Other religion: Confucianist,0
+2011,Merton,E09000024,Total,2833,0,Other religion,Other religion: Confucianist,0
+2011,Redbridge,E09000026,Total,11373,0,Other religion,Other religion: Confucianist,0
+2011,Richmond upon Thames,E09000027,Total,-3410,0,Other religion,Other religion: Confucianist,0
+2011,Sutton,E09000029,Total,25169,0,Other religion,Other religion: Confucianist,0
+2011,Waltham Forest,E09000031,Total,3687,0,Other religion,Other religion: Confucianist,0
+2011,Camden,E09000007,Total,2063,0,Other religion,Other religion: Deist,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Deist,0
+2011,Hackney,E09000012,Total,21248,0,Other religion,Other religion: Deist,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,-1,Other religion,Other religion: Deist,0
+2011,Haringey,E09000014,Total,17794,0,Other religion,Other religion: Deist,0
+2011,Islington,E09000019,Total,15869,2,Other religion,Other religion: Deist,0
+2011,Kensington and Chelsea,E09000020,Total,8707,0,Other religion,Other religion: Deist,0
+2011,Lambeth,E09000022,Total,38917,0,Other religion,Other religion: Deist,0
+2011,Lewisham,E09000023,Total,32964,-1,Other religion,Other religion: Deist,0
+2011,Newham,E09000025,Total,12654,0,Other religion,Other religion: Deist,0
+2011,Southwark,E09000028,Total,33787,-1,Other religion,Other religion: Deist,0
+2011,Tower Hamlets,E09000030,Total,9715,3,Other religion,Other religion: Deist,0
+2011,Wandsworth,E09000032,Total,24250,0,Other religion,Other religion: Deist,0
+2011,Westminster,E09000033,Total,9413,1,Other religion,Other religion: Deist,0
+2011,Barking and Dagenham,E09000002,Total,14392,1,Other religion,Other religion: Deist,0
+2011,Barnet,E09000003,Total,31904,1,Other religion,Other religion: Deist,0
+2011,Bexley,E09000004,Total,19019,0,Other religion,Other religion: Deist,0
+2011,Brent,E09000005,Total,22601,2,Other religion,Other religion: Deist,0
+2011,Bromley,E09000006,Total,18015,0,Other religion,Other religion: Deist,0
+2011,Croydon,E09000008,Total,47564,0,Other religion,Other religion: Deist,0
+2011,Ealing,E09000009,Total,49254,0,Other religion,Other religion: Deist,0
+2011,Enfield,E09000010,Total,-21324,0,Other religion,Other religion: Deist,0
+2011,Greenwich,E09000011,Total,10048,1,Other religion,Other religion: Deist,0
+2011,Harrow,E09000015,Total,17315,0,Other religion,Other religion: Deist,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: Deist,0
+2011,Hillingdon,E09000017,Total,26170,0,Other religion,Other religion: Deist,0
+2011,Hounslow,E09000018,Total,22338,1,Other religion,Other religion: Deist,0
+2011,Kingston upon Thames,E09000021,Total,655,0,Other religion,Other religion: Deist,0
+2011,Merton,E09000024,Total,2833,2,Other religion,Other religion: Deist,0
+2011,Redbridge,E09000026,Total,11373,0,Other religion,Other religion: Deist,0
+2011,Richmond upon Thames,E09000027,Total,-3410,1,Other religion,Other religion: Deist,0
+2011,Sutton,E09000029,Total,25169,0,Other religion,Other religion: Deist,0
+2011,Waltham Forest,E09000031,Total,3687,0,Other religion,Other religion: Deist,0
+2011,Camden,E09000007,Total,2063,1,Other religion,Other religion: Druid,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Druid,0
+2011,Hackney,E09000012,Total,21248,1,Other religion,Other religion: Druid,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,0,Other religion,Other religion: Druid,0
+2011,Haringey,E09000014,Total,17794,2,Other religion,Other religion: Druid,0
+2011,Islington,E09000019,Total,15869,0,Other religion,Other religion: Druid,0
+2011,Kensington and Chelsea,E09000020,Total,8707,1,Other religion,Other religion: Druid,0
+2011,Lambeth,E09000022,Total,38917,3,Other religion,Other religion: Druid,0
+2011,Lewisham,E09000023,Total,32964,0,Other religion,Other religion: Druid,0
+2011,Newham,E09000025,Total,12654,1,Other religion,Other religion: Druid,0
+2011,Southwark,E09000028,Total,33787,0,Other religion,Other religion: Druid,0
+2011,Tower Hamlets,E09000030,Total,9715,1,Other religion,Other religion: Druid,0
+2011,Wandsworth,E09000032,Total,24250,1,Other religion,Other religion: Druid,0
+2011,Westminster,E09000033,Total,9413,1,Other religion,Other religion: Druid,0
+2011,Barking and Dagenham,E09000002,Total,14392,-1,Other religion,Other religion: Druid,0
+2011,Barnet,E09000003,Total,31904,2,Other religion,Other religion: Druid,0
+2011,Bexley,E09000004,Total,19019,-2,Other religion,Other religion: Druid,0
+2011,Brent,E09000005,Total,22601,1,Other religion,Other religion: Druid,0
+2011,Bromley,E09000006,Total,18015,2,Other religion,Other religion: Druid,0
+2011,Croydon,E09000008,Total,47564,-3,Other religion,Other religion: Druid,0
+2011,Ealing,E09000009,Total,49254,1,Other religion,Other religion: Druid,0
+2011,Enfield,E09000010,Total,-21324,1,Other religion,Other religion: Druid,0
+2011,Greenwich,E09000011,Total,10048,1,Other religion,Other religion: Druid,0
+2011,Harrow,E09000015,Total,17315,0,Other religion,Other religion: Druid,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: Druid,0
+2011,Hillingdon,E09000017,Total,26170,0,Other religion,Other religion: Druid,0
+2011,Hounslow,E09000018,Total,22338,0,Other religion,Other religion: Druid,0
+2011,Kingston upon Thames,E09000021,Total,655,0,Other religion,Other religion: Druid,0
+2011,Merton,E09000024,Total,2833,0,Other religion,Other religion: Druid,0
+2011,Redbridge,E09000026,Total,11373,0,Other religion,Other religion: Druid,0
+2011,Richmond upon Thames,E09000027,Total,-3410,1,Other religion,Other religion: Druid,0
+2011,Sutton,E09000029,Total,25169,0,Other religion,Other religion: Druid,0
+2011,Waltham Forest,E09000031,Total,3687,1,Other religion,Other religion: Druid,0
+2011,Camden,E09000007,Total,2063,1,Other religion,Other religion: Druze,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Druze,0
+2011,Hackney,E09000012,Total,21248,0,Other religion,Other religion: Druze,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,0,Other religion,Other religion: Druze,0
+2011,Haringey,E09000014,Total,17794,1,Other religion,Other religion: Druze,0
+2011,Islington,E09000019,Total,15869,-1,Other religion,Other religion: Druze,0
+2011,Kensington and Chelsea,E09000020,Total,8707,2,Other religion,Other religion: Druze,0
+2011,Lambeth,E09000022,Total,38917,0,Other religion,Other religion: Druze,0
+2011,Lewisham,E09000023,Total,32964,0,Other religion,Other religion: Druze,0
+2011,Newham,E09000025,Total,12654,0,Other religion,Other religion: Druze,0
+2011,Southwark,E09000028,Total,33787,0,Other religion,Other religion: Druze,0
+2011,Tower Hamlets,E09000030,Total,9715,0,Other religion,Other religion: Druze,0
+2011,Wandsworth,E09000032,Total,24250,0,Other religion,Other religion: Druze,0
+2011,Westminster,E09000033,Total,9413,21,Other religion,Other religion: Druze,0
+2011,Barking and Dagenham,E09000002,Total,14392,-1,Other religion,Other religion: Druze,0
+2011,Barnet,E09000003,Total,31904,0,Other religion,Other religion: Druze,0
+2011,Bexley,E09000004,Total,19019,0,Other religion,Other religion: Druze,0
+2011,Brent,E09000005,Total,22601,5,Other religion,Other religion: Druze,0
+2011,Bromley,E09000006,Total,18015,0,Other religion,Other religion: Druze,0
+2011,Croydon,E09000008,Total,47564,0,Other religion,Other religion: Druze,0
+2011,Ealing,E09000009,Total,49254,5,Other religion,Other religion: Druze,0
+2011,Enfield,E09000010,Total,-21324,1,Other religion,Other religion: Druze,0
+2011,Greenwich,E09000011,Total,10048,0,Other religion,Other religion: Druze,0
+2011,Harrow,E09000015,Total,17315,0,Other religion,Other religion: Druze,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: Druze,0
+2011,Hillingdon,E09000017,Total,26170,0,Other religion,Other religion: Druze,0
+2011,Hounslow,E09000018,Total,22338,8,Other religion,Other religion: Druze,0
+2011,Kingston upon Thames,E09000021,Total,655,2,Other religion,Other religion: Druze,0
+2011,Merton,E09000024,Total,2833,0,Other religion,Other religion: Druze,0
+2011,Redbridge,E09000026,Total,11373,1,Other religion,Other religion: Druze,0
+2011,Richmond upon Thames,E09000027,Total,-3410,1,Other religion,Other religion: Druze,0
+2011,Sutton,E09000029,Total,25169,0,Other religion,Other religion: Druze,0
+2011,Waltham Forest,E09000031,Total,3687,0,Other religion,Other religion: Druze,0
+2011,Camden,E09000007,Total,2063,0,Other religion,Other religion: Eckankar,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Eckankar,0
+2011,Hackney,E09000012,Total,21248,1,Other religion,Other religion: Eckankar,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,0,Other religion,Other religion: Eckankar,0
+2011,Haringey,E09000014,Total,17794,0,Other religion,Other religion: Eckankar,0
+2011,Islington,E09000019,Total,15869,0,Other religion,Other religion: Eckankar,0
+2011,Kensington and Chelsea,E09000020,Total,8707,0,Other religion,Other religion: Eckankar,0
+2011,Lambeth,E09000022,Total,38917,0,Other religion,Other religion: Eckankar,0
+2011,Lewisham,E09000023,Total,32964,0,Other religion,Other religion: Eckankar,0
+2011,Newham,E09000025,Total,12654,1,Other religion,Other religion: Eckankar,0
+2011,Southwark,E09000028,Total,33787,1,Other religion,Other religion: Eckankar,0
+2011,Tower Hamlets,E09000030,Total,9715,0,Other religion,Other religion: Eckankar,0
+2011,Wandsworth,E09000032,Total,24250,0,Other religion,Other religion: Eckankar,0
+2011,Westminster,E09000033,Total,9413,0,Other religion,Other religion: Eckankar,0
+2011,Barking and Dagenham,E09000002,Total,14392,0,Other religion,Other religion: Eckankar,0
+2011,Barnet,E09000003,Total,31904,1,Other religion,Other religion: Eckankar,0
+2011,Bexley,E09000004,Total,19019,0,Other religion,Other religion: Eckankar,0
+2011,Brent,E09000005,Total,22601,1,Other religion,Other religion: Eckankar,0
+2011,Bromley,E09000006,Total,18015,0,Other religion,Other religion: Eckankar,0
+2011,Croydon,E09000008,Total,47564,0,Other religion,Other religion: Eckankar,0
+2011,Ealing,E09000009,Total,49254,0,Other religion,Other religion: Eckankar,0
+2011,Enfield,E09000010,Total,-21324,0,Other religion,Other religion: Eckankar,0
+2011,Greenwich,E09000011,Total,10048,-1,Other religion,Other religion: Eckankar,0
+2011,Harrow,E09000015,Total,17315,-1,Other religion,Other religion: Eckankar,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: Eckankar,0
+2011,Hillingdon,E09000017,Total,26170,1,Other religion,Other religion: Eckankar,0
+2011,Hounslow,E09000018,Total,22338,0,Other religion,Other religion: Eckankar,0
+2011,Kingston upon Thames,E09000021,Total,655,0,Other religion,Other religion: Eckankar,0
+2011,Merton,E09000024,Total,2833,0,Other religion,Other religion: Eckankar,0
+2011,Redbridge,E09000026,Total,11373,0,Other religion,Other religion: Eckankar,0
+2011,Richmond upon Thames,E09000027,Total,-3410,0,Other religion,Other religion: Eckankar,0
+2011,Sutton,E09000029,Total,25169,0,Other religion,Other religion: Eckankar,0
+2011,Waltham Forest,E09000031,Total,3687,0,Other religion,Other religion: Eckankar,0
+2011,Camden,E09000007,Total,2063,1,Other religion,Other religion: Heathen,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Heathen,0
+2011,Hackney,E09000012,Total,21248,0,Other religion,Other religion: Heathen,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,0,Other religion,Other religion: Heathen,0
+2011,Haringey,E09000014,Total,17794,-1,Other religion,Other religion: Heathen,0
+2011,Islington,E09000019,Total,15869,0,Other religion,Other religion: Heathen,0
+2011,Kensington and Chelsea,E09000020,Total,8707,0,Other religion,Other religion: Heathen,0
+2011,Lambeth,E09000022,Total,38917,0,Other religion,Other religion: Heathen,0
+2011,Lewisham,E09000023,Total,32964,2,Other religion,Other religion: Heathen,0
+2011,Newham,E09000025,Total,12654,0,Other religion,Other religion: Heathen,0
+2011,Southwark,E09000028,Total,33787,0,Other religion,Other religion: Heathen,0
+2011,Tower Hamlets,E09000030,Total,9715,1,Other religion,Other religion: Heathen,0
+2011,Wandsworth,E09000032,Total,24250,1,Other religion,Other religion: Heathen,0
+2011,Westminster,E09000033,Total,9413,1,Other religion,Other religion: Heathen,0
+2011,Barking and Dagenham,E09000002,Total,14392,0,Other religion,Other religion: Heathen,0
+2011,Barnet,E09000003,Total,31904,1,Other religion,Other religion: Heathen,0
+2011,Bexley,E09000004,Total,19019,2,Other religion,Other religion: Heathen,0
+2011,Brent,E09000005,Total,22601,1,Other religion,Other religion: Heathen,0
+2011,Bromley,E09000006,Total,18015,1,Other religion,Other religion: Heathen,0
+2011,Croydon,E09000008,Total,47564,1,Other religion,Other religion: Heathen,0
+2011,Ealing,E09000009,Total,49254,0,Other religion,Other religion: Heathen,0
+2011,Enfield,E09000010,Total,-21324,0,Other religion,Other religion: Heathen,0
+2011,Greenwich,E09000011,Total,10048,0,Other religion,Other religion: Heathen,0
+2011,Harrow,E09000015,Total,17315,0,Other religion,Other religion: Heathen,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: Heathen,0
+2011,Hillingdon,E09000017,Total,26170,2,Other religion,Other religion: Heathen,0
+2011,Hounslow,E09000018,Total,22338,0,Other religion,Other religion: Heathen,0
+2011,Kingston upon Thames,E09000021,Total,655,0,Other religion,Other religion: Heathen,0
+2011,Merton,E09000024,Total,2833,0,Other religion,Other religion: Heathen,0
+2011,Redbridge,E09000026,Total,11373,-1,Other religion,Other religion: Heathen,0
+2011,Richmond upon Thames,E09000027,Total,-3410,0,Other religion,Other religion: Heathen,0
+2011,Sutton,E09000029,Total,25169,1,Other religion,Other religion: Heathen,0
+2011,Waltham Forest,E09000031,Total,3687,1,Other religion,Other religion: Heathen,0
+2011,Camden,E09000007,Total,2063,27,Other religion,Other religion: Jain,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Jain,0
+2011,Hackney,E09000012,Total,21248,1,Other religion,Other religion: Jain,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,0,Other religion,Other religion: Jain,0
+2011,Haringey,E09000014,Total,17794,-4,Other religion,Other religion: Jain,-0.1
+2011,Islington,E09000019,Total,15869,-2,Other religion,Other religion: Jain,0
+2011,Kensington and Chelsea,E09000020,Total,8707,-2,Other religion,Other religion: Jain,0
+2011,Lambeth,E09000022,Total,38917,-3,Other religion,Other religion: Jain,0
+2011,Lewisham,E09000023,Total,32964,4,Other religion,Other religion: Jain,0
+2011,Newham,E09000025,Total,12654,14,Other religion,Other religion: Jain,0
+2011,Southwark,E09000028,Total,33787,-1,Other religion,Other religion: Jain,0
+2011,Tower Hamlets,E09000030,Total,9715,5,Other religion,Other religion: Jain,0
+2011,Wandsworth,E09000032,Total,24250,4,Other religion,Other religion: Jain,0
+2011,Westminster,E09000033,Total,9413,23,Other religion,Other religion: Jain,0
+2011,Barking and Dagenham,E09000002,Total,14392,0,Other religion,Other religion: Jain,0
+2011,Barnet,E09000003,Total,31904,-322,Other religion,Other religion: Jain,-0.1
+2011,Bexley,E09000004,Total,19019,4,Other religion,Other religion: Jain,0
+2011,Brent,E09000005,Total,22601,362,Other religion,Other religion: Jain,0
+2011,Bromley,E09000006,Total,18015,2,Other religion,Other religion: Jain,0
+2011,Croydon,E09000008,Total,47564,182,Other religion,Other religion: Jain,0
+2011,Ealing,E09000009,Total,49254,8,Other religion,Other religion: Jain,0
+2011,Enfield,E09000010,Total,-21324,101,Other religion,Other religion: Jain,0
+2011,Greenwich,E09000011,Total,10048,-3,Other religion,Other religion: Jain,0
+2011,Harrow,E09000015,Total,17315,1464,Other religion,Other religion: Jain,0.4
+2011,Havering,E09000016,Total,9979,3,Other religion,Other religion: Jain,0
+2011,Hillingdon,E09000017,Total,26170,-34,Other religion,Other religion: Jain,0
+2011,Hounslow,E09000018,Total,22338,60,Other religion,Other religion: Jain,0
+2011,Kingston upon Thames,E09000021,Total,655,12,Other religion,Other religion: Jain,0
+2011,Merton,E09000024,Total,2833,18,Other religion,Other religion: Jain,0
+2011,Redbridge,E09000026,Total,11373,55,Other religion,Other religion: Jain,0
+2011,Richmond upon Thames,E09000027,Total,-3410,13,Other religion,Other religion: Jain,0.1
+2011,Sutton,E09000029,Total,25169,5,Other religion,Other religion: Jain,0
+2011,Waltham Forest,E09000031,Total,3687,9,Other religion,Other religion: Jain,0
+2011,Camden,E09000007,Total,2063,3,Other religion,Other religion: Mixed Religion,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Mixed Religion,0
+2011,Hackney,E09000012,Total,21248,4,Other religion,Other religion: Mixed Religion,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,16,Other religion,Other religion: Mixed Religion,0
+2011,Haringey,E09000014,Total,17794,24,Other religion,Other religion: Mixed Religion,0
+2011,Islington,E09000019,Total,15869,3,Other religion,Other religion: Mixed Religion,0
+2011,Kensington and Chelsea,E09000020,Total,8707,9,Other religion,Other religion: Mixed Religion,0
+2011,Lambeth,E09000022,Total,38917,33,Other religion,Other religion: Mixed Religion,0
+2011,Lewisham,E09000023,Total,32964,32,Other religion,Other religion: Mixed Religion,0
+2011,Newham,E09000025,Total,12654,14,Other religion,Other religion: Mixed Religion,0
+2011,Southwark,E09000028,Total,33787,6,Other religion,Other religion: Mixed Religion,0
+2011,Tower Hamlets,E09000030,Total,9715,9,Other religion,Other religion: Mixed Religion,0
+2011,Wandsworth,E09000032,Total,24250,6,Other religion,Other religion: Mixed Religion,0
+2011,Westminster,E09000033,Total,9413,1,Other religion,Other religion: Mixed Religion,0
+2011,Barking and Dagenham,E09000002,Total,14392,4,Other religion,Other religion: Mixed Religion,0
+2011,Barnet,E09000003,Total,31904,16,Other religion,Other religion: Mixed Religion,0
+2011,Bexley,E09000004,Total,19019,0,Other religion,Other religion: Mixed Religion,0
+2011,Brent,E09000005,Total,22601,10,Other religion,Other religion: Mixed Religion,0
+2011,Bromley,E09000006,Total,18015,-6,Other religion,Other religion: Mixed Religion,0
+2011,Croydon,E09000008,Total,47564,11,Other religion,Other religion: Mixed Religion,0
+2011,Ealing,E09000009,Total,49254,12,Other religion,Other religion: Mixed Religion,0
+2011,Enfield,E09000010,Total,-21324,19,Other religion,Other religion: Mixed Religion,0
+2011,Greenwich,E09000011,Total,10048,14,Other religion,Other religion: Mixed Religion,0
+2011,Harrow,E09000015,Total,17315,9,Other religion,Other religion: Mixed Religion,0
+2011,Havering,E09000016,Total,9979,8,Other religion,Other religion: Mixed Religion,0
+2011,Hillingdon,E09000017,Total,26170,3,Other religion,Other religion: Mixed Religion,0
+2011,Hounslow,E09000018,Total,22338,7,Other religion,Other religion: Mixed Religion,0
+2011,Kingston upon Thames,E09000021,Total,655,-1,Other religion,Other religion: Mixed Religion,0
+2011,Merton,E09000024,Total,2833,9,Other religion,Other religion: Mixed Religion,0
+2011,Redbridge,E09000026,Total,11373,-3,Other religion,Other religion: Mixed Religion,0
+2011,Richmond upon Thames,E09000027,Total,-3410,16,Other religion,Other religion: Mixed Religion,0
+2011,Sutton,E09000029,Total,25169,2,Other religion,Other religion: Mixed Religion,0
+2011,Waltham Forest,E09000031,Total,3687,8,Other religion,Other religion: Mixed Religion,0
+2011,Camden,E09000007,Total,2063,0,Other religion,Other religion: Mysticism,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Mysticism,0
+2011,Hackney,E09000012,Total,21248,0,Other religion,Other religion: Mysticism,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,0,Other religion,Other religion: Mysticism,0
+2011,Haringey,E09000014,Total,17794,0,Other religion,Other religion: Mysticism,0
+2011,Islington,E09000019,Total,15869,0,Other religion,Other religion: Mysticism,0
+2011,Kensington and Chelsea,E09000020,Total,8707,0,Other religion,Other religion: Mysticism,0
+2011,Lambeth,E09000022,Total,38917,0,Other religion,Other religion: Mysticism,0
+2011,Lewisham,E09000023,Total,32964,0,Other religion,Other religion: Mysticism,0
+2011,Newham,E09000025,Total,12654,0,Other religion,Other religion: Mysticism,0
+2011,Southwark,E09000028,Total,33787,0,Other religion,Other religion: Mysticism,0
+2011,Tower Hamlets,E09000030,Total,9715,1,Other religion,Other religion: Mysticism,0
+2011,Wandsworth,E09000032,Total,24250,1,Other religion,Other religion: Mysticism,0
+2011,Westminster,E09000033,Total,9413,1,Other religion,Other religion: Mysticism,0
+2011,Barking and Dagenham,E09000002,Total,14392,0,Other religion,Other religion: Mysticism,0
+2011,Barnet,E09000003,Total,31904,0,Other religion,Other religion: Mysticism,0
+2011,Bexley,E09000004,Total,19019,0,Other religion,Other religion: Mysticism,0
+2011,Brent,E09000005,Total,22601,0,Other religion,Other religion: Mysticism,0
+2011,Bromley,E09000006,Total,18015,0,Other religion,Other religion: Mysticism,0
+2011,Croydon,E09000008,Total,47564,0,Other religion,Other religion: Mysticism,0
+2011,Ealing,E09000009,Total,49254,0,Other religion,Other religion: Mysticism,0
+2011,Enfield,E09000010,Total,-21324,0,Other religion,Other religion: Mysticism,0
+2011,Greenwich,E09000011,Total,10048,0,Other religion,Other religion: Mysticism,0
+2011,Harrow,E09000015,Total,17315,0,Other religion,Other religion: Mysticism,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: Mysticism,0
+2011,Hillingdon,E09000017,Total,26170,0,Other religion,Other religion: Mysticism,0
+2011,Hounslow,E09000018,Total,22338,0,Other religion,Other religion: Mysticism,0
+2011,Kingston upon Thames,E09000021,Total,655,0,Other religion,Other religion: Mysticism,0
+2011,Merton,E09000024,Total,2833,0,Other religion,Other religion: Mysticism,0
+2011,Redbridge,E09000026,Total,11373,0,Other religion,Other religion: Mysticism,0
+2011,Richmond upon Thames,E09000027,Total,-3410,0,Other religion,Other religion: Mysticism,0
+2011,Sutton,E09000029,Total,25169,0,Other religion,Other religion: Mysticism,0
+2011,Waltham Forest,E09000031,Total,3687,0,Other religion,Other religion: Mysticism,0
+2011,Camden,E09000007,Total,2063,0,Other religion,Other religion: Native American Church,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Native American Church,0
+2011,Hackney,E09000012,Total,21248,0,Other religion,Other religion: Native American Church,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,0,Other religion,Other religion: Native American Church,0
+2011,Haringey,E09000014,Total,17794,0,Other religion,Other religion: Native American Church,0
+2011,Islington,E09000019,Total,15869,0,Other religion,Other religion: Native American Church,0
+2011,Kensington and Chelsea,E09000020,Total,8707,0,Other religion,Other religion: Native American Church,0
+2011,Lambeth,E09000022,Total,38917,0,Other religion,Other religion: Native American Church,0
+2011,Lewisham,E09000023,Total,32964,0,Other religion,Other religion: Native American Church,0
+2011,Newham,E09000025,Total,12654,0,Other religion,Other religion: Native American Church,0
+2011,Southwark,E09000028,Total,33787,0,Other religion,Other religion: Native American Church,0
+2011,Tower Hamlets,E09000030,Total,9715,0,Other religion,Other religion: Native American Church,0
+2011,Wandsworth,E09000032,Total,24250,0,Other religion,Other religion: Native American Church,0
+2011,Westminster,E09000033,Total,9413,0,Other religion,Other religion: Native American Church,0
+2011,Barking and Dagenham,E09000002,Total,14392,0,Other religion,Other religion: Native American Church,0
+2011,Barnet,E09000003,Total,31904,0,Other religion,Other religion: Native American Church,0
+2011,Bexley,E09000004,Total,19019,0,Other religion,Other religion: Native American Church,0
+2011,Brent,E09000005,Total,22601,0,Other religion,Other religion: Native American Church,0
+2011,Bromley,E09000006,Total,18015,0,Other religion,Other religion: Native American Church,0
+2011,Croydon,E09000008,Total,47564,0,Other religion,Other religion: Native American Church,0
+2011,Ealing,E09000009,Total,49254,0,Other religion,Other religion: Native American Church,0
+2011,Enfield,E09000010,Total,-21324,0,Other religion,Other religion: Native American Church,0
+2011,Greenwich,E09000011,Total,10048,0,Other religion,Other religion: Native American Church,0
+2011,Harrow,E09000015,Total,17315,0,Other religion,Other religion: Native American Church,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: Native American Church,0
+2011,Hillingdon,E09000017,Total,26170,0,Other religion,Other religion: Native American Church,0
+2011,Hounslow,E09000018,Total,22338,0,Other religion,Other religion: Native American Church,0
+2011,Kingston upon Thames,E09000021,Total,655,0,Other religion,Other religion: Native American Church,0
+2011,Merton,E09000024,Total,2833,0,Other religion,Other religion: Native American Church,0
+2011,Redbridge,E09000026,Total,11373,0,Other religion,Other religion: Native American Church,0
+2011,Richmond upon Thames,E09000027,Total,-3410,0,Other religion,Other religion: Native American Church,0
+2011,Sutton,E09000029,Total,25169,0,Other religion,Other religion: Native American Church,0
+2011,Waltham Forest,E09000031,Total,3687,0,Other religion,Other religion: Native American Church,0
+2011,Camden,E09000007,Total,2063,-1,Other religion,Other religion: New Age,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: New Age,0
+2011,Hackney,E09000012,Total,21248,0,Other religion,Other religion: New Age,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,0,Other religion,Other religion: New Age,0
+2011,Haringey,E09000014,Total,17794,0,Other religion,Other religion: New Age,0
+2011,Islington,E09000019,Total,15869,2,Other religion,Other religion: New Age,0
+2011,Kensington and Chelsea,E09000020,Total,8707,1,Other religion,Other religion: New Age,0
+2011,Lambeth,E09000022,Total,38917,0,Other religion,Other religion: New Age,0
+2011,Lewisham,E09000023,Total,32964,0,Other religion,Other religion: New Age,0
+2011,Newham,E09000025,Total,12654,0,Other religion,Other religion: New Age,0
+2011,Southwark,E09000028,Total,33787,0,Other religion,Other religion: New Age,0
+2011,Tower Hamlets,E09000030,Total,9715,0,Other religion,Other religion: New Age,0
+2011,Wandsworth,E09000032,Total,24250,0,Other religion,Other religion: New Age,0
+2011,Westminster,E09000033,Total,9413,1,Other religion,Other religion: New Age,0
+2011,Barking and Dagenham,E09000002,Total,14392,0,Other religion,Other religion: New Age,0
+2011,Barnet,E09000003,Total,31904,0,Other religion,Other religion: New Age,0
+2011,Bexley,E09000004,Total,19019,0,Other religion,Other religion: New Age,0
+2011,Brent,E09000005,Total,22601,0,Other religion,Other religion: New Age,0
+2011,Bromley,E09000006,Total,18015,0,Other religion,Other religion: New Age,0
+2011,Croydon,E09000008,Total,47564,1,Other religion,Other religion: New Age,0
+2011,Ealing,E09000009,Total,49254,0,Other religion,Other religion: New Age,0
+2011,Enfield,E09000010,Total,-21324,0,Other religion,Other religion: New Age,0
+2011,Greenwich,E09000011,Total,10048,0,Other religion,Other religion: New Age,0
+2011,Harrow,E09000015,Total,17315,0,Other religion,Other religion: New Age,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: New Age,0
+2011,Hillingdon,E09000017,Total,26170,1,Other religion,Other religion: New Age,0
+2011,Hounslow,E09000018,Total,22338,1,Other religion,Other religion: New Age,0
+2011,Kingston upon Thames,E09000021,Total,655,0,Other religion,Other religion: New Age,0
+2011,Merton,E09000024,Total,2833,0,Other religion,Other religion: New Age,0
+2011,Redbridge,E09000026,Total,11373,0,Other religion,Other religion: New Age,0
+2011,Richmond upon Thames,E09000027,Total,-3410,0,Other religion,Other religion: New Age,0
+2011,Sutton,E09000029,Total,25169,0,Other religion,Other religion: New Age,0
+2011,Waltham Forest,E09000031,Total,3687,0,Other religion,Other religion: New Age,0
+2011,Camden,E09000007,Total,2063,0,Other religion,Other religion: Occult,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Occult,0
+2011,Hackney,E09000012,Total,21248,0,Other religion,Other religion: Occult,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,0,Other religion,Other religion: Occult,0
+2011,Haringey,E09000014,Total,17794,0,Other religion,Other religion: Occult,0
+2011,Islington,E09000019,Total,15869,0,Other religion,Other religion: Occult,0
+2011,Kensington and Chelsea,E09000020,Total,8707,0,Other religion,Other religion: Occult,0
+2011,Lambeth,E09000022,Total,38917,0,Other religion,Other religion: Occult,0
+2011,Lewisham,E09000023,Total,32964,2,Other religion,Other religion: Occult,0
+2011,Newham,E09000025,Total,12654,0,Other religion,Other religion: Occult,0
+2011,Southwark,E09000028,Total,33787,1,Other religion,Other religion: Occult,0
+2011,Tower Hamlets,E09000030,Total,9715,0,Other religion,Other religion: Occult,0
+2011,Wandsworth,E09000032,Total,24250,0,Other religion,Other religion: Occult,0
+2011,Westminster,E09000033,Total,9413,0,Other religion,Other religion: Occult,0
+2011,Barking and Dagenham,E09000002,Total,14392,0,Other religion,Other religion: Occult,0
+2011,Barnet,E09000003,Total,31904,0,Other religion,Other religion: Occult,0
+2011,Bexley,E09000004,Total,19019,1,Other religion,Other religion: Occult,0
+2011,Brent,E09000005,Total,22601,0,Other religion,Other religion: Occult,0
+2011,Bromley,E09000006,Total,18015,0,Other religion,Other religion: Occult,0
+2011,Croydon,E09000008,Total,47564,0,Other religion,Other religion: Occult,0
+2011,Ealing,E09000009,Total,49254,0,Other religion,Other religion: Occult,0
+2011,Enfield,E09000010,Total,-21324,0,Other religion,Other religion: Occult,0
+2011,Greenwich,E09000011,Total,10048,0,Other religion,Other religion: Occult,0
+2011,Harrow,E09000015,Total,17315,0,Other religion,Other religion: Occult,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: Occult,0
+2011,Hillingdon,E09000017,Total,26170,0,Other religion,Other religion: Occult,0
+2011,Hounslow,E09000018,Total,22338,0,Other religion,Other religion: Occult,0
+2011,Kingston upon Thames,E09000021,Total,655,0,Other religion,Other religion: Occult,0
+2011,Merton,E09000024,Total,2833,0,Other religion,Other religion: Occult,0
+2011,Redbridge,E09000026,Total,11373,0,Other religion,Other religion: Occult,0
+2011,Richmond upon Thames,E09000027,Total,-3410,0,Other religion,Other religion: Occult,0
+2011,Sutton,E09000029,Total,25169,0,Other religion,Other religion: Occult,0
+2011,Waltham Forest,E09000031,Total,3687,1,Other religion,Other religion: Occult,0
+2011,Camden,E09000007,Total,2063,2,Other religion,Other religion: Other religions,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Other religions,0
+2011,Hackney,E09000012,Total,21248,9,Other religion,Other religion: Other religions,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,-7,Other religion,Other religion: Other religions,-0.1
+2011,Haringey,E09000014,Total,17794,1,Other religion,Other religion: Other religions,0
+2011,Islington,E09000019,Total,15869,12,Other religion,Other religion: Other religions,0
+2011,Kensington and Chelsea,E09000020,Total,8707,0,Other religion,Other religion: Other religions,0
+2011,Lambeth,E09000022,Total,38917,23,Other religion,Other religion: Other religions,0
+2011,Lewisham,E09000023,Total,32964,7,Other religion,Other religion: Other religions,0
+2011,Newham,E09000025,Total,12654,36,Other religion,Other religion: Other religions,0
+2011,Southwark,E09000028,Total,33787,-6,Other religion,Other religion: Other religions,-0.1
+2011,Tower Hamlets,E09000030,Total,9715,3,Other religion,Other religion: Other religions,0
+2011,Wandsworth,E09000032,Total,24250,1,Other religion,Other religion: Other religions,0
+2011,Westminster,E09000033,Total,9413,19,Other religion,Other religion: Other religions,0
+2011,Barking and Dagenham,E09000002,Total,14392,8,Other religion,Other religion: Other religions,0
+2011,Barnet,E09000003,Total,31904,20,Other religion,Other religion: Other religions,0
+2011,Bexley,E09000004,Total,19019,-2,Other religion,Other religion: Other religions,0
+2011,Brent,E09000005,Total,22601,35,Other religion,Other religion: Other religions,0.1
+2011,Bromley,E09000006,Total,18015,0,Other religion,Other religion: Other religions,0
+2011,Croydon,E09000008,Total,47564,32,Other religion,Other religion: Other religions,0
+2011,Ealing,E09000009,Total,49254,11,Other religion,Other religion: Other religions,0
+2011,Enfield,E09000010,Total,-21324,5,Other religion,Other religion: Other religions,0
+2011,Greenwich,E09000011,Total,10048,19,Other religion,Other religion: Other religions,0
+2011,Harrow,E09000015,Total,17315,13,Other religion,Other religion: Other religions,0
+2011,Havering,E09000016,Total,9979,10,Other religion,Other religion: Other religions,0
+2011,Hillingdon,E09000017,Total,26170,10,Other religion,Other religion: Other religions,0
+2011,Hounslow,E09000018,Total,22338,19,Other religion,Other religion: Other religions,0
+2011,Kingston upon Thames,E09000021,Total,655,6,Other religion,Other religion: Other religions,0
+2011,Merton,E09000024,Total,2833,5,Other religion,Other religion: Other religions,0
+2011,Redbridge,E09000026,Total,11373,9,Other religion,Other religion: Other religions,0
+2011,Richmond upon Thames,E09000027,Total,-3410,-2,Other religion,Other religion: Other religions,0
+2011,Sutton,E09000029,Total,25169,7,Other religion,Other religion: Other religions,0
+2011,Waltham Forest,E09000031,Total,3687,-7,Other religion,Other religion: Other religions,0
+2011,Camden,E09000007,Total,2063,1,Other religion,Other religion: Own Belief System,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Own Belief System,0
+2011,Hackney,E09000012,Total,21248,2,Other religion,Other religion: Own Belief System,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,-1,Other religion,Other religion: Own Belief System,0
+2011,Haringey,E09000014,Total,17794,3,Other religion,Other religion: Own Belief System,0
+2011,Islington,E09000019,Total,15869,1,Other religion,Other religion: Own Belief System,0
+2011,Kensington and Chelsea,E09000020,Total,8707,0,Other religion,Other religion: Own Belief System,0
+2011,Lambeth,E09000022,Total,38917,1,Other religion,Other religion: Own Belief System,0
+2011,Lewisham,E09000023,Total,32964,-1,Other religion,Other religion: Own Belief System,0
+2011,Newham,E09000025,Total,12654,-1,Other religion,Other religion: Own Belief System,0
+2011,Southwark,E09000028,Total,33787,-1,Other religion,Other religion: Own Belief System,0
+2011,Tower Hamlets,E09000030,Total,9715,1,Other religion,Other religion: Own Belief System,0
+2011,Wandsworth,E09000032,Total,24250,3,Other religion,Other religion: Own Belief System,0
+2011,Westminster,E09000033,Total,9413,1,Other religion,Other religion: Own Belief System,0
+2011,Barking and Dagenham,E09000002,Total,14392,0,Other religion,Other religion: Own Belief System,0
+2011,Barnet,E09000003,Total,31904,0,Other religion,Other religion: Own Belief System,0
+2011,Bexley,E09000004,Total,19019,0,Other religion,Other religion: Own Belief System,0
+2011,Brent,E09000005,Total,22601,1,Other religion,Other religion: Own Belief System,0
+2011,Bromley,E09000006,Total,18015,-1,Other religion,Other religion: Own Belief System,0
+2011,Croydon,E09000008,Total,47564,4,Other religion,Other religion: Own Belief System,0
+2011,Ealing,E09000009,Total,49254,2,Other religion,Other religion: Own Belief System,0
+2011,Enfield,E09000010,Total,-21324,0,Other religion,Other religion: Own Belief System,0
+2011,Greenwich,E09000011,Total,10048,0,Other religion,Other religion: Own Belief System,0
+2011,Harrow,E09000015,Total,17315,0,Other religion,Other religion: Own Belief System,0
+2011,Havering,E09000016,Total,9979,1,Other religion,Other religion: Own Belief System,0
+2011,Hillingdon,E09000017,Total,26170,0,Other religion,Other religion: Own Belief System,0
+2011,Hounslow,E09000018,Total,22338,0,Other religion,Other religion: Own Belief System,0
+2011,Kingston upon Thames,E09000021,Total,655,1,Other religion,Other religion: Own Belief System,0
+2011,Merton,E09000024,Total,2833,1,Other religion,Other religion: Own Belief System,0
+2011,Redbridge,E09000026,Total,11373,1,Other religion,Other religion: Own Belief System,0
+2011,Richmond upon Thames,E09000027,Total,-3410,3,Other religion,Other religion: Own Belief System,0
+2011,Sutton,E09000029,Total,25169,0,Other religion,Other religion: Own Belief System,0
+2011,Waltham Forest,E09000031,Total,3687,0,Other religion,Other religion: Own Belief System,0
+2011,Camden,E09000007,Total,2063,-1,Other religion,Other religion: Pagan,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Pagan,0
+2011,Hackney,E09000012,Total,21248,-38,Other religion,Other religion: Pagan,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,16,Other religion,Other religion: Pagan,0
+2011,Haringey,E09000014,Total,17794,35,Other religion,Other religion: Pagan,0
+2011,Islington,E09000019,Total,15869,10,Other religion,Other religion: Pagan,0
+2011,Kensington and Chelsea,E09000020,Total,8707,-6,Other religion,Other religion: Pagan,0
+2011,Lambeth,E09000022,Total,38917,12,Other religion,Other religion: Pagan,0
+2011,Lewisham,E09000023,Total,32964,36,Other religion,Other religion: Pagan,0
+2011,Newham,E09000025,Total,12654,30,Other religion,Other religion: Pagan,0
+2011,Southwark,E09000028,Total,33787,46,Other religion,Other religion: Pagan,0
+2011,Tower Hamlets,E09000030,Total,9715,10,Other religion,Other religion: Pagan,0
+2011,Wandsworth,E09000032,Total,24250,-3,Other religion,Other religion: Pagan,-0.1
+2011,Westminster,E09000033,Total,9413,20,Other religion,Other religion: Pagan,0
+2011,Barking and Dagenham,E09000002,Total,14392,28,Other religion,Other religion: Pagan,0
+2011,Barnet,E09000003,Total,31904,37,Other religion,Other religion: Pagan,0
+2011,Bexley,E09000004,Total,19019,31,Other religion,Other religion: Pagan,0
+2011,Brent,E09000005,Total,22601,-15,Other religion,Other religion: Pagan,0
+2011,Bromley,E09000006,Total,18015,19,Other religion,Other religion: Pagan,0
+2011,Croydon,E09000008,Total,47564,5,Other religion,Other religion: Pagan,0
+2011,Ealing,E09000009,Total,49254,15,Other religion,Other religion: Pagan,0
+2011,Enfield,E09000010,Total,-21324,22,Other religion,Other religion: Pagan,0
+2011,Greenwich,E09000011,Total,10048,27,Other religion,Other religion: Pagan,0
+2011,Harrow,E09000015,Total,17315,3,Other religion,Other religion: Pagan,0
+2011,Havering,E09000016,Total,9979,10,Other religion,Other religion: Pagan,0
+2011,Hillingdon,E09000017,Total,26170,6,Other religion,Other religion: Pagan,0
+2011,Hounslow,E09000018,Total,22338,5,Other religion,Other religion: Pagan,0
+2011,Kingston upon Thames,E09000021,Total,655,12,Other religion,Other religion: Pagan,0
+2011,Merton,E09000024,Total,2833,0,Other religion,Other religion: Pagan,0
+2011,Redbridge,E09000026,Total,11373,-6,Other religion,Other religion: Pagan,0
+2011,Richmond upon Thames,E09000027,Total,-3410,4,Other religion,Other religion: Pagan,0
+2011,Sutton,E09000029,Total,25169,-2,Other religion,Other religion: Pagan,0
+2011,Waltham Forest,E09000031,Total,3687,24,Other religion,Other religion: Pagan,0
+2011,Camden,E09000007,Total,2063,0,Other religion,Other religion: Pantheism,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Pantheism,0
+2011,Hackney,E09000012,Total,21248,0,Other religion,Other religion: Pantheism,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,2,Other religion,Other religion: Pantheism,0
+2011,Haringey,E09000014,Total,17794,0,Other religion,Other religion: Pantheism,0
+2011,Islington,E09000019,Total,15869,-1,Other religion,Other religion: Pantheism,0
+2011,Kensington and Chelsea,E09000020,Total,8707,0,Other religion,Other religion: Pantheism,0
+2011,Lambeth,E09000022,Total,38917,3,Other religion,Other religion: Pantheism,0
+2011,Lewisham,E09000023,Total,32964,5,Other religion,Other religion: Pantheism,0
+2011,Newham,E09000025,Total,12654,1,Other religion,Other religion: Pantheism,0
+2011,Southwark,E09000028,Total,33787,3,Other religion,Other religion: Pantheism,0
+2011,Tower Hamlets,E09000030,Total,9715,2,Other religion,Other religion: Pantheism,0
+2011,Wandsworth,E09000032,Total,24250,1,Other religion,Other religion: Pantheism,0
+2011,Westminster,E09000033,Total,9413,-1,Other religion,Other religion: Pantheism,0
+2011,Barking and Dagenham,E09000002,Total,14392,0,Other religion,Other religion: Pantheism,0
+2011,Barnet,E09000003,Total,31904,0,Other religion,Other religion: Pantheism,0
+2011,Bexley,E09000004,Total,19019,0,Other religion,Other religion: Pantheism,0
+2011,Brent,E09000005,Total,22601,0,Other religion,Other religion: Pantheism,0
+2011,Bromley,E09000006,Total,18015,2,Other religion,Other religion: Pantheism,0
+2011,Croydon,E09000008,Total,47564,-1,Other religion,Other religion: Pantheism,0
+2011,Ealing,E09000009,Total,49254,1,Other religion,Other religion: Pantheism,0
+2011,Enfield,E09000010,Total,-21324,2,Other religion,Other religion: Pantheism,0
+2011,Greenwich,E09000011,Total,10048,2,Other religion,Other religion: Pantheism,0
+2011,Harrow,E09000015,Total,17315,0,Other religion,Other religion: Pantheism,0
+2011,Havering,E09000016,Total,9979,1,Other religion,Other religion: Pantheism,0
+2011,Hillingdon,E09000017,Total,26170,1,Other religion,Other religion: Pantheism,0
+2011,Hounslow,E09000018,Total,22338,0,Other religion,Other religion: Pantheism,0
+2011,Kingston upon Thames,E09000021,Total,655,0,Other religion,Other religion: Pantheism,0
+2011,Merton,E09000024,Total,2833,-1,Other religion,Other religion: Pantheism,0
+2011,Redbridge,E09000026,Total,11373,0,Other religion,Other religion: Pantheism,0
+2011,Richmond upon Thames,E09000027,Total,-3410,-1,Other religion,Other religion: Pantheism,0
+2011,Sutton,E09000029,Total,25169,1,Other religion,Other religion: Pantheism,0
+2011,Waltham Forest,E09000031,Total,3687,1,Other religion,Other religion: Pantheism,0
+2011,Camden,E09000007,Total,2063,7,Other religion,Other religion: Rastafarian,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Rastafarian,0
+2011,Hackney,E09000012,Total,21248,21,Other religion,Other religion: Rastafarian,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,10,Other religion,Other religion: Rastafarian,0
+2011,Haringey,E09000014,Total,17794,-10,Other religion,Other religion: Rastafarian,-0.1
+2011,Islington,E09000019,Total,15869,3,Other religion,Other religion: Rastafarian,0
+2011,Kensington and Chelsea,E09000020,Total,8707,-2,Other religion,Other religion: Rastafarian,0
+2011,Lambeth,E09000022,Total,38917,36,Other religion,Other religion: Rastafarian,0
+2011,Lewisham,E09000023,Total,32964,23,Other religion,Other religion: Rastafarian,0
+2011,Newham,E09000025,Total,12654,17,Other religion,Other religion: Rastafarian,0
+2011,Southwark,E09000028,Total,33787,26,Other religion,Other religion: Rastafarian,0
+2011,Tower Hamlets,E09000030,Total,9715,-1,Other religion,Other religion: Rastafarian,0
+2011,Wandsworth,E09000032,Total,24250,14,Other religion,Other religion: Rastafarian,0
+2011,Westminster,E09000033,Total,9413,6,Other religion,Other religion: Rastafarian,0
+2011,Barking and Dagenham,E09000002,Total,14392,1,Other religion,Other religion: Rastafarian,0
+2011,Barnet,E09000003,Total,31904,1,Other religion,Other religion: Rastafarian,0
+2011,Bexley,E09000004,Total,19019,2,Other religion,Other religion: Rastafarian,0
+2011,Brent,E09000005,Total,22601,20,Other religion,Other religion: Rastafarian,0
+2011,Bromley,E09000006,Total,18015,6,Other religion,Other religion: Rastafarian,0
+2011,Croydon,E09000008,Total,47564,-13,Other religion,Other religion: Rastafarian,0
+2011,Ealing,E09000009,Total,49254,10,Other religion,Other religion: Rastafarian,0
+2011,Enfield,E09000010,Total,-21324,21,Other religion,Other religion: Rastafarian,0
+2011,Greenwich,E09000011,Total,10048,-3,Other religion,Other religion: Rastafarian,0
+2011,Harrow,E09000015,Total,17315,3,Other religion,Other religion: Rastafarian,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: Rastafarian,0
+2011,Hillingdon,E09000017,Total,26170,4,Other religion,Other religion: Rastafarian,0
+2011,Hounslow,E09000018,Total,22338,1,Other religion,Other religion: Rastafarian,0
+2011,Kingston upon Thames,E09000021,Total,655,3,Other religion,Other religion: Rastafarian,0
+2011,Merton,E09000024,Total,2833,0,Other religion,Other religion: Rastafarian,0
+2011,Redbridge,E09000026,Total,11373,7,Other religion,Other religion: Rastafarian,0
+2011,Richmond upon Thames,E09000027,Total,-3410,2,Other religion,Other religion: Rastafarian,0
+2011,Sutton,E09000029,Total,25169,0,Other religion,Other religion: Rastafarian,0
+2011,Waltham Forest,E09000031,Total,3687,18,Other religion,Other religion: Rastafarian,0
+2011,Camden,E09000007,Total,2063,0,Other religion,Other religion: Ravidassia,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Ravidassia,0
+2011,Hackney,E09000012,Total,21248,1,Other religion,Other religion: Ravidassia,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,0,Other religion,Other religion: Ravidassia,0
+2011,Haringey,E09000014,Total,17794,0,Other religion,Other religion: Ravidassia,0
+2011,Islington,E09000019,Total,15869,0,Other religion,Other religion: Ravidassia,0
+2011,Kensington and Chelsea,E09000020,Total,8707,0,Other religion,Other religion: Ravidassia,0
+2011,Lambeth,E09000022,Total,38917,0,Other religion,Other religion: Ravidassia,0
+2011,Lewisham,E09000023,Total,32964,0,Other religion,Other religion: Ravidassia,0
+2011,Newham,E09000025,Total,12654,12,Other religion,Other religion: Ravidassia,0
+2011,Southwark,E09000028,Total,33787,-1,Other religion,Other religion: Ravidassia,0
+2011,Tower Hamlets,E09000030,Total,9715,2,Other religion,Other religion: Ravidassia,0
+2011,Wandsworth,E09000032,Total,24250,0,Other religion,Other religion: Ravidassia,0
+2011,Westminster,E09000033,Total,9413,0,Other religion,Other religion: Ravidassia,0
+2011,Barking and Dagenham,E09000002,Total,14392,3,Other religion,Other religion: Ravidassia,0
+2011,Barnet,E09000003,Total,31904,0,Other religion,Other religion: Ravidassia,0
+2011,Bexley,E09000004,Total,19019,3,Other religion,Other religion: Ravidassia,0
+2011,Brent,E09000005,Total,22601,1,Other religion,Other religion: Ravidassia,0
+2011,Bromley,E09000006,Total,18015,0,Other religion,Other religion: Ravidassia,0
+2011,Croydon,E09000008,Total,47564,1,Other religion,Other religion: Ravidassia,0
+2011,Ealing,E09000009,Total,49254,-131,Other religion,Other religion: Ravidassia,-0.1
+2011,Enfield,E09000010,Total,-21324,0,Other religion,Other religion: Ravidassia,0
+2011,Greenwich,E09000011,Total,10048,1,Other religion,Other religion: Ravidassia,0
+2011,Harrow,E09000015,Total,17315,3,Other religion,Other religion: Ravidassia,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: Ravidassia,0
+2011,Hillingdon,E09000017,Total,26170,-44,Other religion,Other religion: Ravidassia,0
+2011,Hounslow,E09000018,Total,22338,21,Other religion,Other religion: Ravidassia,0
+2011,Kingston upon Thames,E09000021,Total,655,0,Other religion,Other religion: Ravidassia,0
+2011,Merton,E09000024,Total,2833,0,Other religion,Other religion: Ravidassia,0
+2011,Redbridge,E09000026,Total,11373,5,Other religion,Other religion: Ravidassia,0
+2011,Richmond upon Thames,E09000027,Total,-3410,1,Other religion,Other religion: Ravidassia,0
+2011,Sutton,E09000029,Total,25169,1,Other religion,Other religion: Ravidassia,0
+2011,Waltham Forest,E09000031,Total,3687,2,Other religion,Other religion: Ravidassia,0
+2011,Camden,E09000007,Total,2063,0,Other religion,Other religion: Reconstructionist,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Reconstructionist,0
+2011,Hackney,E09000012,Total,21248,0,Other religion,Other religion: Reconstructionist,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,0,Other religion,Other religion: Reconstructionist,0
+2011,Haringey,E09000014,Total,17794,0,Other religion,Other religion: Reconstructionist,0
+2011,Islington,E09000019,Total,15869,0,Other religion,Other religion: Reconstructionist,0
+2011,Kensington and Chelsea,E09000020,Total,8707,0,Other religion,Other religion: Reconstructionist,0
+2011,Lambeth,E09000022,Total,38917,0,Other religion,Other religion: Reconstructionist,0
+2011,Lewisham,E09000023,Total,32964,0,Other religion,Other religion: Reconstructionist,0
+2011,Newham,E09000025,Total,12654,0,Other religion,Other religion: Reconstructionist,0
+2011,Southwark,E09000028,Total,33787,0,Other religion,Other religion: Reconstructionist,0
+2011,Tower Hamlets,E09000030,Total,9715,0,Other religion,Other religion: Reconstructionist,0
+2011,Wandsworth,E09000032,Total,24250,0,Other religion,Other religion: Reconstructionist,0
+2011,Westminster,E09000033,Total,9413,0,Other religion,Other religion: Reconstructionist,0
+2011,Barking and Dagenham,E09000002,Total,14392,0,Other religion,Other religion: Reconstructionist,0
+2011,Barnet,E09000003,Total,31904,0,Other religion,Other religion: Reconstructionist,0
+2011,Bexley,E09000004,Total,19019,0,Other religion,Other religion: Reconstructionist,0
+2011,Brent,E09000005,Total,22601,1,Other religion,Other religion: Reconstructionist,0
+2011,Bromley,E09000006,Total,18015,0,Other religion,Other religion: Reconstructionist,0
+2011,Croydon,E09000008,Total,47564,0,Other religion,Other religion: Reconstructionist,0
+2011,Ealing,E09000009,Total,49254,0,Other religion,Other religion: Reconstructionist,0
+2011,Enfield,E09000010,Total,-21324,0,Other religion,Other religion: Reconstructionist,0
+2011,Greenwich,E09000011,Total,10048,0,Other religion,Other religion: Reconstructionist,0
+2011,Harrow,E09000015,Total,17315,0,Other religion,Other religion: Reconstructionist,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: Reconstructionist,0
+2011,Hillingdon,E09000017,Total,26170,0,Other religion,Other religion: Reconstructionist,0
+2011,Hounslow,E09000018,Total,22338,0,Other religion,Other religion: Reconstructionist,0
+2011,Kingston upon Thames,E09000021,Total,655,0,Other religion,Other religion: Reconstructionist,0
+2011,Merton,E09000024,Total,2833,0,Other religion,Other religion: Reconstructionist,0
+2011,Redbridge,E09000026,Total,11373,0,Other religion,Other religion: Reconstructionist,0
+2011,Richmond upon Thames,E09000027,Total,-3410,0,Other religion,Other religion: Reconstructionist,0
+2011,Sutton,E09000029,Total,25169,0,Other religion,Other religion: Reconstructionist,0
+2011,Waltham Forest,E09000031,Total,3687,1,Other religion,Other religion: Reconstructionist,0
+2011,Camden,E09000007,Total,2063,1,Other religion,Other religion: Satanism,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Satanism,0
+2011,Hackney,E09000012,Total,21248,3,Other religion,Other religion: Satanism,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,0,Other religion,Other religion: Satanism,0
+2011,Haringey,E09000014,Total,17794,2,Other religion,Other religion: Satanism,0
+2011,Islington,E09000019,Total,15869,2,Other religion,Other religion: Satanism,0
+2011,Kensington and Chelsea,E09000020,Total,8707,0,Other religion,Other religion: Satanism,0
+2011,Lambeth,E09000022,Total,38917,2,Other religion,Other religion: Satanism,0
+2011,Lewisham,E09000023,Total,32964,1,Other religion,Other religion: Satanism,0
+2011,Newham,E09000025,Total,12654,0,Other religion,Other religion: Satanism,0
+2011,Southwark,E09000028,Total,33787,0,Other religion,Other religion: Satanism,0
+2011,Tower Hamlets,E09000030,Total,9715,1,Other religion,Other religion: Satanism,0
+2011,Wandsworth,E09000032,Total,24250,-1,Other religion,Other religion: Satanism,0
+2011,Westminster,E09000033,Total,9413,0,Other religion,Other religion: Satanism,0
+2011,Barking and Dagenham,E09000002,Total,14392,1,Other religion,Other religion: Satanism,0
+2011,Barnet,E09000003,Total,31904,-1,Other religion,Other religion: Satanism,0
+2011,Bexley,E09000004,Total,19019,1,Other religion,Other religion: Satanism,0
+2011,Brent,E09000005,Total,22601,0,Other religion,Other religion: Satanism,0
+2011,Bromley,E09000006,Total,18015,0,Other religion,Other religion: Satanism,0
+2011,Croydon,E09000008,Total,47564,1,Other religion,Other religion: Satanism,0
+2011,Ealing,E09000009,Total,49254,2,Other religion,Other religion: Satanism,0
+2011,Enfield,E09000010,Total,-21324,1,Other religion,Other religion: Satanism,0
+2011,Greenwich,E09000011,Total,10048,1,Other religion,Other religion: Satanism,0
+2011,Harrow,E09000015,Total,17315,0,Other religion,Other religion: Satanism,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: Satanism,0
+2011,Hillingdon,E09000017,Total,26170,0,Other religion,Other religion: Satanism,0
+2011,Hounslow,E09000018,Total,22338,1,Other religion,Other religion: Satanism,0
+2011,Kingston upon Thames,E09000021,Total,655,1,Other religion,Other religion: Satanism,0
+2011,Merton,E09000024,Total,2833,0,Other religion,Other religion: Satanism,0
+2011,Redbridge,E09000026,Total,11373,0,Other religion,Other religion: Satanism,0
+2011,Richmond upon Thames,E09000027,Total,-3410,0,Other religion,Other religion: Satanism,0
+2011,Sutton,E09000029,Total,25169,1,Other religion,Other religion: Satanism,0
+2011,Waltham Forest,E09000031,Total,3687,3,Other religion,Other religion: Satanism,0
+2011,Camden,E09000007,Total,2063,1,Other religion,Other religion: Scientology,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Scientology,0
+2011,Hackney,E09000012,Total,21248,3,Other religion,Other religion: Scientology,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,2,Other religion,Other religion: Scientology,0
+2011,Haringey,E09000014,Total,17794,2,Other religion,Other religion: Scientology,0
+2011,Islington,E09000019,Total,15869,0,Other religion,Other religion: Scientology,0
+2011,Kensington and Chelsea,E09000020,Total,8707,0,Other religion,Other religion: Scientology,0
+2011,Lambeth,E09000022,Total,38917,1,Other religion,Other religion: Scientology,0
+2011,Lewisham,E09000023,Total,32964,-1,Other religion,Other religion: Scientology,0
+2011,Newham,E09000025,Total,12654,-1,Other religion,Other religion: Scientology,0
+2011,Southwark,E09000028,Total,33787,0,Other religion,Other religion: Scientology,0
+2011,Tower Hamlets,E09000030,Total,9715,3,Other religion,Other religion: Scientology,0
+2011,Wandsworth,E09000032,Total,24250,2,Other religion,Other religion: Scientology,0
+2011,Westminster,E09000033,Total,9413,1,Other religion,Other religion: Scientology,0
+2011,Barking and Dagenham,E09000002,Total,14392,0,Other religion,Other religion: Scientology,0
+2011,Barnet,E09000003,Total,31904,0,Other religion,Other religion: Scientology,0
+2011,Bexley,E09000004,Total,19019,-1,Other religion,Other religion: Scientology,0
+2011,Brent,E09000005,Total,22601,0,Other religion,Other religion: Scientology,0
+2011,Bromley,E09000006,Total,18015,0,Other religion,Other religion: Scientology,0
+2011,Croydon,E09000008,Total,47564,0,Other religion,Other religion: Scientology,0
+2011,Ealing,E09000009,Total,49254,-1,Other religion,Other religion: Scientology,0
+2011,Enfield,E09000010,Total,-21324,-1,Other religion,Other religion: Scientology,0
+2011,Greenwich,E09000011,Total,10048,0,Other religion,Other religion: Scientology,0
+2011,Harrow,E09000015,Total,17315,1,Other religion,Other religion: Scientology,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: Scientology,0
+2011,Hillingdon,E09000017,Total,26170,0,Other religion,Other religion: Scientology,0
+2011,Hounslow,E09000018,Total,22338,1,Other religion,Other religion: Scientology,0
+2011,Kingston upon Thames,E09000021,Total,655,3,Other religion,Other religion: Scientology,0
+2011,Merton,E09000024,Total,2833,0,Other religion,Other religion: Scientology,0
+2011,Redbridge,E09000026,Total,11373,0,Other religion,Other religion: Scientology,0
+2011,Richmond upon Thames,E09000027,Total,-3410,0,Other religion,Other religion: Scientology,0
+2011,Sutton,E09000029,Total,25169,1,Other religion,Other religion: Scientology,0
+2011,Waltham Forest,E09000031,Total,3687,3,Other religion,Other religion: Scientology,0
+2011,Camden,E09000007,Total,2063,0,Other religion,Other religion: Shamanism,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Shamanism,0
+2011,Hackney,E09000012,Total,21248,0,Other religion,Other religion: Shamanism,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,0,Other religion,Other religion: Shamanism,0
+2011,Haringey,E09000014,Total,17794,1,Other religion,Other religion: Shamanism,0
+2011,Islington,E09000019,Total,15869,1,Other religion,Other religion: Shamanism,0
+2011,Kensington and Chelsea,E09000020,Total,8707,0,Other religion,Other religion: Shamanism,0
+2011,Lambeth,E09000022,Total,38917,0,Other religion,Other religion: Shamanism,0
+2011,Lewisham,E09000023,Total,32964,0,Other religion,Other religion: Shamanism,0
+2011,Newham,E09000025,Total,12654,0,Other religion,Other religion: Shamanism,0
+2011,Southwark,E09000028,Total,33787,0,Other religion,Other religion: Shamanism,0
+2011,Tower Hamlets,E09000030,Total,9715,1,Other religion,Other religion: Shamanism,0
+2011,Wandsworth,E09000032,Total,24250,0,Other religion,Other religion: Shamanism,0
+2011,Westminster,E09000033,Total,9413,1,Other religion,Other religion: Shamanism,0
+2011,Barking and Dagenham,E09000002,Total,14392,0,Other religion,Other religion: Shamanism,0
+2011,Barnet,E09000003,Total,31904,1,Other religion,Other religion: Shamanism,0
+2011,Bexley,E09000004,Total,19019,0,Other religion,Other religion: Shamanism,0
+2011,Brent,E09000005,Total,22601,0,Other religion,Other religion: Shamanism,0
+2011,Bromley,E09000006,Total,18015,0,Other religion,Other religion: Shamanism,0
+2011,Croydon,E09000008,Total,47564,0,Other religion,Other religion: Shamanism,0
+2011,Ealing,E09000009,Total,49254,0,Other religion,Other religion: Shamanism,0
+2011,Enfield,E09000010,Total,-21324,0,Other religion,Other religion: Shamanism,0
+2011,Greenwich,E09000011,Total,10048,1,Other religion,Other religion: Shamanism,0
+2011,Harrow,E09000015,Total,17315,1,Other religion,Other religion: Shamanism,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: Shamanism,0
+2011,Hillingdon,E09000017,Total,26170,0,Other religion,Other religion: Shamanism,0
+2011,Hounslow,E09000018,Total,22338,0,Other religion,Other religion: Shamanism,0
+2011,Kingston upon Thames,E09000021,Total,655,0,Other religion,Other religion: Shamanism,0
+2011,Merton,E09000024,Total,2833,0,Other religion,Other religion: Shamanism,0
+2011,Redbridge,E09000026,Total,11373,0,Other religion,Other religion: Shamanism,0
+2011,Richmond upon Thames,E09000027,Total,-3410,0,Other religion,Other religion: Shamanism,0
+2011,Sutton,E09000029,Total,25169,0,Other religion,Other religion: Shamanism,0
+2011,Waltham Forest,E09000031,Total,3687,0,Other religion,Other religion: Shamanism,0
+2011,Camden,E09000007,Total,2063,13,Other religion,Other religion: Shintoism,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Shintoism,0
+2011,Hackney,E09000012,Total,21248,0,Other religion,Other religion: Shintoism,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,0,Other religion,Other religion: Shintoism,0
+2011,Haringey,E09000014,Total,17794,0,Other religion,Other religion: Shintoism,0
+2011,Islington,E09000019,Total,15869,0,Other religion,Other religion: Shintoism,0
+2011,Kensington and Chelsea,E09000020,Total,8707,2,Other religion,Other religion: Shintoism,0
+2011,Lambeth,E09000022,Total,38917,2,Other religion,Other religion: Shintoism,0
+2011,Lewisham,E09000023,Total,32964,-2,Other religion,Other religion: Shintoism,0
+2011,Newham,E09000025,Total,12654,0,Other religion,Other religion: Shintoism,0
+2011,Southwark,E09000028,Total,33787,0,Other religion,Other religion: Shintoism,0
+2011,Tower Hamlets,E09000030,Total,9715,0,Other religion,Other religion: Shintoism,0
+2011,Wandsworth,E09000032,Total,24250,0,Other religion,Other religion: Shintoism,0
+2011,Westminster,E09000033,Total,9413,3,Other religion,Other religion: Shintoism,0
+2011,Barking and Dagenham,E09000002,Total,14392,0,Other religion,Other religion: Shintoism,0
+2011,Barnet,E09000003,Total,31904,5,Other religion,Other religion: Shintoism,0
+2011,Bexley,E09000004,Total,19019,0,Other religion,Other religion: Shintoism,0
+2011,Brent,E09000005,Total,22601,1,Other religion,Other religion: Shintoism,0
+2011,Bromley,E09000006,Total,18015,1,Other religion,Other religion: Shintoism,0
+2011,Croydon,E09000008,Total,47564,-1,Other religion,Other religion: Shintoism,0
+2011,Ealing,E09000009,Total,49254,4,Other religion,Other religion: Shintoism,0
+2011,Enfield,E09000010,Total,-21324,1,Other religion,Other religion: Shintoism,0
+2011,Greenwich,E09000011,Total,10048,0,Other religion,Other religion: Shintoism,0
+2011,Harrow,E09000015,Total,17315,1,Other religion,Other religion: Shintoism,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: Shintoism,0
+2011,Hillingdon,E09000017,Total,26170,1,Other religion,Other religion: Shintoism,0
+2011,Hounslow,E09000018,Total,22338,0,Other religion,Other religion: Shintoism,0
+2011,Kingston upon Thames,E09000021,Total,655,-1,Other religion,Other religion: Shintoism,0
+2011,Merton,E09000024,Total,2833,0,Other religion,Other religion: Shintoism,0
+2011,Redbridge,E09000026,Total,11373,1,Other religion,Other religion: Shintoism,0
+2011,Richmond upon Thames,E09000027,Total,-3410,0,Other religion,Other religion: Shintoism,0
+2011,Sutton,E09000029,Total,25169,2,Other religion,Other religion: Shintoism,0
+2011,Waltham Forest,E09000031,Total,3687,2,Other religion,Other religion: Shintoism,0
+2011,Camden,E09000007,Total,2063,2,Other religion,Other religion: Spiritual,0
+2011,City of London,E09000001,Total,-241,1,Other religion,Other religion: Spiritual,0
+2011,Hackney,E09000012,Total,21248,3,Other religion,Other religion: Spiritual,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,-4,Other religion,Other religion: Spiritual,0
+2011,Haringey,E09000014,Total,17794,20,Other religion,Other religion: Spiritual,0
+2011,Islington,E09000019,Total,15869,2,Other religion,Other religion: Spiritual,0
+2011,Kensington and Chelsea,E09000020,Total,8707,14,Other religion,Other religion: Spiritual,0
+2011,Lambeth,E09000022,Total,38917,14,Other religion,Other religion: Spiritual,0
+2011,Lewisham,E09000023,Total,32964,-5,Other religion,Other religion: Spiritual,0
+2011,Newham,E09000025,Total,12654,2,Other religion,Other religion: Spiritual,0
+2011,Southwark,E09000028,Total,33787,20,Other religion,Other religion: Spiritual,0
+2011,Tower Hamlets,E09000030,Total,9715,3,Other religion,Other religion: Spiritual,0
+2011,Wandsworth,E09000032,Total,24250,-15,Other religion,Other religion: Spiritual,-0.1
+2011,Westminster,E09000033,Total,9413,-8,Other religion,Other religion: Spiritual,-0.1
+2011,Barking and Dagenham,E09000002,Total,14392,0,Other religion,Other religion: Spiritual,0
+2011,Barnet,E09000003,Total,31904,12,Other religion,Other religion: Spiritual,0
+2011,Bexley,E09000004,Total,19019,7,Other religion,Other religion: Spiritual,0
+2011,Brent,E09000005,Total,22601,11,Other religion,Other religion: Spiritual,0
+2011,Bromley,E09000006,Total,18015,6,Other religion,Other religion: Spiritual,0
+2011,Croydon,E09000008,Total,47564,21,Other religion,Other religion: Spiritual,0
+2011,Ealing,E09000009,Total,49254,7,Other religion,Other religion: Spiritual,0
+2011,Enfield,E09000010,Total,-21324,11,Other religion,Other religion: Spiritual,0
+2011,Greenwich,E09000011,Total,10048,10,Other religion,Other religion: Spiritual,0
+2011,Harrow,E09000015,Total,17315,1,Other religion,Other religion: Spiritual,0
+2011,Havering,E09000016,Total,9979,-6,Other religion,Other religion: Spiritual,0
+2011,Hillingdon,E09000017,Total,26170,14,Other religion,Other religion: Spiritual,0
+2011,Hounslow,E09000018,Total,22338,9,Other religion,Other religion: Spiritual,0
+2011,Kingston upon Thames,E09000021,Total,655,2,Other religion,Other religion: Spiritual,0
+2011,Merton,E09000024,Total,2833,0,Other religion,Other religion: Spiritual,0
+2011,Redbridge,E09000026,Total,11373,9,Other religion,Other religion: Spiritual,0
+2011,Richmond upon Thames,E09000027,Total,-3410,3,Other religion,Other religion: Spiritual,0
+2011,Sutton,E09000029,Total,25169,2,Other religion,Other religion: Spiritual,0
+2011,Waltham Forest,E09000031,Total,3687,-2,Other religion,Other religion: Spiritual,0
+2011,Camden,E09000007,Total,2063,5,Other religion,Other religion: Spiritualist,0
+2011,City of London,E09000001,Total,-241,1,Other religion,Other religion: Spiritualist,0
+2011,Hackney,E09000012,Total,21248,11,Other religion,Other religion: Spiritualist,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,14,Other religion,Other religion: Spiritualist,0
+2011,Haringey,E09000014,Total,17794,-2,Other religion,Other religion: Spiritualist,0
+2011,Islington,E09000019,Total,15869,9,Other religion,Other religion: Spiritualist,0
+2011,Kensington and Chelsea,E09000020,Total,8707,3,Other religion,Other religion: Spiritualist,0
+2011,Lambeth,E09000022,Total,38917,6,Other religion,Other religion: Spiritualist,0
+2011,Lewisham,E09000023,Total,32964,19,Other religion,Other religion: Spiritualist,0
+2011,Newham,E09000025,Total,12654,12,Other religion,Other religion: Spiritualist,0
+2011,Southwark,E09000028,Total,33787,4,Other religion,Other religion: Spiritualist,0
+2011,Tower Hamlets,E09000030,Total,9715,-2,Other religion,Other religion: Spiritualist,0
+2011,Wandsworth,E09000032,Total,24250,17,Other religion,Other religion: Spiritualist,0
+2011,Westminster,E09000033,Total,9413,5,Other religion,Other religion: Spiritualist,0
+2011,Barking and Dagenham,E09000002,Total,14392,3,Other religion,Other religion: Spiritualist,0
+2011,Barnet,E09000003,Total,31904,12,Other religion,Other religion: Spiritualist,0
+2011,Bexley,E09000004,Total,19019,-4,Other religion,Other religion: Spiritualist,0
+2011,Brent,E09000005,Total,22601,6,Other religion,Other religion: Spiritualist,0
+2011,Bromley,E09000006,Total,18015,7,Other religion,Other religion: Spiritualist,0
+2011,Croydon,E09000008,Total,47564,24,Other religion,Other religion: Spiritualist,0
+2011,Ealing,E09000009,Total,49254,17,Other religion,Other religion: Spiritualist,0
+2011,Enfield,E09000010,Total,-21324,21,Other religion,Other religion: Spiritualist,0
+2011,Greenwich,E09000011,Total,10048,49,Other religion,Other religion: Spiritualist,0
+2011,Harrow,E09000015,Total,17315,-4,Other religion,Other religion: Spiritualist,0
+2011,Havering,E09000016,Total,9979,38,Other religion,Other religion: Spiritualist,0
+2011,Hillingdon,E09000017,Total,26170,2,Other religion,Other religion: Spiritualist,-0.1
+2011,Hounslow,E09000018,Total,22338,7,Other religion,Other religion: Spiritualist,0
+2011,Kingston upon Thames,E09000021,Total,655,10,Other religion,Other religion: Spiritualist,0
+2011,Merton,E09000024,Total,2833,12,Other religion,Other religion: Spiritualist,0.1
+2011,Redbridge,E09000026,Total,11373,20,Other religion,Other religion: Spiritualist,0
+2011,Richmond upon Thames,E09000027,Total,-3410,-8,Other religion,Other religion: Spiritualist,0
+2011,Sutton,E09000029,Total,25169,4,Other religion,Other religion: Spiritualist,0
+2011,Waltham Forest,E09000031,Total,3687,3,Other religion,Other religion: Spiritualist,0
+2011,Camden,E09000007,Total,2063,5,Other religion,Other religion: Taoist,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Taoist,0
+2011,Hackney,E09000012,Total,21248,-1,Other religion,Other religion: Taoist,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,0,Other religion,Other religion: Taoist,0
+2011,Haringey,E09000014,Total,17794,2,Other religion,Other religion: Taoist,0
+2011,Islington,E09000019,Total,15869,6,Other religion,Other religion: Taoist,0
+2011,Kensington and Chelsea,E09000020,Total,8707,-1,Other religion,Other religion: Taoist,0
+2011,Lambeth,E09000022,Total,38917,7,Other religion,Other religion: Taoist,0
+2011,Lewisham,E09000023,Total,32964,0,Other religion,Other religion: Taoist,0
+2011,Newham,E09000025,Total,12654,2,Other religion,Other religion: Taoist,0
+2011,Southwark,E09000028,Total,33787,5,Other religion,Other religion: Taoist,0
+2011,Tower Hamlets,E09000030,Total,9715,0,Other religion,Other religion: Taoist,0
+2011,Wandsworth,E09000032,Total,24250,4,Other religion,Other religion: Taoist,0
+2011,Westminster,E09000033,Total,9413,1,Other religion,Other religion: Taoist,0
+2011,Barking and Dagenham,E09000002,Total,14392,1,Other religion,Other religion: Taoist,0
+2011,Barnet,E09000003,Total,31904,0,Other religion,Other religion: Taoist,0
+2011,Bexley,E09000004,Total,19019,1,Other religion,Other religion: Taoist,0
+2011,Brent,E09000005,Total,22601,7,Other religion,Other religion: Taoist,0
+2011,Bromley,E09000006,Total,18015,0,Other religion,Other religion: Taoist,0
+2011,Croydon,E09000008,Total,47564,0,Other religion,Other religion: Taoist,0
+2011,Ealing,E09000009,Total,49254,3,Other religion,Other religion: Taoist,0
+2011,Enfield,E09000010,Total,-21324,1,Other religion,Other religion: Taoist,0
+2011,Greenwich,E09000011,Total,10048,0,Other religion,Other religion: Taoist,0
+2011,Harrow,E09000015,Total,17315,0,Other religion,Other religion: Taoist,0
+2011,Havering,E09000016,Total,9979,1,Other religion,Other religion: Taoist,0
+2011,Hillingdon,E09000017,Total,26170,1,Other religion,Other religion: Taoist,0
+2011,Hounslow,E09000018,Total,22338,1,Other religion,Other religion: Taoist,0
+2011,Kingston upon Thames,E09000021,Total,655,-1,Other religion,Other religion: Taoist,0
+2011,Merton,E09000024,Total,2833,1,Other religion,Other religion: Taoist,0
+2011,Redbridge,E09000026,Total,11373,-2,Other religion,Other religion: Taoist,0
+2011,Richmond upon Thames,E09000027,Total,-3410,-1,Other religion,Other religion: Taoist,0
+2011,Sutton,E09000029,Total,25169,-1,Other religion,Other religion: Taoist,0
+2011,Waltham Forest,E09000031,Total,3687,5,Other religion,Other religion: Taoist,0
+2011,Camden,E09000007,Total,2063,0,Other religion,Other religion: Theism,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Theism,0
+2011,Hackney,E09000012,Total,21248,0,Other religion,Other religion: Theism,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,1,Other religion,Other religion: Theism,0
+2011,Haringey,E09000014,Total,17794,0,Other religion,Other religion: Theism,0
+2011,Islington,E09000019,Total,15869,2,Other religion,Other religion: Theism,0
+2011,Kensington and Chelsea,E09000020,Total,8707,0,Other religion,Other religion: Theism,0
+2011,Lambeth,E09000022,Total,38917,1,Other religion,Other religion: Theism,0
+2011,Lewisham,E09000023,Total,32964,1,Other religion,Other religion: Theism,0
+2011,Newham,E09000025,Total,12654,1,Other religion,Other religion: Theism,0
+2011,Southwark,E09000028,Total,33787,1,Other religion,Other religion: Theism,0
+2011,Tower Hamlets,E09000030,Total,9715,0,Other religion,Other religion: Theism,0
+2011,Wandsworth,E09000032,Total,24250,1,Other religion,Other religion: Theism,0
+2011,Westminster,E09000033,Total,9413,0,Other religion,Other religion: Theism,0
+2011,Barking and Dagenham,E09000002,Total,14392,0,Other religion,Other religion: Theism,0
+2011,Barnet,E09000003,Total,31904,0,Other religion,Other religion: Theism,0
+2011,Bexley,E09000004,Total,19019,0,Other religion,Other religion: Theism,0
+2011,Brent,E09000005,Total,22601,1,Other religion,Other religion: Theism,0
+2011,Bromley,E09000006,Total,18015,0,Other religion,Other religion: Theism,0
+2011,Croydon,E09000008,Total,47564,1,Other religion,Other religion: Theism,0
+2011,Ealing,E09000009,Total,49254,0,Other religion,Other religion: Theism,0
+2011,Enfield,E09000010,Total,-21324,0,Other religion,Other religion: Theism,0
+2011,Greenwich,E09000011,Total,10048,2,Other religion,Other religion: Theism,0
+2011,Harrow,E09000015,Total,17315,0,Other religion,Other religion: Theism,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: Theism,0
+2011,Hillingdon,E09000017,Total,26170,0,Other religion,Other religion: Theism,0
+2011,Hounslow,E09000018,Total,22338,0,Other religion,Other religion: Theism,0
+2011,Kingston upon Thames,E09000021,Total,655,1,Other religion,Other religion: Theism,0
+2011,Merton,E09000024,Total,2833,0,Other religion,Other religion: Theism,0
+2011,Redbridge,E09000026,Total,11373,2,Other religion,Other religion: Theism,0
+2011,Richmond upon Thames,E09000027,Total,-3410,0,Other religion,Other religion: Theism,0
+2011,Sutton,E09000029,Total,25169,0,Other religion,Other religion: Theism,0
+2011,Waltham Forest,E09000031,Total,3687,1,Other religion,Other religion: Theism,0
+2011,Camden,E09000007,Total,2063,0,Other religion,Other religion: Thelemite,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Thelemite,0
+2011,Hackney,E09000012,Total,21248,1,Other religion,Other religion: Thelemite,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,0,Other religion,Other religion: Thelemite,0
+2011,Haringey,E09000014,Total,17794,0,Other religion,Other religion: Thelemite,0
+2011,Islington,E09000019,Total,15869,0,Other religion,Other religion: Thelemite,0
+2011,Kensington and Chelsea,E09000020,Total,8707,0,Other religion,Other religion: Thelemite,0
+2011,Lambeth,E09000022,Total,38917,0,Other religion,Other religion: Thelemite,0
+2011,Lewisham,E09000023,Total,32964,0,Other religion,Other religion: Thelemite,0
+2011,Newham,E09000025,Total,12654,0,Other religion,Other religion: Thelemite,0
+2011,Southwark,E09000028,Total,33787,0,Other religion,Other religion: Thelemite,0
+2011,Tower Hamlets,E09000030,Total,9715,0,Other religion,Other religion: Thelemite,0
+2011,Wandsworth,E09000032,Total,24250,0,Other religion,Other religion: Thelemite,0
+2011,Westminster,E09000033,Total,9413,0,Other religion,Other religion: Thelemite,0
+2011,Barking and Dagenham,E09000002,Total,14392,0,Other religion,Other religion: Thelemite,0
+2011,Barnet,E09000003,Total,31904,0,Other religion,Other religion: Thelemite,0
+2011,Bexley,E09000004,Total,19019,0,Other religion,Other religion: Thelemite,0
+2011,Brent,E09000005,Total,22601,0,Other religion,Other religion: Thelemite,0
+2011,Bromley,E09000006,Total,18015,0,Other religion,Other religion: Thelemite,0
+2011,Croydon,E09000008,Total,47564,0,Other religion,Other religion: Thelemite,0
+2011,Ealing,E09000009,Total,49254,0,Other religion,Other religion: Thelemite,0
+2011,Enfield,E09000010,Total,-21324,0,Other religion,Other religion: Thelemite,0
+2011,Greenwich,E09000011,Total,10048,1,Other religion,Other religion: Thelemite,0
+2011,Harrow,E09000015,Total,17315,0,Other religion,Other religion: Thelemite,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: Thelemite,0
+2011,Hillingdon,E09000017,Total,26170,0,Other religion,Other religion: Thelemite,0
+2011,Hounslow,E09000018,Total,22338,0,Other religion,Other religion: Thelemite,0
+2011,Kingston upon Thames,E09000021,Total,655,0,Other religion,Other religion: Thelemite,0
+2011,Merton,E09000024,Total,2833,0,Other religion,Other religion: Thelemite,0
+2011,Redbridge,E09000026,Total,11373,0,Other religion,Other religion: Thelemite,0
+2011,Richmond upon Thames,E09000027,Total,-3410,0,Other religion,Other religion: Thelemite,0
+2011,Sutton,E09000029,Total,25169,0,Other religion,Other religion: Thelemite,0
+2011,Waltham Forest,E09000031,Total,3687,0,Other religion,Other religion: Thelemite,0
+2011,Camden,E09000007,Total,2063,1,Other religion,Other religion: Traditional African Religion,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Traditional African Religion,0
+2011,Hackney,E09000012,Total,21248,2,Other religion,Other religion: Traditional African Religion,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,-1,Other religion,Other religion: Traditional African Religion,0
+2011,Haringey,E09000014,Total,17794,0,Other religion,Other religion: Traditional African Religion,0
+2011,Islington,E09000019,Total,15869,0,Other religion,Other religion: Traditional African Religion,0
+2011,Kensington and Chelsea,E09000020,Total,8707,0,Other religion,Other religion: Traditional African Religion,0
+2011,Lambeth,E09000022,Total,38917,1,Other religion,Other religion: Traditional African Religion,0
+2011,Lewisham,E09000023,Total,32964,0,Other religion,Other religion: Traditional African Religion,0
+2011,Newham,E09000025,Total,12654,3,Other religion,Other religion: Traditional African Religion,0
+2011,Southwark,E09000028,Total,33787,-5,Other religion,Other religion: Traditional African Religion,0
+2011,Tower Hamlets,E09000030,Total,9715,-1,Other religion,Other religion: Traditional African Religion,0
+2011,Wandsworth,E09000032,Total,24250,2,Other religion,Other religion: Traditional African Religion,0
+2011,Westminster,E09000033,Total,9413,0,Other religion,Other religion: Traditional African Religion,0
+2011,Barking and Dagenham,E09000002,Total,14392,1,Other religion,Other religion: Traditional African Religion,0
+2011,Barnet,E09000003,Total,31904,0,Other religion,Other religion: Traditional African Religion,0
+2011,Bexley,E09000004,Total,19019,0,Other religion,Other religion: Traditional African Religion,0
+2011,Brent,E09000005,Total,22601,2,Other religion,Other religion: Traditional African Religion,0
+2011,Bromley,E09000006,Total,18015,0,Other religion,Other religion: Traditional African Religion,0
+2011,Croydon,E09000008,Total,47564,0,Other religion,Other religion: Traditional African Religion,0
+2011,Ealing,E09000009,Total,49254,0,Other religion,Other religion: Traditional African Religion,0
+2011,Enfield,E09000010,Total,-21324,-1,Other religion,Other religion: Traditional African Religion,0
+2011,Greenwich,E09000011,Total,10048,0,Other religion,Other religion: Traditional African Religion,0
+2011,Harrow,E09000015,Total,17315,0,Other religion,Other religion: Traditional African Religion,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: Traditional African Religion,0
+2011,Hillingdon,E09000017,Total,26170,1,Other religion,Other religion: Traditional African Religion,0
+2011,Hounslow,E09000018,Total,22338,-1,Other religion,Other religion: Traditional African Religion,0
+2011,Kingston upon Thames,E09000021,Total,655,0,Other religion,Other religion: Traditional African Religion,0
+2011,Merton,E09000024,Total,2833,0,Other religion,Other religion: Traditional African Religion,0
+2011,Redbridge,E09000026,Total,11373,2,Other religion,Other religion: Traditional African Religion,0
+2011,Richmond upon Thames,E09000027,Total,-3410,0,Other religion,Other religion: Traditional African Religion,0
+2011,Sutton,E09000029,Total,25169,0,Other religion,Other religion: Traditional African Religion,0
+2011,Waltham Forest,E09000031,Total,3687,0,Other religion,Other religion: Traditional African Religion,0
+2011,Camden,E09000007,Total,2063,0,Other religion,Other religion: Unification Church,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Unification Church,0
+2011,Hackney,E09000012,Total,21248,0,Other religion,Other religion: Unification Church,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,0,Other religion,Other religion: Unification Church,0
+2011,Haringey,E09000014,Total,17794,0,Other religion,Other religion: Unification Church,0
+2011,Islington,E09000019,Total,15869,0,Other religion,Other religion: Unification Church,0
+2011,Kensington and Chelsea,E09000020,Total,8707,0,Other religion,Other religion: Unification Church,0
+2011,Lambeth,E09000022,Total,38917,1,Other religion,Other religion: Unification Church,0
+2011,Lewisham,E09000023,Total,32964,2,Other religion,Other religion: Unification Church,0
+2011,Newham,E09000025,Total,12654,0,Other religion,Other religion: Unification Church,0
+2011,Southwark,E09000028,Total,33787,0,Other religion,Other religion: Unification Church,0
+2011,Tower Hamlets,E09000030,Total,9715,0,Other religion,Other religion: Unification Church,0
+2011,Wandsworth,E09000032,Total,24250,0,Other religion,Other religion: Unification Church,0
+2011,Westminster,E09000033,Total,9413,2,Other religion,Other religion: Unification Church,0
+2011,Barking and Dagenham,E09000002,Total,14392,0,Other religion,Other religion: Unification Church,0
+2011,Barnet,E09000003,Total,31904,1,Other religion,Other religion: Unification Church,0
+2011,Bexley,E09000004,Total,19019,0,Other religion,Other religion: Unification Church,0
+2011,Brent,E09000005,Total,22601,-1,Other religion,Other religion: Unification Church,0
+2011,Bromley,E09000006,Total,18015,1,Other religion,Other religion: Unification Church,0
+2011,Croydon,E09000008,Total,47564,6,Other religion,Other religion: Unification Church,0
+2011,Ealing,E09000009,Total,49254,2,Other religion,Other religion: Unification Church,0
+2011,Enfield,E09000010,Total,-21324,0,Other religion,Other religion: Unification Church,0
+2011,Greenwich,E09000011,Total,10048,0,Other religion,Other religion: Unification Church,0
+2011,Harrow,E09000015,Total,17315,0,Other religion,Other religion: Unification Church,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: Unification Church,0
+2011,Hillingdon,E09000017,Total,26170,0,Other religion,Other religion: Unification Church,0
+2011,Hounslow,E09000018,Total,22338,0,Other religion,Other religion: Unification Church,0
+2011,Kingston upon Thames,E09000021,Total,655,0,Other religion,Other religion: Unification Church,0
+2011,Merton,E09000024,Total,2833,1,Other religion,Other religion: Unification Church,0
+2011,Redbridge,E09000026,Total,11373,0,Other religion,Other religion: Unification Church,0
+2011,Richmond upon Thames,E09000027,Total,-3410,1,Other religion,Other religion: Unification Church,0
+2011,Sutton,E09000029,Total,25169,2,Other religion,Other religion: Unification Church,0
+2011,Waltham Forest,E09000031,Total,3687,0,Other religion,Other religion: Unification Church,0
+2011,Camden,E09000007,Total,2063,2,Other religion,Other religion: Universalist,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Universalist,0
+2011,Hackney,E09000012,Total,21248,0,Other religion,Other religion: Universalist,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,0,Other religion,Other religion: Universalist,0
+2011,Haringey,E09000014,Total,17794,0,Other religion,Other religion: Universalist,0
+2011,Islington,E09000019,Total,15869,1,Other religion,Other religion: Universalist,0
+2011,Kensington and Chelsea,E09000020,Total,8707,2,Other religion,Other religion: Universalist,0
+2011,Lambeth,E09000022,Total,38917,0,Other religion,Other religion: Universalist,0
+2011,Lewisham,E09000023,Total,32964,0,Other religion,Other religion: Universalist,0
+2011,Newham,E09000025,Total,12654,0,Other religion,Other religion: Universalist,0
+2011,Southwark,E09000028,Total,33787,0,Other religion,Other religion: Universalist,0
+2011,Tower Hamlets,E09000030,Total,9715,0,Other religion,Other religion: Universalist,0
+2011,Wandsworth,E09000032,Total,24250,0,Other religion,Other religion: Universalist,0
+2011,Westminster,E09000033,Total,9413,1,Other religion,Other religion: Universalist,0
+2011,Barking and Dagenham,E09000002,Total,14392,0,Other religion,Other religion: Universalist,0
+2011,Barnet,E09000003,Total,31904,0,Other religion,Other religion: Universalist,0
+2011,Bexley,E09000004,Total,19019,1,Other religion,Other religion: Universalist,0
+2011,Brent,E09000005,Total,22601,3,Other religion,Other religion: Universalist,0
+2011,Bromley,E09000006,Total,18015,0,Other religion,Other religion: Universalist,0
+2011,Croydon,E09000008,Total,47564,1,Other religion,Other religion: Universalist,0
+2011,Ealing,E09000009,Total,49254,1,Other religion,Other religion: Universalist,0
+2011,Enfield,E09000010,Total,-21324,1,Other religion,Other religion: Universalist,0
+2011,Greenwich,E09000011,Total,10048,0,Other religion,Other religion: Universalist,0
+2011,Harrow,E09000015,Total,17315,1,Other religion,Other religion: Universalist,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: Universalist,0
+2011,Hillingdon,E09000017,Total,26170,0,Other religion,Other religion: Universalist,0
+2011,Hounslow,E09000018,Total,22338,0,Other religion,Other religion: Universalist,0
+2011,Kingston upon Thames,E09000021,Total,655,0,Other religion,Other religion: Universalist,0
+2011,Merton,E09000024,Total,2833,0,Other religion,Other religion: Universalist,0
+2011,Redbridge,E09000026,Total,11373,0,Other religion,Other religion: Universalist,0
+2011,Richmond upon Thames,E09000027,Total,-3410,0,Other religion,Other religion: Universalist,0
+2011,Sutton,E09000029,Total,25169,0,Other religion,Other religion: Universalist,0
+2011,Waltham Forest,E09000031,Total,3687,0,Other religion,Other religion: Universalist,0
+2011,Camden,E09000007,Total,2063,0,Other religion,Other religion: Vodun,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Vodun,0
+2011,Hackney,E09000012,Total,21248,0,Other religion,Other religion: Vodun,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,0,Other religion,Other religion: Vodun,0
+2011,Haringey,E09000014,Total,17794,0,Other religion,Other religion: Vodun,0
+2011,Islington,E09000019,Total,15869,0,Other religion,Other religion: Vodun,0
+2011,Kensington and Chelsea,E09000020,Total,8707,0,Other religion,Other religion: Vodun,0
+2011,Lambeth,E09000022,Total,38917,-1,Other religion,Other religion: Vodun,0
+2011,Lewisham,E09000023,Total,32964,0,Other religion,Other religion: Vodun,0
+2011,Newham,E09000025,Total,12654,0,Other religion,Other religion: Vodun,0
+2011,Southwark,E09000028,Total,33787,0,Other religion,Other religion: Vodun,0
+2011,Tower Hamlets,E09000030,Total,9715,0,Other religion,Other religion: Vodun,0
+2011,Wandsworth,E09000032,Total,24250,0,Other religion,Other religion: Vodun,0
+2011,Westminster,E09000033,Total,9413,0,Other religion,Other religion: Vodun,0
+2011,Barking and Dagenham,E09000002,Total,14392,0,Other religion,Other religion: Vodun,0
+2011,Barnet,E09000003,Total,31904,0,Other religion,Other religion: Vodun,0
+2011,Bexley,E09000004,Total,19019,0,Other religion,Other religion: Vodun,0
+2011,Brent,E09000005,Total,22601,1,Other religion,Other religion: Vodun,0
+2011,Bromley,E09000006,Total,18015,0,Other religion,Other religion: Vodun,0
+2011,Croydon,E09000008,Total,47564,0,Other religion,Other religion: Vodun,0
+2011,Ealing,E09000009,Total,49254,0,Other religion,Other religion: Vodun,0
+2011,Enfield,E09000010,Total,-21324,0,Other religion,Other religion: Vodun,0
+2011,Greenwich,E09000011,Total,10048,0,Other religion,Other religion: Vodun,0
+2011,Harrow,E09000015,Total,17315,0,Other religion,Other religion: Vodun,0
+2011,Havering,E09000016,Total,9979,0,Other religion,Other religion: Vodun,0
+2011,Hillingdon,E09000017,Total,26170,0,Other religion,Other religion: Vodun,0
+2011,Hounslow,E09000018,Total,22338,0,Other religion,Other religion: Vodun,0
+2011,Kingston upon Thames,E09000021,Total,655,0,Other religion,Other religion: Vodun,0
+2011,Merton,E09000024,Total,2833,0,Other religion,Other religion: Vodun,0
+2011,Redbridge,E09000026,Total,11373,0,Other religion,Other religion: Vodun,0
+2011,Richmond upon Thames,E09000027,Total,-3410,0,Other religion,Other religion: Vodun,0
+2011,Sutton,E09000029,Total,25169,0,Other religion,Other religion: Vodun,0
+2011,Waltham Forest,E09000031,Total,3687,0,Other religion,Other religion: Vodun,0
+2011,Camden,E09000007,Total,2063,-3,Other religion,Other religion: Wicca,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Wicca,0
+2011,Hackney,E09000012,Total,21248,1,Other religion,Other religion: Wicca,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,3,Other religion,Other religion: Wicca,0
+2011,Haringey,E09000014,Total,17794,5,Other religion,Other religion: Wicca,0
+2011,Islington,E09000019,Total,15869,1,Other religion,Other religion: Wicca,0
+2011,Kensington and Chelsea,E09000020,Total,8707,0,Other religion,Other religion: Wicca,0
+2011,Lambeth,E09000022,Total,38917,3,Other religion,Other religion: Wicca,0
+2011,Lewisham,E09000023,Total,32964,5,Other religion,Other religion: Wicca,0
+2011,Newham,E09000025,Total,12654,-1,Other religion,Other religion: Wicca,0
+2011,Southwark,E09000028,Total,33787,9,Other religion,Other religion: Wicca,0
+2011,Tower Hamlets,E09000030,Total,9715,0,Other religion,Other religion: Wicca,0
+2011,Wandsworth,E09000032,Total,24250,3,Other religion,Other religion: Wicca,0
+2011,Westminster,E09000033,Total,9413,5,Other religion,Other religion: Wicca,0
+2011,Barking and Dagenham,E09000002,Total,14392,3,Other religion,Other religion: Wicca,0
+2011,Barnet,E09000003,Total,31904,0,Other religion,Other religion: Wicca,0
+2011,Bexley,E09000004,Total,19019,6,Other religion,Other religion: Wicca,0
+2011,Brent,E09000005,Total,22601,-1,Other religion,Other religion: Wicca,0
+2011,Bromley,E09000006,Total,18015,-2,Other religion,Other religion: Wicca,0
+2011,Croydon,E09000008,Total,47564,4,Other religion,Other religion: Wicca,0
+2011,Ealing,E09000009,Total,49254,-3,Other religion,Other religion: Wicca,0
+2011,Enfield,E09000010,Total,-21324,-4,Other religion,Other religion: Wicca,0
+2011,Greenwich,E09000011,Total,10048,7,Other religion,Other religion: Wicca,0
+2011,Harrow,E09000015,Total,17315,3,Other religion,Other religion: Wicca,0
+2011,Havering,E09000016,Total,9979,4,Other religion,Other religion: Wicca,0
+2011,Hillingdon,E09000017,Total,26170,1,Other religion,Other religion: Wicca,0
+2011,Hounslow,E09000018,Total,22338,10,Other religion,Other religion: Wicca,0
+2011,Kingston upon Thames,E09000021,Total,655,0,Other religion,Other religion: Wicca,0
+2011,Merton,E09000024,Total,2833,2,Other religion,Other religion: Wicca,0
+2011,Redbridge,E09000026,Total,11373,1,Other religion,Other religion: Wicca,0
+2011,Richmond upon Thames,E09000027,Total,-3410,3,Other religion,Other religion: Wicca,0
+2011,Sutton,E09000029,Total,25169,-3,Other religion,Other religion: Wicca,0
+2011,Waltham Forest,E09000031,Total,3687,3,Other religion,Other religion: Wicca,0
+2011,Camden,E09000007,Total,2063,0,Other religion,Other religion: Witchcraft,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Witchcraft,0
+2011,Hackney,E09000012,Total,21248,-1,Other religion,Other religion: Witchcraft,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,0,Other religion,Other religion: Witchcraft,0
+2011,Haringey,E09000014,Total,17794,0,Other religion,Other religion: Witchcraft,0
+2011,Islington,E09000019,Total,15869,1,Other religion,Other religion: Witchcraft,0
+2011,Kensington and Chelsea,E09000020,Total,8707,0,Other religion,Other religion: Witchcraft,0
+2011,Lambeth,E09000022,Total,38917,-1,Other religion,Other religion: Witchcraft,0
+2011,Lewisham,E09000023,Total,32964,0,Other religion,Other religion: Witchcraft,0
+2011,Newham,E09000025,Total,12654,0,Other religion,Other religion: Witchcraft,0
+2011,Southwark,E09000028,Total,33787,0,Other religion,Other religion: Witchcraft,0
+2011,Tower Hamlets,E09000030,Total,9715,0,Other religion,Other religion: Witchcraft,0
+2011,Wandsworth,E09000032,Total,24250,0,Other religion,Other religion: Witchcraft,0
+2011,Westminster,E09000033,Total,9413,0,Other religion,Other religion: Witchcraft,0
+2011,Barking and Dagenham,E09000002,Total,14392,0,Other religion,Other religion: Witchcraft,0
+2011,Barnet,E09000003,Total,31904,0,Other religion,Other religion: Witchcraft,0
+2011,Bexley,E09000004,Total,19019,0,Other religion,Other religion: Witchcraft,0
+2011,Brent,E09000005,Total,22601,0,Other religion,Other religion: Witchcraft,0
+2011,Bromley,E09000006,Total,18015,2,Other religion,Other religion: Witchcraft,0
+2011,Croydon,E09000008,Total,47564,0,Other religion,Other religion: Witchcraft,0
+2011,Ealing,E09000009,Total,49254,0,Other religion,Other religion: Witchcraft,0
+2011,Enfield,E09000010,Total,-21324,0,Other religion,Other religion: Witchcraft,0
+2011,Greenwich,E09000011,Total,10048,0,Other religion,Other religion: Witchcraft,0
+2011,Harrow,E09000015,Total,17315,0,Other religion,Other religion: Witchcraft,0
+2011,Havering,E09000016,Total,9979,1,Other religion,Other religion: Witchcraft,0
+2011,Hillingdon,E09000017,Total,26170,0,Other religion,Other religion: Witchcraft,0
+2011,Hounslow,E09000018,Total,22338,0,Other religion,Other religion: Witchcraft,0
+2011,Kingston upon Thames,E09000021,Total,655,1,Other religion,Other religion: Witchcraft,0
+2011,Merton,E09000024,Total,2833,1,Other religion,Other religion: Witchcraft,0
+2011,Redbridge,E09000026,Total,11373,0,Other religion,Other religion: Witchcraft,0
+2011,Richmond upon Thames,E09000027,Total,-3410,0,Other religion,Other religion: Witchcraft,0
+2011,Sutton,E09000029,Total,25169,0,Other religion,Other religion: Witchcraft,0
+2011,Waltham Forest,E09000031,Total,3687,1,Other religion,Other religion: Witchcraft,0
+2011,Camden,E09000007,Total,2063,1,Other religion,Other religion: Zoroastrian,0
+2011,City of London,E09000001,Total,-241,0,Other religion,Other religion: Zoroastrian,0
+2011,Hackney,E09000012,Total,21248,1,Other religion,Other religion: Zoroastrian,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,6,Other religion,Other religion: Zoroastrian,0
+2011,Haringey,E09000014,Total,17794,4,Other religion,Other religion: Zoroastrian,0
+2011,Islington,E09000019,Total,15869,1,Other religion,Other religion: Zoroastrian,0
+2011,Kensington and Chelsea,E09000020,Total,8707,-6,Other religion,Other religion: Zoroastrian,0
+2011,Lambeth,E09000022,Total,38917,1,Other religion,Other religion: Zoroastrian,0
+2011,Lewisham,E09000023,Total,32964,6,Other religion,Other religion: Zoroastrian,0
+2011,Newham,E09000025,Total,12654,5,Other religion,Other religion: Zoroastrian,0
+2011,Southwark,E09000028,Total,33787,2,Other religion,Other religion: Zoroastrian,0
+2011,Tower Hamlets,E09000030,Total,9715,2,Other religion,Other religion: Zoroastrian,0
+2011,Wandsworth,E09000032,Total,24250,2,Other religion,Other religion: Zoroastrian,0
+2011,Westminster,E09000033,Total,9413,2,Other religion,Other religion: Zoroastrian,0
+2011,Barking and Dagenham,E09000002,Total,14392,0,Other religion,Other religion: Zoroastrian,0
+2011,Barnet,E09000003,Total,31904,33,Other religion,Other religion: Zoroastrian,0
+2011,Bexley,E09000004,Total,19019,-2,Other religion,Other religion: Zoroastrian,0
+2011,Brent,E09000005,Total,22601,-6,Other religion,Other religion: Zoroastrian,0
+2011,Bromley,E09000006,Total,18015,-1,Other religion,Other religion: Zoroastrian,0
+2011,Croydon,E09000008,Total,47564,13,Other religion,Other religion: Zoroastrian,0
+2011,Ealing,E09000009,Total,49254,26,Other religion,Other religion: Zoroastrian,0
+2011,Enfield,E09000010,Total,-21324,1,Other religion,Other religion: Zoroastrian,0
+2011,Greenwich,E09000011,Total,10048,-1,Other religion,Other religion: Zoroastrian,0
+2011,Harrow,E09000015,Total,17315,36,Other religion,Other religion: Zoroastrian,0
+2011,Havering,E09000016,Total,9979,1,Other religion,Other religion: Zoroastrian,0
+2011,Hillingdon,E09000017,Total,26170,4,Other religion,Other religion: Zoroastrian,0
+2011,Hounslow,E09000018,Total,22338,10,Other religion,Other religion: Zoroastrian,0
+2011,Kingston upon Thames,E09000021,Total,655,14,Other religion,Other religion: Zoroastrian,0.1
+2011,Merton,E09000024,Total,2833,10,Other religion,Other religion: Zoroastrian,0
+2011,Redbridge,E09000026,Total,11373,4,Other religion,Other religion: Zoroastrian,0
+2011,Richmond upon Thames,E09000027,Total,-3410,9,Other religion,Other religion: Zoroastrian,0.1
+2011,Sutton,E09000029,Total,25169,7,Other religion,Other religion: Zoroastrian,0
+2011,Waltham Forest,E09000031,Total,3687,2,Other religion,Other religion: Zoroastrian,0
+2011,Camden,E09000007,Total,2063,-2619,Religion not stated,Religion not stated,-1.3
+2011,City of London,E09000001,Total,-241,-61,Religion not stated,Religion not stated,-0.5
+2011,Hackney,E09000012,Total,21248,3861,Religion not stated,Religion not stated,0.700000000000001
+2011,Hammersmith and Fulham,E09000013,Total,11155,-134,Religion not stated,Religion not stated,-0.5
+2011,Haringey,E09000014,Total,17794,2052,Religion not stated,Religion not stated,0.199999999999999
+2011,Islington,E09000019,Total,15869,2719,Religion not stated,Religion not stated,0
+2011,Kensington and Chelsea,E09000020,Total,8707,-1088,Religion not stated,Religion not stated,-1.2
+2011,Lambeth,E09000022,Total,38917,3518,Religion not stated,Religion not stated,0.100000000000001
+2011,Lewisham,E09000023,Total,32964,6600,Religion not stated,Religion not stated,1.2
+2011,Newham,E09000025,Total,12654,-127,Religion not stated,Religion not stated,-0.300000000000001
+2011,Southwark,E09000028,Total,33787,408,Religion not stated,Religion not stated,-0.7
+2011,Tower Hamlets,E09000030,Total,9715,8412,Religion not stated,Religion not stated,2.6
+2011,Wandsworth,E09000032,Total,24250,545,Religion not stated,Religion not stated,-0.5
+2011,Westminster,E09000033,Total,9413,-921,Religion not stated,Religion not stated,-0.800000000000001
+2011,Barking and Dagenham,E09000002,Total,14392,2593,Religion not stated,Religion not stated,0.9
+2011,Barnet,E09000003,Total,31904,-1087,Religion not stated,Religion not stated,-1
+2011,Bexley,E09000004,Total,19019,2664,Religion not stated,Religion not stated,0.5
+2011,Brent,E09000005,Total,22601,-4061,Religion not stated,Religion not stated,-1.7
+2011,Bromley,E09000006,Total,18015,-451,Religion not stated,Religion not stated,-0.5
+2011,Croydon,E09000008,Total,47564,1192,Religion not stated,Religion not stated,-0.6
+2011,Ealing,E09000009,Total,49254,5966,Religion not stated,Religion not stated,0.699999999999999
+2011,Enfield,E09000010,Total,-21324,556,Religion not stated,Religion not stated,0.8
+2011,Greenwich,E09000011,Total,10048,1233,Religion not stated,Religion not stated,0.100000000000001
+2011,Harrow,E09000015,Total,17315,547,Religion not stated,Religion not stated,-0.2
+2011,Havering,E09000016,Total,9979,227,Religion not stated,Religion not stated,-0.2
+2011,Hillingdon,E09000017,Total,26170,-1390,Religion not stated,Religion not stated,-1
+2011,Hounslow,E09000018,Total,22338,1040,Religion not stated,Religion not stated,-0.2
+2011,Kingston upon Thames,E09000021,Total,655,-865,Religion not stated,Religion not stated,-0.600000000000001
+2011,Merton,E09000024,Total,2833,-1300,Religion not stated,Religion not stated,-0.7
+2011,Redbridge,E09000026,Total,11373,-285,Religion not stated,Religion not stated,-0.4
+2011,Richmond upon Thames,E09000027,Total,-3410,1338,Religion not stated,Religion not stated,0.9
+2011,Sutton,E09000029,Total,25169,923,Religion not stated,Religion not stated,-0.399999999999999
+2011,Waltham Forest,E09000031,Total,3687,255,Religion not stated,Religion not stated,0
+2011,Camden,E09000007,Total,2063,94,Sikh,Sikh,0.1
+2011,City of London,E09000001,Total,-241,4,Sikh,Sikh,0.1
+2011,Hackney,E09000012,Total,21248,302,Sikh,Sikh,0
+2011,Hammersmith and Fulham,E09000013,Total,11155,32,Sikh,Sikh,0
+2011,Haringey,E09000014,Total,17794,123,Sikh,Sikh,0
+2011,Islington,E09000019,Total,15869,90,Sikh,Sikh,0
+2011,Kensington and Chelsea,E09000020,Total,8707,74,Sikh,Sikh,0
+2011,Lambeth,E09000022,Total,38917,42,Sikh,Sikh,0
+2011,Lewisham,E09000023,Total,32964,58,Sikh,Sikh,0
+2011,Newham,E09000025,Total,12654,-510,Sikh,Sikh,-0.3
+2011,Southwark,E09000028,Total,33787,32,Sikh,Sikh,0
+2011,Tower Hamlets,E09000030,Total,9715,168,Sikh,Sikh,0.1
+2011,Wandsworth,E09000032,Total,24250,64,Sikh,Sikh,0
+2011,Westminster,E09000033,Total,9413,52,Sikh,Sikh,0
+2011,Barking and Dagenham,E09000002,Total,14392,-223,Sikh,Sikh,-0.2
+2011,Barnet,E09000003,Total,31904,-72,Sikh,Sikh,-0.1
+2011,Bexley,E09000004,Total,19019,301,Sikh,Sikh,0
+2011,Brent,E09000005,Total,22601,129,Sikh,Sikh,0.1
+2011,Bromley,E09000006,Total,18015,-10,Sikh,Sikh,0
+2011,Croydon,E09000008,Total,47564,75,Sikh,Sikh,0
+2011,Ealing,E09000009,Total,49254,4822,Sikh,Sikh,0.299999999999999
+2011,Enfield,E09000010,Total,-21324,256,Sikh,Sikh,0.2
+2011,Greenwich,E09000011,Total,10048,94,Sikh,Sikh,0
+2011,Harrow,E09000015,Total,17315,-53,Sikh,Sikh,-0.0999999999999999
+2011,Havering,E09000016,Total,9979,126,Sikh,Sikh,0
+2011,Hillingdon,E09000017,Total,26170,575,Sikh,Sikh,-0.4
+2011,Hounslow,E09000018,Total,22338,380,Sikh,Sikh,-0.6
+2011,Kingston upon Thames,E09000021,Total,655,361,Sikh,Sikh,0.2
+2011,Merton,E09000024,Total,2833,-7,Sikh,Sikh,0
+2011,Redbridge,E09000026,Total,11373,-1268,Sikh,Sikh,-0.7
+2011,Richmond upon Thames,E09000027,Total,-3410,-60,Sikh,Sikh,0
+2011,Sutton,E09000029,Total,25169,13,Sikh,Sikh,0
+2011,Waltham Forest,E09000031,Total,3687,104,Sikh,Sikh,0

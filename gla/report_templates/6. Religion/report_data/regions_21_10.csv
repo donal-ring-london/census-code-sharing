@@ -1,0 +1,82 @@
+date,geography,geography_code,Rural_Urban,total_pop,value,religion,percs
+2011,North East,E12000001,Total,2927292,2064120,Christian,70.5
+2011,North East,E12000001,Total,2927292,7702,Buddhist,0.3
+2011,North East,E12000001,Total,2927292,9289,Hindu,0.3
+2011,North East,E12000001,Total,2927292,5230,Jewish,0.2
+2011,North East,E12000001,Total,2927292,51196,Muslim,1.7
+2011,North East,E12000001,Total,2927292,6477,Sikh,0.2
+2011,North East,E12000001,Total,2927292,7059,Other religion,0.2
+2011,North East,E12000001,Total,2927292,604018,No religion,20.6
+2011,North East,E12000001,Total,2927292,172201,Religion not stated,5.9
+2011,North West,E12000002,Total,7894827,5431215,Christian,68.8
+2011,North West,E12000002,Total,7894827,19436,Buddhist,0.2
+2011,North West,E12000002,Total,7894827,39980,Hindu,0.5
+2011,North West,E12000002,Total,7894827,31515,Jewish,0.4
+2011,North West,E12000002,Total,7894827,392225,Muslim,5
+2011,North West,E12000002,Total,7894827,8713,Sikh,0.1
+2011,North West,E12000002,Total,7894827,22348,Other religion,0.3
+2011,North West,E12000002,Total,7894827,1425642,No religion,18.1
+2011,North West,E12000002,Total,7894827,523753,Religion not stated,6.6
+2011,Yorkshire and The Humber,E12000003,Total,5546153,3203070,Christian,57.8
+2011,Yorkshire and The Humber,E12000003,Total,5546153,17053,Buddhist,0.3
+2011,Yorkshire and The Humber,E12000003,Total,5546153,24950,Hindu,0.4
+2011,Yorkshire and The Humber,E12000003,Total,5546153,11267,Jewish,0.2
+2011,Yorkshire and The Humber,E12000003,Total,5546153,357916,Muslim,6.5
+2011,Yorkshire and The Humber,E12000003,Total,5546153,23529,Sikh,0.4
+2011,Yorkshire and The Humber,E12000003,Total,5546153,20142,Other religion,0.4
+2011,Yorkshire and The Humber,E12000003,Total,5546153,1487009,No religion,26.8
+2011,Yorkshire and The Humber,E12000003,Total,5546153,401217,Religion not stated,7.2
+2011,East Midlands,E12000004,Total,4977808,2814886,Christian,56.5
+2011,East Midlands,E12000004,Total,4977808,13044,Buddhist,0.3
+2011,East Midlands,E12000004,Total,4977808,115818,Hindu,2.3
+2011,East Midlands,E12000004,Total,4977808,4462,Jewish,0.1
+2011,East Midlands,E12000004,Total,4977808,152517,Muslim,3.1
+2011,East Midlands,E12000004,Total,4977808,48907,Sikh,1
+2011,East Midlands,E12000004,Total,4977808,19484,Other religion,0.4
+2011,East Midlands,E12000004,Total,4977808,1513760,No religion,30.4
+2011,East Midlands,E12000004,Total,4977808,294930,Religion not stated,5.9
+2011,West Midlands,E12000005,Total,5867909,3492331,Christian,59.5
+2011,West Midlands,E12000005,Total,5867909,15921,Buddhist,0.3
+2011,West Midlands,E12000005,Total,5867909,72302,Hindu,1.2
+2011,West Midlands,E12000005,Total,5867909,5172,Jewish,0.1
+2011,West Midlands,E12000005,Total,5867909,434268,Muslim,7.4
+2011,West Midlands,E12000005,Total,5867909,181109,Sikh,3.1
+2011,West Midlands,E12000005,Total,5867909,28739,Other religion,0.5
+2011,West Midlands,E12000005,Total,5867909,1280810,No religion,21.8
+2011,West Midlands,E12000005,Total,5867909,357257,Religion not stated,6.1
+2011,East,E12000006,Total,6255766,3873549,Christian,61.9
+2011,East,E12000006,Total,6255766,25898,Buddhist,0.4
+2011,East,E12000006,Total,6255766,55479,Hindu,0.9
+2011,East,E12000006,Total,6255766,38199,Jewish,0.6
+2011,East,E12000006,Total,6255766,162352,Muslim,2.6
+2011,East,E12000006,Total,6255766,18759,Sikh,0.3
+2011,East,E12000006,Total,6255766,28678,Other religion,0.5
+2011,East,E12000006,Total,6255766,1512495,No religion,24.2
+2011,East,E12000006,Total,6255766,540357,Religion not stated,8.6
+2011,London,E12000007,Total,8739049,4256449,Christian,48.7
+2011,London,E12000007,Total,8739049,91267,Buddhist,1
+2011,London,E12000007,Total,8739049,444501,Hindu,5.1
+2011,London,E12000007,Total,8739049,139306,Jewish,1.6
+2011,London,E12000007,Total,8739049,1143537,Muslim,13.1
+2011,London,E12000007,Total,8739049,133516,Sikh,1.5
+2011,London,E12000007,Total,8739049,46425,Other religion,0.5
+2011,London,E12000007,Total,8739049,1877856,No religion,21.5
+2011,London,E12000007,Total,8739049,606192,Religion not stated,6.9
+2011,South East,E12000008,Total,10044946,6313799,Christian,62.9
+2011,South East,E12000008,Total,10044946,43065,Buddhist,0.4
+2011,South East,E12000008,Total,10044946,97832,Hindu,1
+2011,South East,E12000008,Total,10044946,22294,Jewish,0.2
+2011,South East,E12000008,Total,10044946,186563,Muslim,1.9
+2011,South East,E12000008,Total,10044946,68006,Sikh,0.7
+2011,South East,E12000008,Total,10044946,45651,Other religion,0.5
+2011,South East,E12000008,Total,10044946,2726567,No religion,27.1
+2011,South East,E12000008,Total,10044946,541169,Religion not stated,5.4
+2011,South West,E12000009,Total,5364265,3340249,Christian,62.3
+2011,South West,E12000009,Total,5364265,18360,Buddhist,0.3
+2011,South West,E12000009,Total,5364265,16310,Hindu,0.3
+2011,South West,E12000009,Total,5364265,7090,Jewish,0.1
+2011,South West,E12000009,Total,5364265,50289,Muslim,0.9
+2011,South West,E12000009,Total,5364265,6945,Sikh,0.1
+2011,South West,E12000009,Total,5364265,31472,Other religion,0.6
+2011,South West,E12000009,Total,5364265,1411848,No religion,26.3
+2011,South West,E12000009,Total,5364265,481702,Religion not stated,9

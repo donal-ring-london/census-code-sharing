@@ -1,0 +1,55 @@
+date,geography,geography_code,Rural_Urban,total_pop,value,religion,religion_det,percs
+2011,London,E12000007,Total,770011,3589,Buddhist,Buddhist,0
+2011,London,E12000007,Total,770011,256940,Christian,Christian,-1.3
+2011,London,E12000007,Total,770011,85834,Hindu,Hindu,0.6
+2011,London,E12000007,Total,770011,-16559,Jewish,Jewish,-0.3
+2011,London,E12000007,Total,770011,150504,Muslim,Muslim,0.6
+2011,London,E12000007,Total,770011,-480,No religion,No religion: Agnostic,0
+2011,London,E12000007,Total,770011,667,No religion,No religion: Atheist,0
+2011,London,E12000007,Total,770011,13,No religion,No religion: Free Thinker,0
+2011,London,E12000007,Total,770011,198199,No religion,No religion: No religion,0.399999999999999
+2011,London,E12000007,Total,770011,116,No religion,No religion: Humanist,0
+2011,London,E12000007,Total,770011,10,No religion,No religion: Realist,0
+2011,London,E12000007,Total,770011,5,Other religion,Other religion: Animism,0
+2011,London,E12000007,Total,770011,-33,Other religion,Other religion: Baha'i,0
+2011,London,E12000007,Total,770011,257,Other religion,Other religion: Believe in God,0
+2011,London,E12000007,Total,770011,27,Other religion,Other religion: Brahma Kumari,0
+2011,London,E12000007,Total,770011,-6,Other religion,Other religion: Chinese Religion,0
+2011,London,E12000007,Total,770011,5,Other religion,Other religion: Church of All Religion,0
+2011,London,E12000007,Total,770011,-1,Other religion,Other religion: Confucianist,0
+2011,London,E12000007,Total,770011,48,Other religion,Other religion: Deist,0
+2011,London,E12000007,Total,770011,6,Other religion,Other religion: Druid,0
+2011,London,E12000007,Total,770011,55,Other religion,Other religion: Druze,0
+2011,London,E12000007,Total,770011,10,Other religion,Other religion: Eckankar,0
+2011,London,E12000007,Total,770011,13,Other religion,Other religion: Heathen,0
+2011,London,E12000007,Total,770011,1741,Other religion,Other religion: Jain,0
+2011,London,E12000007,Total,770011,114,Other religion,Other religion: Mixed Religion,0
+2011,London,E12000007,Total,770011,2,Other religion,Other religion: Mysticism,0
+2011,London,E12000007,Total,770011,1,Other religion,Other religion: Native American Church,0
+2011,London,E12000007,Total,770011,-4,Other religion,Other religion: New Age,0
+2011,London,E12000007,Total,770011,-12,Other religion,Other religion: Occult,0
+2011,London,E12000007,Total,770011,-115,Other religion,Other religion: Other religions,0
+2011,London,E12000007,Total,770011,78,Other religion,Other religion: Own Belief System,0
+2011,London,E12000007,Total,770011,968,Other religion,Other religion: Pagan,0
+2011,London,E12000007,Total,770011,65,Other religion,Other religion: Pantheism,0
+2011,London,E12000007,Total,770011,120,Other religion,Other religion: Rastafarian,0
+2011,London,E12000007,Total,770011,141,Other religion,Other religion: Ravidassia,0
+2011,London,E12000007,Total,770011,-4,Other religion,Other religion: Reconstructionist,0
+2011,London,E12000007,Total,770011,28,Other religion,Other religion: Satanism,0
+2011,London,E12000007,Total,770011,-31,Other religion,Other religion: Scientology,0
+2011,London,E12000007,Total,770011,0,Other religion,Other religion: Shamanism,0
+2011,London,E12000007,Total,770011,23,Other religion,Other religion: Shintoism,0
+2011,London,E12000007,Total,770011,335,Other religion,Other religion: Spiritual,0
+2011,London,E12000007,Total,770011,207,Other religion,Other religion: Spiritualist,0
+2011,London,E12000007,Total,770011,33,Other religion,Other religion: Taoist,0
+2011,London,E12000007,Total,770011,12,Other religion,Other religion: Theism,0
+2011,London,E12000007,Total,770011,-4,Other religion,Other religion: Thelemite,0
+2011,London,E12000007,Total,770011,-17,Other religion,Other religion: Traditional African Religion,0
+2011,London,E12000007,Total,770011,-2,Other religion,Other religion: Unification Church,0
+2011,London,E12000007,Total,770011,0,Other religion,Other religion: Universalist,0
+2011,London,E12000007,Total,770011,2,Other religion,Other religion: Vodun,0
+2011,London,E12000007,Total,770011,129,Other religion,Other religion: Wicca,0
+2011,London,E12000007,Total,770011,7,Other religion,Other religion: Witchcraft,0
+2011,London,E12000007,Total,770011,-62,Other religion,Other religion: Zoroastrian,0
+2011,London,E12000007,Total,770011,69117,Religion not stated,Religion not stated,0
+2011,London,E12000007,Total,770011,17920,Sikh,Sikh,0.1

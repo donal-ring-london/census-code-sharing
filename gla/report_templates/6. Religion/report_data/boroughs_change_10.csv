@@ -1,0 +1,298 @@
+date,geography,geography_code,Rural_Urban,total_pop,value,religion,percs
+2011,Camden,E09000007,Total,11671,4049,Christian,0
+2011,Camden,E09000007,Total,11671,360,Buddhist,0.0999999999999999
+2011,Camden,E09000007,Total,11671,33,Hindu,0
+2011,Camden,E09000007,Total,11671,743,Jewish,0.0999999999999996
+2011,Camden,E09000007,Total,11671,1369,Muslim,0
+2011,Camden,E09000007,Total,11671,-33,Sikh,0
+2011,Camden,E09000007,Total,11671,17,Other religion,0
+2011,Camden,E09000007,Total,11671,-2294,No religion,-2.3
+2011,Camden,E09000007,Total,11671,7427,Religion not stated,2.2
+2011,City of London,E09000001,Total,308,-158,Christian,-3.8
+2011,City of London,E09000001,Total,308,5,Buddhist,0.1
+2011,City of London,E09000001,Total,308,-4,Hindu,-0.2
+2011,City of London,E09000001,Total,308,13,Jewish,0
+2011,City of London,E09000001,Total,308,9,Muslim,-0.0999999999999996
+2011,City of London,E09000001,Total,308,5,Sikh,0.1
+2011,City of London,E09000001,Total,308,1,Other religion,0
+2011,City of London,E09000001,Total,308,366,No religion,3.4
+2011,City of London,E09000001,Total,308,71,Religion not stated,0.6
+2011,Hackney,E09000012,Total,10835,13119,Christian,3.5
+2011,Hackney,E09000012,Total,10835,530,Buddhist,0.2
+2011,Hackney,E09000012,Total,10835,34,Hindu,0
+2011,Hackney,E09000012,Total,10835,-671,Jewish,-0.5
+2011,Hackney,E09000012,Total,10835,4735,Muslim,1.2
+2011,Hackney,E09000012,Total,10835,-42,Sikh,-0.1
+2011,Hackney,E09000012,Total,10835,271,Other religion,0.1
+2011,Hackney,E09000012,Total,10835,-2733,No religion,-2.2
+2011,Hackney,E09000012,Total,10835,-4408,Religion not stated,-2.1
+2011,Hammersmith and Fulham,E09000013,Total,4301,-3538,Christian,-3.1
+2011,Hammersmith and Fulham,E09000013,Total,4301,38,Buddhist,0
+2011,Hammersmith and Fulham,E09000013,Total,4301,545,Hindu,0.3
+2011,Hammersmith and Fulham,E09000013,Total,4301,177,Jewish,0.1
+2011,Hammersmith and Fulham,E09000013,Total,4301,4147,Muslim,2
+2011,Hammersmith and Fulham,E09000013,Total,4301,-27,Sikh,0
+2011,Hammersmith and Fulham,E09000013,Total,4301,156,Other religion,0
+2011,Hammersmith and Fulham,E09000013,Total,4301,400,No religion,-0.300000000000001
+2011,Hammersmith and Fulham,E09000013,Total,4301,2403,Religion not stated,1.1
+2011,Haringey,E09000014,Total,3648,-14257,Christian,-6.2
+2011,Haringey,E09000014,Total,3648,476,Buddhist,0.2
+2011,Haringey,E09000014,Total,3648,181,Hindu,0
+2011,Haringey,E09000014,Total,3648,393,Jewish,0.1
+2011,Haringey,E09000014,Total,3648,7315,Muslim,2.6
+2011,Haringey,E09000014,Total,3648,86,Sikh,0
+2011,Haringey,E09000014,Total,3648,104,Other religion,0
+2011,Haringey,E09000014,Total,3648,9781,No religion,3.4
+2011,Haringey,E09000014,Total,3648,-431,Religion not stated,-0.200000000000001
+2011,Islington,E09000019,Total,6914,-5234,Christian,-3.8
+2011,Islington,E09000019,Total,6914,378,Buddhist,0.2
+2011,Islington,E09000019,Total,6914,448,Hindu,0.2
+2011,Islington,E09000019,Total,6914,230,Jewish,0.1
+2011,Islington,E09000019,Total,6914,1351,Muslim,0.300000000000001
+2011,Islington,E09000019,Total,6914,121,Sikh,0
+2011,Islington,E09000019,Total,6914,82,Other religion,0
+2011,Islington,E09000019,Total,6914,6745,No religion,2.2
+2011,Islington,E09000019,Total,6914,2793,Religion not stated,0.699999999999999
+2011,Kensington and Chelsea,E09000020,Total,12878,12492,Christian,3.2
+2011,Kensington and Chelsea,E09000020,Total,12878,-115,Buddhist,-0.1
+2011,Kensington and Chelsea,E09000020,Total,12878,33,Hindu,-0.1
+2011,Kensington and Chelsea,E09000020,Total,12878,166,Jewish,-0.1
+2011,Kensington and Chelsea,E09000020,Total,12878,-1455,Muslim,-1.6
+2011,Kensington and Chelsea,E09000020,Total,12878,39,Sikh,0
+2011,Kensington and Chelsea,E09000020,Total,12878,71,Other religion,0
+2011,Kensington and Chelsea,E09000020,Total,12878,-31,No religion,-1.6
+2011,Kensington and Chelsea,E09000020,Total,12878,1678,Religion not stated,0.200000000000001
+2011,Lambeth,E09000022,Total,32545,14044,Christian,-1
+2011,Lambeth,E09000022,Total,32545,-1,Buddhist,-0.1
+2011,Lambeth,E09000022,Total,32545,238,Hindu,0
+2011,Lambeth,E09000022,Total,32545,-7,Jewish,-0.1
+2011,Lambeth,E09000022,Total,32545,2657,Muslim,0.100000000000001
+2011,Lambeth,E09000022,Total,32545,-30,Sikh,0
+2011,Lambeth,E09000022,Total,32545,145,Other religion,-0.1
+2011,Lambeth,E09000022,Total,32545,13103,No religion,1.2
+2011,Lambeth,E09000022,Total,32545,2396,Religion not stated,-0.0999999999999996
+2011,Lewisham,E09000023,Total,-1976,-1150,Christian,-0.0999999999999943
+2011,Lewisham,E09000023,Total,-1976,-141,Buddhist,0
+2011,Lewisham,E09000023,Total,-1976,-605,Hindu,-0.2
+2011,Lewisham,E09000023,Total,-1976,74,Jewish,0.1
+2011,Lewisham,E09000023,Total,-1976,1570,Muslim,0.699999999999999
+2011,Lewisham,E09000023,Total,-1976,40,Sikh,0
+2011,Lewisham,E09000023,Total,-1976,206,Other religion,0.1
+2011,Lewisham,E09000023,Total,-1976,-5007,No religion,-1.6
+2011,Lewisham,E09000023,Total,-1976,3037,Religion not stated,1.2
+2011,Newham,E09000025,Total,-3797,-7657,Christian,-2
+2011,Newham,E09000025,Total,-3797,102,Buddhist,0
+2011,Newham,E09000025,Total,-3797,-3788,Hindu,-1.2
+2011,Newham,E09000025,Total,-3797,-31,Jewish,0
+2011,Newham,E09000025,Total,-3797,-234,Muslim,0.299999999999997
+2011,Newham,E09000025,Total,-3797,646,Sikh,0.2
+2011,Newham,E09000025,Total,-3797,101,Other religion,0
+2011,Newham,E09000025,Total,-3797,4805,No religion,1.7
+2011,Newham,E09000025,Total,-3797,2259,Religion not stated,0.8
+2011,Southwark,E09000028,Total,18321,17487,Christian,2.6
+2011,Southwark,E09000028,Total,18321,-102,Buddhist,-0.1
+2011,Southwark,E09000028,Total,18321,-159,Hindu,-0.2
+2011,Southwark,E09000028,Total,18321,10,Jewish,0
+2011,Southwark,E09000028,Total,18321,-2639,Muslim,-1.4
+2011,Southwark,E09000028,Total,18321,40,Sikh,0
+2011,Southwark,E09000028,Total,18321,63,Other religion,0
+2011,Southwark,E09000028,Total,18321,1441,No religion,-1.1
+2011,Southwark,E09000028,Total,18321,2180,Religion not stated,0.199999999999999
+2011,Tower Hamlets,E09000030,Total,9755,-5034,Christian,-2.9
+2011,Tower Hamlets,E09000030,Total,9755,-327,Buddhist,-0.2
+2011,Tower Hamlets,E09000030,Total,9755,534,Hindu,0.1
+2011,Tower Hamlets,E09000030,Total,9755,-35,Jewish,0
+2011,Tower Hamlets,E09000030,Total,9755,-1548,Muslim,-1.8
+2011,Tower Hamlets,E09000030,Total,9755,21,Sikh,0
+2011,Tower Hamlets,E09000030,Total,9755,-6,Other religion,0
+2011,Tower Hamlets,E09000030,Total,9755,9395,No religion,2.9
+2011,Tower Hamlets,E09000030,Total,9755,6755,Religion not stated,2
+2011,Wandsworth,E09000032,Total,28237,12196,Christian,-0.899999999999999
+2011,Wandsworth,E09000032,Total,28237,126,Buddhist,0
+2011,Wandsworth,E09000032,Total,28237,56,Hindu,-0.1
+2011,Wandsworth,E09000032,Total,28237,274,Jewish,0.1
+2011,Wandsworth,E09000032,Total,28237,2324,Muslim,0
+2011,Wandsworth,E09000032,Total,28237,76,Sikh,0
+2011,Wandsworth,E09000032,Total,28237,-102,Other religion,0
+2011,Wandsworth,E09000032,Total,28237,13054,No religion,1.6
+2011,Wandsworth,E09000032,Total,28237,233,Religion not stated,-0.600000000000001
+2011,Westminster,E09000033,Total,26875,10194,Christian,-0.700000000000003
+2011,Westminster,E09000033,Total,26875,239,Buddhist,-0.1
+2011,Westminster,E09000033,Total,26875,843,Hindu,0.1
+2011,Westminster,E09000033,Total,26875,1483,Jewish,0.2
+2011,Westminster,E09000033,Total,26875,8025,Muslim,1.2
+2011,Westminster,E09000033,Total,26875,30,Sikh,0
+2011,Westminster,E09000033,Total,26875,75,Other religion,0
+2011,Westminster,E09000033,Total,26875,3547,No religion,-0.800000000000001
+2011,Westminster,E09000033,Total,26875,2439,Religion not stated,-0.0999999999999996
+2011,Barking and Dagenham,E09000002,Total,13068,6979,Christian,-0.200000000000003
+2011,Barking and Dagenham,E09000002,Total,13068,-53,Buddhist,-0.1
+2011,Barking and Dagenham,E09000002,Total,13068,-85,Hindu,-0.2
+2011,Barking and Dagenham,E09000002,Total,13068,-17,Jewish,0
+2011,Barking and Dagenham,E09000002,Total,13068,83,Muslim,-0.799999999999999
+2011,Barking and Dagenham,E09000002,Total,13068,589,Sikh,0.2
+2011,Barking and Dagenham,E09000002,Total,13068,32,Other religion,0
+2011,Barking and Dagenham,E09000002,Total,13068,4809,No religion,1.2
+2011,Barking and Dagenham,E09000002,Total,13068,731,Religion not stated,0
+2011,Barnet,E09000003,Total,46229,24251,Christian,1.3
+2011,Barnet,E09000003,Total,46229,-505,Buddhist,-0.3
+2011,Barnet,E09000003,Total,46229,509,Hindu,-0.600000000000001
+2011,Barnet,E09000003,Total,46229,3324,Jewish,-0.899999999999999
+2011,Barnet,E09000003,Total,46229,3957,Muslim,-0.200000000000001
+2011,Barnet,E09000003,Total,46229,60,Sikh,-0.1
+2011,Barnet,E09000003,Total,46229,185,Other religion,-0.1
+2011,Barnet,E09000003,Total,46229,10486,No religion,0.699999999999999
+2011,Barnet,E09000003,Total,46229,3962,Religion not stated,0
+2011,Bexley,E09000004,Total,10538,5375,Christian,-0.5
+2011,Bexley,E09000004,Total,10538,88,Buddhist,0
+2011,Bexley,E09000004,Total,10538,493,Hindu,0.2
+2011,Bexley,E09000004,Total,10538,-22,Jewish,0
+2011,Bexley,E09000004,Total,10538,874,Muslim,0.3
+2011,Bexley,E09000004,Total,10538,860,Sikh,0.3
+2011,Bexley,E09000004,Total,10538,8,Other religion,0
+2011,Bexley,E09000004,Total,10538,4223,No religion,0.699999999999999
+2011,Bexley,E09000004,Total,10538,-1361,Religion not stated,-0.9
+2011,Brent,E09000005,Total,13842,7488,Christian,0.5
+2011,Brent,E09000005,Total,13842,414,Buddhist,0.1
+2011,Brent,E09000005,Total,13842,-322,Hindu,-0.800000000000001
+2011,Brent,E09000005,Total,13842,261,Jewish,0
+2011,Brent,E09000005,Total,13842,-1345,Muslim,-1.2
+2011,Brent,E09000005,Total,13842,104,Sikh,0.1
+2011,Brent,E09000005,Total,13842,174,Other religion,0
+2011,Brent,E09000005,Total,13842,3957,No religion,0.800000000000001
+2011,Brent,E09000005,Total,13842,3111,Religion not stated,0.699999999999999
+2011,Bromley,E09000006,Total,72180,44183,Christian,0.0999999999999943
+2011,Bromley,E09000006,Total,72180,244,Buddhist,0
+2011,Bromley,E09000006,Total,72180,145,Hindu,-0.3
+2011,Bromley,E09000006,Total,72180,49,Jewish,0
+2011,Bromley,E09000006,Total,72180,1910,Muslim,0.1
+2011,Bromley,E09000006,Total,72180,-36,Sikh,0
+2011,Bromley,E09000006,Total,72180,66,Other religion,-0.1
+2011,Bromley,E09000006,Total,72180,24838,No religion,1.6
+2011,Bromley,E09000006,Total,72180,781,Religion not stated,-1.3
+2011,Croydon,E09000008,Total,11932,-10062,Christian,-4.5
+2011,Croydon,E09000008,Total,11932,234,Buddhist,0
+2011,Croydon,E09000008,Total,11932,-1230,Hindu,-0.5
+2011,Croydon,E09000008,Total,11932,-51,Jewish,0
+2011,Croydon,E09000008,Total,11932,1430,Muslim,0.0999999999999996
+2011,Croydon,E09000008,Total,11932,-70,Sikh,0
+2011,Croydon,E09000008,Total,11932,51,Other religion,0
+2011,Croydon,E09000008,Total,11932,14227,No religion,3.1
+2011,Croydon,E09000008,Total,11932,7403,Religion not stated,1.8
+2011,Ealing,E09000009,Total,9766,-112,Christian,-1.2
+2011,Ealing,E09000009,Total,9766,112,Buddhist,0
+2011,Ealing,E09000009,Total,9766,2767,Hindu,0.6
+2011,Ealing,E09000009,Total,9766,-39,Jewish,0
+2011,Ealing,E09000009,Total,9766,3621,Muslim,0.600000000000001
+2011,Ealing,E09000009,Total,9766,-933,Sikh,-0.5
+2011,Ealing,E09000009,Total,9766,-23,Other religion,0
+2011,Ealing,E09000009,Total,9766,2948,No religion,0.4
+2011,Ealing,E09000009,Total,9766,1425,Religion not stated,0.199999999999999
+2011,Enfield,E09000010,Total,35140,25387,Christian,1.9
+2011,Enfield,E09000010,Total,35140,54,Buddhist,-0.1
+2011,Enfield,E09000010,Total,35140,1384,Hindu,0
+2011,Enfield,E09000010,Total,35140,-445,Jewish,-0.3
+2011,Enfield,E09000010,Total,35140,5043,Muslim,-0.199999999999999
+2011,Enfield,E09000010,Total,35140,167,Sikh,0.1
+2011,Enfield,E09000010,Total,35140,125,Other religion,0
+2011,Enfield,E09000010,Total,35140,2703,No religion,-0.800000000000001
+2011,Enfield,E09000010,Total,35140,722,Religion not stated,-0.5
+2011,Greenwich,E09000011,Total,15204,11388,Christian,1.2
+2011,Greenwich,E09000011,Total,15204,644,Buddhist,0.1
+2011,Greenwich,E09000011,Total,15204,1489,Hindu,0.3
+2011,Greenwich,E09000011,Total,15204,46,Jewish,0
+2011,Greenwich,E09000011,Total,15204,339,Muslim,-0.2
+2011,Greenwich,E09000011,Total,15204,848,Sikh,0.2
+2011,Greenwich,E09000011,Total,15204,170,Other religion,0
+2011,Greenwich,E09000011,Total,15204,-1462,No religion,-1.9
+2011,Greenwich,E09000011,Total,15204,1742,Religion not stated,0.2
+2011,Harrow,E09000015,Total,595,-8380,Christian,-3.59999999999999
+2011,Harrow,E09000015,Total,595,-250,Buddhist,-0.1
+2011,Harrow,E09000015,Total,595,-717,Hindu,-0.400000000000002
+2011,Harrow,E09000015,Total,595,773,Jewish,0.3
+2011,Harrow,E09000015,Total,595,405,Muslim,0.0999999999999996
+2011,Harrow,E09000015,Total,595,531,Sikh,0.2
+2011,Harrow,E09000015,Total,595,1655,Other religion,0.7
+2011,Harrow,E09000015,Total,595,3680,No religion,1.5
+2011,Harrow,E09000015,Total,595,2898,Religion not stated,1.2
+2011,Havering,E09000016,Total,22004,24289,Christian,3.80000000000001
+2011,Havering,E09000016,Total,22004,136,Buddhist,0
+2011,Havering,E09000016,Total,22004,937,Hindu,0.3
+2011,Havering,E09000016,Total,22004,1,Jewish,-0.1
+2011,Havering,E09000016,Total,22004,-240,Muslim,-0.2
+2011,Havering,E09000016,Total,22004,639,Sikh,0.2
+2011,Havering,E09000016,Total,22004,8,Other religion,0
+2011,Havering,E09000016,Total,22004,-3210,No religion,-3.2
+2011,Havering,E09000016,Total,22004,-556,Religion not stated,-0.8
+2011,Hillingdon,E09000017,Total,33308,19521,Christian,1
+2011,Hillingdon,E09000017,Total,33308,38,Buddhist,-0.1
+2011,Hillingdon,E09000017,Total,33308,661,Hindu,-0.6
+2011,Hillingdon,E09000017,Total,33308,69,Jewish,0
+2011,Hillingdon,E09000017,Total,33308,4690,Muslim,0.4
+2011,Hillingdon,E09000017,Total,33308,1170,Sikh,-0.4
+2011,Hillingdon,E09000017,Total,33308,264,Other religion,0
+2011,Hillingdon,E09000017,Total,33308,3651,No religion,-0.699999999999999
+2011,Hillingdon,E09000017,Total,33308,3244,Religion not stated,0.399999999999999
+2011,Hounslow,E09000018,Total,28688,16177,Christian,1.5
+2011,Hounslow,E09000018,Total,28688,440,Buddhist,0
+2011,Hounslow,E09000018,Total,28688,3727,Hindu,0.299999999999999
+2011,Hounslow,E09000018,Total,28688,-74,Jewish,-0.1
+2011,Hounslow,E09000018,Total,28688,2113,Muslim,-0.6
+2011,Hounslow,E09000018,Total,28688,718,Sikh,-0.699999999999999
+2011,Hounslow,E09000018,Total,28688,-132,Other religion,-0.1
+2011,Hounslow,E09000018,Total,28688,3552,No religion,-0.4
+2011,Hounslow,E09000018,Total,28688,2167,Religion not stated,0.0999999999999996
+2011,Kingston upon Thames,E09000021,Total,16772,10764,Christian,1.1
+2011,Kingston upon Thames,E09000021,Total,16772,1,Buddhist,-0.1
+2011,Kingston upon Thames,E09000021,Total,16772,793,Hindu,0
+2011,Kingston upon Thames,E09000021,Total,16772,85,Jewish,0
+2011,Kingston upon Thames,E09000021,Total,16772,2396,Muslim,0.8
+2011,Kingston upon Thames,E09000021,Total,16772,-52,Sikh,-0.1
+2011,Kingston upon Thames,E09000021,Total,16772,111,Other religion,0
+2011,Kingston upon Thames,E09000021,Total,16772,1477,No religion,-1.6
+2011,Kingston upon Thames,E09000021,Total,16772,1197,Religion not stated,-0.100000000000001
+2011,Merton,E09000024,Total,3302,-4844,Christian,-3.3
+2011,Merton,E09000024,Total,3302,-34,Buddhist,0
+2011,Merton,E09000024,Total,3302,-1031,Hindu,-0.6
+2011,Merton,E09000024,Total,3302,48,Jewish,0
+2011,Merton,E09000024,Total,3302,1478,Muslim,0.6
+2011,Merton,E09000024,Total,3302,22,Sikh,0.1
+2011,Merton,E09000024,Total,3302,-12,Other religion,0
+2011,Merton,E09000024,Total,3302,5401,No religion,2.4
+2011,Merton,E09000024,Total,3302,2274,Religion not stated,1
+2011,Redbridge,E09000026,Total,21572,4352,Christian,-1.2
+2011,Redbridge,E09000026,Total,21572,389,Buddhist,0
+2011,Redbridge,E09000026,Total,21572,-1901,Hindu,-1.5
+2011,Redbridge,E09000026,Total,21572,1442,Jewish,0.2
+2011,Redbridge,E09000026,Total,21572,9723,Muslim,1.6
+2011,Redbridge,E09000026,Total,21572,-243,Sikh,-0.5
+2011,Redbridge,E09000026,Total,21572,172,Other religion,0
+2011,Redbridge,E09000026,Total,21572,4255,No religion,0.6
+2011,Redbridge,E09000026,Total,21572,3383,Religion not stated,0.6
+2011,Richmond upon Thames,E09000027,Total,21086,11133,Christian,-0.299999999999997
+2011,Richmond upon Thames,E09000027,Total,21086,-29,Buddhist,-0.1
+2011,Richmond upon Thames,E09000027,Total,21086,49,Hindu,-0.1
+2011,Richmond upon Thames,E09000027,Total,21086,29,Jewish,-0.1
+2011,Richmond upon Thames,E09000027,Total,21086,1047,Muslim,0.1
+2011,Richmond upon Thames,E09000027,Total,21086,16,Sikh,0
+2011,Richmond upon Thames,E09000027,Total,21086,-41,Other religion,-0.1
+2011,Richmond upon Thames,E09000027,Total,21086,6408,No religion,0.200000000000003
+2011,Richmond upon Thames,E09000027,Total,21086,2474,Religion not stated,0.300000000000001
+2011,Sutton,E09000029,Total,37854,31276,Christian,4
+2011,Sutton,E09000029,Total,37854,207,Buddhist,0
+2011,Sutton,E09000029,Total,37854,556,Hindu,-0.4
+2011,Sutton,E09000029,Total,37854,42,Jewish,-0.1
+2011,Sutton,E09000029,Total,37854,-167,Muslim,-0.8
+2011,Sutton,E09000029,Total,37854,94,Sikh,0
+2011,Sutton,E09000029,Total,37854,-6,Other religion,-0.1
+2011,Sutton,E09000029,Total,37854,3868,No religion,-2.4
+2011,Sutton,E09000029,Total,37854,1984,Religion not stated,-0.3
+2011,Waltham Forest,E09000031,Total,3631,-10651,Christian,-4.8
+2011,Waltham Forest,E09000031,Total,3631,330,Buddhist,0.1
+2011,Waltham Forest,E09000031,Total,3631,595,Hindu,0.2
+2011,Waltham Forest,E09000031,Total,3631,69,Jewish,0
+2011,Waltham Forest,E09000031,Total,3631,6585,Muslim,2.2
+2011,Waltham Forest,E09000031,Total,3631,28,Sikh,0
+2011,Waltham Forest,E09000031,Total,3631,-155,Other religion,-0.1
+2011,Waltham Forest,E09000031,Total,3631,6366,No religion,2.2
+2011,Waltham Forest,E09000031,Total,3631,464,Religion not stated,0.100000000000001

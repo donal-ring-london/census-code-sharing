@@ -1,0 +1,487 @@
+date,geography,geography_code,Rural_Urban,total_pop,value,religion,religion_det,percs
+2011,North East,E12000001,Total,2596886,6316,Buddhist,Buddhist,0.2
+2011,North West,E12000002,Total,7052177,20695,Buddhist,Buddhist,0.3
+2011,Yorkshire and The Humber,E12000003,Total,5283733,14319,Buddhist,Buddhist,0.3
+2011,East Midlands,E12000004,Total,4533222,12672,Buddhist,Buddhist,0.3
+2011,West Midlands,E12000005,Total,5601847,16649,Buddhist,Buddhist,0.3
+2011,East,E12000006,Total,5846965,22273,Buddhist,Buddhist,0.4
+2011,London,E12000007,Total,8173941,82026,Buddhist,Buddhist,1
+2011,South East,E12000008,Total,8634750,43946,Buddhist,Buddhist,0.5
+2011,South West,E12000009,Total,5288935,19730,Buddhist,Buddhist,0.4
+2011,North East,E12000001,Total,2596886,1753334,Christian,Christian,67.5
+2011,North West,E12000002,Total,7052177,4742860,Christian,Christian,67.3
+2011,Yorkshire and The Humber,E12000003,Total,5283733,3143819,Christian,Christian,59.5
+2011,East Midlands,E12000004,Total,4533222,2666172,Christian,Christian,58.8
+2011,West Midlands,E12000005,Total,5601847,3373450,Christian,Christian,60.2
+2011,East,E12000006,Total,5846965,3488063,Christian,Christian,59.7
+2011,London,E12000007,Total,8173941,3957984,Christian,Christian,48.4
+2011,South East,E12000008,Total,8634750,5160128,Christian,Christian,59.8
+2011,South West,E12000009,Total,5288935,3194066,Christian,Christian,60.4
+2011,North East,E12000001,Total,2596886,7772,Hindu,Hindu,0.3
+2011,North West,E12000002,Total,7052177,38259,Hindu,Hindu,0.5
+2011,Yorkshire and The Humber,E12000003,Total,5283733,24074,Hindu,Hindu,0.5
+2011,East Midlands,E12000004,Total,4533222,89723,Hindu,Hindu,2
+2011,West Midlands,E12000005,Total,5601847,72247,Hindu,Hindu,1.3
+2011,East,E12000006,Total,5846965,54010,Hindu,Hindu,0.9
+2011,London,E12000007,Total,8173941,411291,Hindu,Hindu,5
+2011,South East,E12000008,Total,8634750,92499,Hindu,Hindu,1.1
+2011,South West,E12000009,Total,5288935,16324,Hindu,Hindu,0.3
+2011,North East,E12000001,Total,2596886,4503,Jewish,Jewish,0.2
+2011,North West,E12000002,Total,7052177,30417,Jewish,Jewish,0.4
+2011,Yorkshire and The Humber,E12000003,Total,5283733,9929,Jewish,Jewish,0.2
+2011,East Midlands,E12000004,Total,4533222,4254,Jewish,Jewish,0.1
+2011,West Midlands,E12000005,Total,5601847,4621,Jewish,Jewish,0.1
+2011,East,E12000006,Total,5846965,34830,Jewish,Jewish,0.6
+2011,London,E12000007,Total,8173941,148602,Jewish,Jewish,1.8
+2011,South East,E12000008,Total,8634750,17761,Jewish,Jewish,0.2
+2011,South West,E12000009,Total,5288935,6365,Jewish,Jewish,0.1
+2011,North East,E12000001,Total,2596886,46764,Muslim,Muslim,1.8
+2011,North West,E12000002,Total,7052177,356458,Muslim,Muslim,5.1
+2011,Yorkshire and The Humber,E12000003,Total,5283733,326050,Muslim,Muslim,6.2
+2011,East Midlands,E12000004,Total,4533222,140649,Muslim,Muslim,3.1
+2011,West Midlands,E12000005,Total,5601847,376152,Muslim,Muslim,6.7
+2011,East,E12000006,Total,5846965,148341,Muslim,Muslim,2.5
+2011,London,E12000007,Total,8173941,1012823,Muslim,Muslim,12.4
+2011,South East,E12000008,Total,8634750,201651,Muslim,Muslim,2.3
+2011,South West,E12000009,Total,5288935,51228,Muslim,Muslim,1
+2011,North East,E12000001,Total,2596886,1094,No religion,No religion: Agnostic,0
+2011,North West,E12000002,Total,7052177,3066,No religion,No religion: Agnostic,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,2567,No religion,No religion: Agnostic,0
+2011,East Midlands,E12000004,Total,4533222,2325,No religion,No religion: Agnostic,0.1
+2011,West Midlands,E12000005,Total,5601847,2518,No religion,No religion: Agnostic,0
+2011,East,E12000006,Total,5846965,3443,No religion,No religion: Agnostic,0.1
+2011,London,E12000007,Total,8173941,5678,No religion,No religion: Agnostic,0.1
+2011,South East,E12000008,Total,8634750,5951,No religion,No religion: Agnostic,0.1
+2011,South West,E12000009,Total,5288935,3930,No religion,No religion: Agnostic,0.1
+2011,North East,E12000001,Total,2596886,1043,No religion,No religion: Atheist,0
+2011,North West,E12000002,Total,7052177,3096,No religion,No religion: Atheist,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,2584,No religion,No religion: Atheist,0
+2011,East Midlands,E12000004,Total,4533222,2093,No religion,No religion: Atheist,0
+2011,West Midlands,E12000005,Total,5601847,2195,No religion,No religion: Atheist,0
+2011,East,E12000006,Total,5846965,2918,No religion,No religion: Atheist,0
+2011,London,E12000007,Total,8173941,5439,No religion,No religion: Atheist,0.1
+2011,South East,E12000008,Total,8634750,5290,No religion,No religion: Atheist,0.1
+2011,South West,E12000009,Total,5288935,3103,No religion,No religion: Atheist,0.1
+2011,North East,E12000001,Total,2596886,20,No religion,No religion: Free Thinker,0
+2011,North West,E12000002,Total,7052177,61,No religion,No religion: Free Thinker,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,36,No religion,No religion: Free Thinker,0
+2011,East Midlands,E12000004,Total,4533222,33,No religion,No religion: Free Thinker,0
+2011,West Midlands,E12000005,Total,5601847,38,No religion,No religion: Free Thinker,0
+2011,East,E12000006,Total,5846965,66,No religion,No religion: Free Thinker,0
+2011,London,E12000007,Total,8173941,77,No religion,No religion: Free Thinker,0
+2011,South East,E12000008,Total,8634750,100,No religion,No religion: Free Thinker,0
+2011,South West,E12000009,Total,5288935,59,No religion,No religion: Free Thinker,0
+2011,North East,E12000001,Total,2596886,604927,No religion,No religion: No religion,23.3
+2011,North West,E12000002,Total,7052177,1390237,No religion,No religion: No religion,19.7
+2011,Yorkshire and The Humber,E12000003,Total,5283733,1359806,No religion,No religion: No religion,25.7
+2011,East Midlands,E12000004,Total,4533222,1242593,No religion,No religion: No religion,27.4
+2011,West Midlands,E12000005,Total,5601847,1224912,No religion,No religion: No religion,21.9
+2011,East,E12000006,Total,5846965,1623414,No religion,No religion: No religion,27.8
+2011,London,E12000007,Total,8173941,1680908,No religion,No religion: No religion,20.6
+2011,South East,E12000008,Total,8634750,2373914,No religion,No religion: No religion,27.5
+2011,South West,E12000009,Total,5288935,1540126,No religion,No religion: No religion,29.1
+2011,North East,E12000001,Total,2596886,612,No religion,No religion: Humanist,0
+2011,North West,E12000002,Total,7052177,1427,No religion,No religion: Humanist,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,1188,No religion,No religion: Humanist,0
+2011,East Midlands,E12000004,Total,4533222,990,No religion,No religion: Humanist,0
+2011,West Midlands,E12000005,Total,5601847,1221,No religion,No religion: Humanist,0
+2011,East,E12000006,Total,5846965,1681,No religion,No religion: Humanist,0
+2011,London,E12000007,Total,8173941,2235,No religion,No religion: Humanist,0
+2011,South East,E12000008,Total,8634750,2964,No religion,No religion: Humanist,0
+2011,South West,E12000009,Total,5288935,1934,No religion,No religion: Humanist,0
+2011,North East,E12000001,Total,2596886,4,No religion,No religion: Realist,0
+2011,North West,E12000002,Total,7052177,29,No religion,No religion: Realist,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,38,No religion,No religion: Realist,0
+2011,East Midlands,E12000004,Total,4533222,22,No religion,No religion: Realist,0
+2011,West Midlands,E12000005,Total,5601847,26,No religion,No religion: Realist,0
+2011,East,E12000006,Total,5846965,50,No religion,No religion: Realist,0
+2011,London,E12000007,Total,8173941,35,No religion,No religion: Realist,0
+2011,South East,E12000008,Total,8634750,67,No religion,No religion: Realist,0
+2011,South West,E12000009,Total,5288935,49,No religion,No religion: Realist,0
+2011,North East,E12000001,Total,2596886,19,Other religion,Other religion: Animism,0
+2011,North West,E12000002,Total,7052177,31,Other religion,Other religion: Animism,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,29,Other religion,Other religion: Animism,0
+2011,East Midlands,E12000004,Total,4533222,22,Other religion,Other religion: Animism,0
+2011,West Midlands,E12000005,Total,5601847,30,Other religion,Other religion: Animism,0
+2011,East,E12000006,Total,5846965,36,Other religion,Other religion: Animism,0
+2011,London,E12000007,Total,8173941,92,Other religion,Other religion: Animism,0
+2011,South East,E12000008,Total,8634750,120,Other religion,Other religion: Animism,0
+2011,South West,E12000009,Total,5288935,108,Other religion,Other religion: Animism,0
+2011,North East,E12000001,Total,2596886,131,Other religion,Other religion: Baha'i,0
+2011,North West,E12000002,Total,7052177,410,Other religion,Other religion: Baha'i,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,270,Other religion,Other religion: Baha'i,0
+2011,East Midlands,E12000004,Total,4533222,311,Other religion,Other religion: Baha'i,0
+2011,West Midlands,E12000005,Total,5601847,383,Other religion,Other religion: Baha'i,0
+2011,East,E12000006,Total,5846965,541,Other religion,Other religion: Baha'i,0
+2011,London,E12000007,Total,8173941,1229,Other religion,Other religion: Baha'i,0
+2011,South East,E12000008,Total,8634750,996,Other religion,Other religion: Baha'i,0
+2011,South West,E12000009,Total,5288935,475,Other religion,Other religion: Baha'i,0
+2011,North East,E12000001,Total,2596886,73,Other religion,Other religion: Believe in God,0
+2011,North West,E12000002,Total,7052177,247,Other religion,Other religion: Believe in God,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,188,Other religion,Other religion: Believe in God,0
+2011,East Midlands,E12000004,Total,4533222,162,Other religion,Other religion: Believe in God,0
+2011,West Midlands,E12000005,Total,5601847,251,Other religion,Other religion: Believe in God,0
+2011,East,E12000006,Total,5846965,217,Other religion,Other religion: Believe in God,0
+2011,London,E12000007,Total,8173941,966,Other religion,Other religion: Believe in God,0
+2011,South East,E12000008,Total,8634750,385,Other religion,Other religion: Believe in God,0
+2011,South West,E12000009,Total,5288935,338,Other religion,Other religion: Believe in God,0
+2011,North East,E12000001,Total,2596886,2,Other religion,Other religion: Brahma Kumari,0
+2011,North West,E12000002,Total,7052177,12,Other religion,Other religion: Brahma Kumari,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,21,Other religion,Other religion: Brahma Kumari,0
+2011,East Midlands,E12000004,Total,4533222,48,Other religion,Other religion: Brahma Kumari,0
+2011,West Midlands,E12000005,Total,5601847,26,Other religion,Other religion: Brahma Kumari,0
+2011,East,E12000006,Total,5846965,39,Other religion,Other religion: Brahma Kumari,0
+2011,London,E12000007,Total,8173941,194,Other religion,Other religion: Brahma Kumari,0
+2011,South East,E12000008,Total,8634750,88,Other religion,Other religion: Brahma Kumari,0
+2011,South West,E12000009,Total,5288935,4,Other religion,Other religion: Brahma Kumari,0
+2011,North East,E12000001,Total,2596886,9,Other religion,Other religion: Chinese Religion,0
+2011,North West,E12000002,Total,7052177,19,Other religion,Other religion: Chinese Religion,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,14,Other religion,Other religion: Chinese Religion,0
+2011,East Midlands,E12000004,Total,4533222,17,Other religion,Other religion: Chinese Religion,0
+2011,West Midlands,E12000005,Total,5601847,12,Other religion,Other religion: Chinese Religion,0
+2011,East,E12000006,Total,5846965,15,Other religion,Other religion: Chinese Religion,0
+2011,London,E12000007,Total,8173941,68,Other religion,Other religion: Chinese Religion,0
+2011,South East,E12000008,Total,8634750,12,Other religion,Other religion: Chinese Religion,0
+2011,South West,E12000009,Total,5288935,8,Other religion,Other religion: Chinese Religion,0
+2011,North East,E12000001,Total,2596886,10,Other religion,Other religion: Church of All Religion,0
+2011,North West,E12000002,Total,7052177,26,Other religion,Other religion: Church of All Religion,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,25,Other religion,Other religion: Church of All Religion,0
+2011,East Midlands,E12000004,Total,4533222,28,Other religion,Other religion: Church of All Religion,0
+2011,West Midlands,E12000005,Total,5601847,28,Other religion,Other religion: Church of All Religion,0
+2011,East,E12000006,Total,5846965,37,Other religion,Other religion: Church of All Religion,0
+2011,London,E12000007,Total,8173941,103,Other religion,Other religion: Church of All Religion,0
+2011,South East,E12000008,Total,8634750,63,Other religion,Other religion: Church of All Religion,0
+2011,South West,E12000009,Total,5288935,60,Other religion,Other religion: Church of All Religion,0
+2011,North East,E12000001,Total,2596886,10,Other religion,Other religion: Confucianist,0
+2011,North West,E12000002,Total,7052177,10,Other religion,Other religion: Confucianist,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,8,Other religion,Other religion: Confucianist,0
+2011,East Midlands,E12000004,Total,4533222,3,Other religion,Other religion: Confucianist,0
+2011,West Midlands,E12000005,Total,5601847,16,Other religion,Other religion: Confucianist,0
+2011,East,E12000006,Total,5846965,9,Other religion,Other religion: Confucianist,0
+2011,London,E12000007,Total,8173941,33,Other religion,Other religion: Confucianist,0
+2011,South East,E12000008,Total,8634750,20,Other religion,Other religion: Confucianist,0
+2011,South West,E12000009,Total,5288935,7,Other religion,Other religion: Confucianist,0
+2011,North East,E12000001,Total,2596886,30,Other religion,Other religion: Deist,0
+2011,North West,E12000002,Total,7052177,117,Other religion,Other religion: Deist,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,85,Other religion,Other religion: Deist,0
+2011,East Midlands,E12000004,Total,4533222,90,Other religion,Other religion: Deist,0
+2011,West Midlands,E12000005,Total,5601847,100,Other religion,Other religion: Deist,0
+2011,East,E12000006,Total,5846965,115,Other religion,Other religion: Deist,0
+2011,London,E12000007,Total,8173941,244,Other religion,Other religion: Deist,0
+2011,South East,E12000008,Total,8634750,229,Other religion,Other religion: Deist,0
+2011,South West,E12000009,Total,5288935,132,Other religion,Other religion: Deist,0
+2011,North East,E12000001,Total,2596886,132,Other religion,Other religion: Druid,0
+2011,North West,E12000002,Total,7052177,404,Other religion,Other religion: Druid,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,308,Other religion,Other religion: Druid,0
+2011,East Midlands,E12000004,Total,4533222,387,Other religion,Other religion: Druid,0
+2011,West Midlands,E12000005,Total,5601847,423,Other religion,Other religion: Druid,0
+2011,East,E12000006,Total,5846965,434,Other religion,Other religion: Druid,0
+2011,London,E12000007,Total,8173941,361,Other religion,Other religion: Druid,0
+2011,South East,E12000008,Total,8634750,833,Other religion,Other religion: Druid,0
+2011,South West,E12000009,Total,5288935,664,Other religion,Other religion: Druid,0
+2011,North East,E12000001,Total,2596886,2,Other religion,Other religion: Druze,0
+2011,North West,E12000002,Total,7052177,17,Other religion,Other religion: Druze,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,8,Other religion,Other religion: Druze,0
+2011,East Midlands,E12000004,Total,4533222,5,Other religion,Other religion: Druze,0
+2011,West Midlands,E12000005,Total,5601847,5,Other religion,Other religion: Druze,0
+2011,East,E12000006,Total,5846965,15,Other religion,Other religion: Druze,0
+2011,London,E12000007,Total,8173941,397,Other religion,Other religion: Druze,0
+2011,South East,E12000008,Total,8634750,51,Other religion,Other religion: Druze,0
+2011,South West,E12000009,Total,5288935,4,Other religion,Other religion: Druze,0
+2011,North East,E12000001,Total,2596886,9,Other religion,Other religion: Eckankar,0
+2011,North West,E12000002,Total,7052177,26,Other religion,Other religion: Eckankar,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,21,Other religion,Other religion: Eckankar,0
+2011,East Midlands,E12000004,Total,4533222,17,Other religion,Other religion: Eckankar,0
+2011,West Midlands,E12000005,Total,5601847,10,Other religion,Other religion: Eckankar,0
+2011,East,E12000006,Total,5846965,28,Other religion,Other religion: Eckankar,0
+2011,London,E12000007,Total,8173941,156,Other religion,Other religion: Eckankar,0
+2011,South East,E12000008,Total,8634750,67,Other religion,Other religion: Eckankar,0
+2011,South West,E12000009,Total,5288935,33,Other religion,Other religion: Eckankar,0
+2011,North East,E12000001,Total,2596886,72,Other religion,Other religion: Heathen,0
+2011,North West,E12000002,Total,7052177,230,Other religion,Other religion: Heathen,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,182,Other religion,Other religion: Heathen,0
+2011,East Midlands,E12000004,Total,4533222,231,Other religion,Other religion: Heathen,0
+2011,West Midlands,E12000005,Total,5601847,173,Other religion,Other religion: Heathen,0
+2011,East,E12000006,Total,5846965,237,Other religion,Other religion: Heathen,0
+2011,London,E12000007,Total,8173941,202,Other religion,Other religion: Heathen,0
+2011,South East,E12000008,Total,8634750,333,Other religion,Other religion: Heathen,0
+2011,South West,E12000009,Total,5288935,207,Other religion,Other religion: Heathen,0
+2011,North East,E12000001,Total,2596886,42,Other religion,Other religion: Jain,0
+2011,North West,E12000002,Total,7052177,554,Other religion,Other religion: Jain,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,215,Other religion,Other religion: Jain,0
+2011,East Midlands,E12000004,Total,4533222,1162,Other religion,Other religion: Jain,0
+2011,West Midlands,E12000005,Total,5601847,580,Other religion,Other religion: Jain,0
+2011,East,E12000006,Total,5846965,1609,Other religion,Other religion: Jain,0
+2011,London,E12000007,Total,8173941,15020,Other religion,Other religion: Jain,0.2
+2011,South East,E12000008,Total,8634750,881,Other religion,Other religion: Jain,0
+2011,South West,E12000009,Total,5288935,130,Other religion,Other religion: Jain,0
+2011,North East,E12000001,Total,2596886,436,Other religion,Other religion: Mixed Religion,0
+2011,North West,E12000002,Total,7052177,1705,Other religion,Other religion: Mixed Religion,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,1433,Other religion,Other religion: Mixed Religion,0
+2011,East Midlands,E12000004,Total,4533222,1485,Other religion,Other religion: Mixed Religion,0
+2011,West Midlands,E12000005,Total,5601847,2047,Other religion,Other religion: Mixed Religion,0
+2011,East,E12000006,Total,5846965,2220,Other religion,Other religion: Mixed Religion,0
+2011,London,E12000007,Total,8173941,3139,Other religion,Other religion: Mixed Religion,0
+2011,South East,E12000008,Total,8634750,4845,Other religion,Other religion: Mixed Religion,0.1
+2011,South West,E12000009,Total,5288935,4597,Other religion,Other religion: Mixed Religion,0.1
+2011,North East,E12000001,Total,2596886,7,Other religion,Other religion: Mysticism,0
+2011,North West,E12000002,Total,7052177,20,Other religion,Other religion: Mysticism,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,7,Other religion,Other religion: Mysticism,0
+2011,East Midlands,E12000004,Total,4533222,12,Other religion,Other religion: Mysticism,0
+2011,West Midlands,E12000005,Total,5601847,16,Other religion,Other religion: Mysticism,0
+2011,East,E12000006,Total,5846965,13,Other religion,Other religion: Mysticism,0
+2011,London,E12000007,Total,8173941,53,Other religion,Other religion: Mysticism,0
+2011,South East,E12000008,Total,8634750,38,Other religion,Other religion: Mysticism,0
+2011,South West,E12000009,Total,5288935,26,Other religion,Other religion: Mysticism,0
+2011,North East,E12000001,Total,2596886,6,Other religion,Other religion: Native American Church,0
+2011,North West,E12000002,Total,7052177,10,Other religion,Other religion: Native American Church,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,9,Other religion,Other religion: Native American Church,0
+2011,East Midlands,E12000004,Total,4533222,11,Other religion,Other religion: Native American Church,0
+2011,West Midlands,E12000005,Total,5601847,8,Other religion,Other religion: Native American Church,0
+2011,East,E12000006,Total,5846965,13,Other religion,Other religion: Native American Church,0
+2011,London,E12000007,Total,8173941,8,Other religion,Other religion: Native American Church,0
+2011,South East,E12000008,Total,8634750,34,Other religion,Other religion: Native American Church,0
+2011,South West,E12000009,Total,5288935,20,Other religion,Other religion: Native American Church,0
+2011,North East,E12000001,Total,2596886,20,Other religion,Other religion: New Age,0
+2011,North West,E12000002,Total,7052177,66,Other religion,Other religion: New Age,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,61,Other religion,Other religion: New Age,0
+2011,East Midlands,E12000004,Total,4533222,51,Other religion,Other religion: New Age,0
+2011,West Midlands,E12000005,Total,5601847,56,Other religion,Other religion: New Age,0
+2011,East,E12000006,Total,5846965,67,Other religion,Other religion: New Age,0
+2011,London,E12000007,Total,8173941,126,Other religion,Other religion: New Age,0
+2011,South East,E12000008,Total,8634750,106,Other religion,Other religion: New Age,0
+2011,South West,E12000009,Total,5288935,112,Other religion,Other religion: New Age,0
+2011,North East,E12000001,Total,2596886,15,Other religion,Other religion: Occult,0
+2011,North West,E12000002,Total,7052177,50,Other religion,Other religion: Occult,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,48,Other religion,Other religion: Occult,0
+2011,East Midlands,E12000004,Total,4533222,27,Other religion,Other religion: Occult,0
+2011,West Midlands,E12000005,Total,5601847,36,Other religion,Other religion: Occult,0
+2011,East,E12000006,Total,5846965,55,Other religion,Other religion: Occult,0
+2011,London,E12000007,Total,8173941,77,Other religion,Other religion: Occult,0
+2011,South East,E12000008,Total,8634750,99,Other religion,Other religion: Occult,0
+2011,South West,E12000009,Total,5288935,67,Other religion,Other religion: Occult,0
+2011,North East,E12000001,Total,2596886,330,Other religion,Other religion: Other religions,0
+2011,North West,E12000002,Total,7052177,1173,Other religion,Other religion: Other religions,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,986,Other religion,Other religion: Other religions,0
+2011,East Midlands,E12000004,Total,4533222,848,Other religion,Other religion: Other religions,0
+2011,West Midlands,E12000005,Total,5601847,1171,Other religion,Other religion: Other religions,0
+2011,East,E12000006,Total,5846965,1430,Other religion,Other religion: Other religions,0
+2011,London,E12000007,Total,8173941,3426,Other religion,Other religion: Other religions,0
+2011,South East,E12000008,Total,8634750,2038,Other religion,Other religion: Other religions,0
+2011,South West,E12000009,Total,5288935,1428,Other religion,Other religion: Other religions,0
+2011,North East,E12000001,Total,2596886,63,Other religion,Other religion: Own Belief System,0
+2011,North West,E12000002,Total,7052177,162,Other religion,Other religion: Own Belief System,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,141,Other religion,Other religion: Own Belief System,0
+2011,East Midlands,E12000004,Total,4533222,134,Other religion,Other religion: Own Belief System,0
+2011,West Midlands,E12000005,Total,5601847,134,Other religion,Other religion: Own Belief System,0
+2011,East,E12000006,Total,5846965,226,Other religion,Other religion: Own Belief System,0
+2011,London,E12000007,Total,8173941,331,Other religion,Other religion: Own Belief System,0
+2011,South East,E12000008,Total,8634750,359,Other religion,Other religion: Own Belief System,0
+2011,South West,E12000009,Total,5288935,292,Other religion,Other religion: Own Belief System,0
+2011,North East,E12000001,Total,2596886,1802,Other religion,Other religion: Pagan,0.1
+2011,North West,E12000002,Total,7052177,5350,Other religion,Other religion: Pagan,0.1
+2011,Yorkshire and The Humber,E12000003,Total,5283733,4919,Other religion,Other religion: Pagan,0.1
+2011,East Midlands,E12000004,Total,4533222,5437,Other religion,Other religion: Pagan,0.1
+2011,West Midlands,E12000005,Total,5601847,5147,Other religion,Other religion: Pagan,0.1
+2011,East,E12000006,Total,5846965,6284,Other religion,Other religion: Pagan,0.1
+2011,London,E12000007,Total,8173941,4943,Other religion,Other religion: Pagan,0.1
+2011,South East,E12000008,Total,8634750,10337,Other religion,Other religion: Pagan,0.1
+2011,South West,E12000009,Total,5288935,8953,Other religion,Other religion: Pagan,0.2
+2011,North East,E12000001,Total,2596886,66,Other religion,Other religion: Pantheism,0
+2011,North West,E12000002,Total,7052177,215,Other religion,Other religion: Pantheism,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,200,Other religion,Other religion: Pantheism,0
+2011,East Midlands,E12000004,Total,4533222,147,Other religion,Other religion: Pantheism,0
+2011,West Midlands,E12000005,Total,5601847,144,Other religion,Other religion: Pantheism,0
+2011,East,E12000006,Total,5846965,223,Other religion,Other religion: Pantheism,0
+2011,London,E12000007,Total,8173941,348,Other religion,Other religion: Pantheism,0
+2011,South East,E12000008,Total,8634750,403,Other religion,Other religion: Pantheism,0
+2011,South West,E12000009,Total,5288935,359,Other religion,Other religion: Pantheism,0
+2011,North East,E12000001,Total,2596886,149,Other religion,Other religion: Rastafarian,0
+2011,North West,E12000002,Total,7052177,590,Other religion,Other religion: Rastafarian,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,562,Other religion,Other religion: Rastafarian,0
+2011,East Midlands,E12000004,Total,4533222,500,Other religion,Other religion: Rastafarian,0
+2011,West Midlands,E12000005,Total,5601847,1005,Other religion,Other religion: Rastafarian,0
+2011,East,E12000006,Total,5846965,572,Other religion,Other religion: Rastafarian,0
+2011,London,E12000007,Total,8173941,2629,Other religion,Other religion: Rastafarian,0
+2011,South East,E12000008,Total,8634750,853,Other religion,Other religion: Rastafarian,0
+2011,South West,E12000009,Total,5288935,797,Other religion,Other religion: Rastafarian,0
+2011,North East,E12000001,Total,2596886,5,Other religion,Other religion: Ravidassia,0
+2011,North West,E12000002,Total,7052177,33,Other religion,Other religion: Ravidassia,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,303,Other religion,Other religion: Ravidassia,0
+2011,East Midlands,E12000004,Total,4533222,469,Other religion,Other religion: Ravidassia,0
+2011,West Midlands,E12000005,Total,5601847,6690,Other religion,Other religion: Ravidassia,0.1
+2011,East,E12000006,Total,5846965,1161,Other religion,Other religion: Ravidassia,0
+2011,London,E12000007,Total,8173941,1575,Other religion,Other religion: Ravidassia,0
+2011,South East,E12000008,Total,8634750,755,Other religion,Other religion: Ravidassia,0
+2011,South West,E12000009,Total,5288935,54,Other religion,Other religion: Ravidassia,0
+2011,North East,E12000001,Total,2596886,5,Other religion,Other religion: Reconstructionist,0
+2011,North West,E12000002,Total,7052177,14,Other religion,Other religion: Reconstructionist,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,21,Other religion,Other religion: Reconstructionist,0
+2011,East Midlands,E12000004,Total,4533222,17,Other religion,Other religion: Reconstructionist,0
+2011,West Midlands,E12000005,Total,5601847,13,Other religion,Other religion: Reconstructionist,0
+2011,East,E12000006,Total,5846965,27,Other religion,Other religion: Reconstructionist,0
+2011,London,E12000007,Total,8173941,54,Other religion,Other religion: Reconstructionist,0
+2011,South East,E12000008,Total,8634750,51,Other religion,Other religion: Reconstructionist,0
+2011,South West,E12000009,Total,5288935,21,Other religion,Other religion: Reconstructionist,0
+2011,North East,E12000001,Total,2596886,100,Other religion,Other religion: Satanism,0
+2011,North West,E12000002,Total,7052177,215,Other religion,Other religion: Satanism,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,186,Other religion,Other religion: Satanism,0
+2011,East Midlands,E12000004,Total,4533222,171,Other religion,Other religion: Satanism,0
+2011,West Midlands,E12000005,Total,5601847,178,Other religion,Other religion: Satanism,0
+2011,East,E12000006,Total,5846965,180,Other religion,Other religion: Satanism,0
+2011,London,E12000007,Total,8173941,232,Other religion,Other religion: Satanism,0
+2011,South East,E12000008,Total,8634750,300,Other religion,Other religion: Satanism,0
+2011,South West,E12000009,Total,5288935,238,Other religion,Other religion: Satanism,0
+2011,North East,E12000001,Total,2596886,62,Other religion,Other religion: Scientology,0
+2011,North West,E12000002,Total,7052177,233,Other religion,Other religion: Scientology,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,112,Other religion,Other religion: Scientology,0
+2011,East Midlands,E12000004,Total,4533222,101,Other religion,Other religion: Scientology,0
+2011,West Midlands,E12000005,Total,5601847,156,Other religion,Other religion: Scientology,0
+2011,East,E12000006,Total,5846965,122,Other religion,Other religion: Scientology,0
+2011,London,E12000007,Total,8173941,321,Other religion,Other religion: Scientology,0
+2011,South East,E12000008,Total,8634750,1066,Other religion,Other religion: Scientology,0
+2011,South West,E12000009,Total,5288935,188,Other religion,Other religion: Scientology,0
+2011,North East,E12000001,Total,2596886,18,Other religion,Other religion: Shamanism,0
+2011,North West,E12000002,Total,7052177,60,Other religion,Other religion: Shamanism,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,69,Other religion,Other religion: Shamanism,0
+2011,East Midlands,E12000004,Total,4533222,61,Other religion,Other religion: Shamanism,0
+2011,West Midlands,E12000005,Total,5601847,43,Other religion,Other religion: Shamanism,0
+2011,East,E12000006,Total,5846965,57,Other religion,Other religion: Shamanism,0
+2011,London,E12000007,Total,8173941,88,Other religion,Other religion: Shamanism,0
+2011,South East,E12000008,Total,8634750,105,Other religion,Other religion: Shamanism,0
+2011,South West,E12000009,Total,5288935,111,Other religion,Other religion: Shamanism,0
+2011,North East,E12000001,Total,2596886,23,Other religion,Other religion: Shintoism,0
+2011,North West,E12000002,Total,7052177,55,Other religion,Other religion: Shintoism,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,62,Other religion,Other religion: Shintoism,0
+2011,East Midlands,E12000004,Total,4533222,39,Other religion,Other religion: Shintoism,0
+2011,West Midlands,E12000005,Total,5601847,64,Other religion,Other religion: Shintoism,0
+2011,East,E12000006,Total,5846965,95,Other religion,Other religion: Shintoism,0
+2011,London,E12000007,Total,8173941,408,Other religion,Other religion: Shintoism,0
+2011,South East,E12000008,Total,8634750,204,Other religion,Other religion: Shintoism,0
+2011,South West,E12000009,Total,5288935,91,Other religion,Other religion: Shintoism,0
+2011,North East,E12000001,Total,2596886,317,Other religion,Other religion: Spiritual,0
+2011,North West,E12000002,Total,7052177,1081,Other religion,Other religion: Spiritual,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,802,Other religion,Other religion: Spiritual,0
+2011,East Midlands,E12000004,Total,4533222,883,Other religion,Other religion: Spiritual,0
+2011,West Midlands,E12000005,Total,5601847,908,Other religion,Other religion: Spiritual,0
+2011,East,E12000006,Total,5846965,1412,Other religion,Other religion: Spiritual,0
+2011,London,E12000007,Total,8173941,2813,Other religion,Other religion: Spiritual,0
+2011,South East,E12000008,Total,8634750,2715,Other religion,Other religion: Spiritual,0
+2011,South West,E12000009,Total,5288935,2060,Other religion,Other religion: Spiritual,0
+2011,North East,E12000001,Total,2596886,1919,Other religion,Other religion: Spiritualist,0.1
+2011,North West,E12000002,Total,7052177,3742,Other religion,Other religion: Spiritualist,0.1
+2011,Yorkshire and The Humber,E12000003,Total,5283733,3326,Other religion,Other religion: Spiritualist,0.1
+2011,East Midlands,E12000004,Total,4533222,3313,Other religion,Other religion: Spiritualist,0.1
+2011,West Midlands,E12000005,Total,5601847,3798,Other religion,Other religion: Spiritualist,0.1
+2011,East,E12000006,Total,5846965,4987,Other religion,Other religion: Spiritualist,0.1
+2011,London,E12000007,Total,8173941,3242,Other religion,Other religion: Spiritualist,0
+2011,South East,E12000008,Total,8634750,7006,Other religion,Other religion: Spiritualist,0.1
+2011,South West,E12000009,Total,5288935,5037,Other religion,Other religion: Spiritualist,0.1
+2011,North East,E12000001,Total,2596886,135,Other religion,Other religion: Taoist,0
+2011,North West,E12000002,Total,7052177,380,Other religion,Other religion: Taoist,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,295,Other religion,Other religion: Taoist,0
+2011,East Midlands,E12000004,Total,4533222,294,Other religion,Other religion: Taoist,0
+2011,West Midlands,E12000005,Total,5601847,321,Other religion,Other religion: Taoist,0
+2011,East,E12000006,Total,5846965,420,Other religion,Other religion: Taoist,0
+2011,London,E12000007,Total,8173941,783,Other religion,Other religion: Taoist,0
+2011,South East,E12000008,Total,8634750,727,Other religion,Other religion: Taoist,0
+2011,South West,E12000009,Total,5288935,561,Other religion,Other religion: Taoist,0
+2011,North East,E12000001,Total,2596886,27,Other religion,Other religion: Theism,0
+2011,North West,E12000002,Total,7052177,83,Other religion,Other religion: Theism,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,54,Other religion,Other religion: Theism,0
+2011,East Midlands,E12000004,Total,4533222,45,Other religion,Other religion: Theism,0
+2011,West Midlands,E12000005,Total,5601847,71,Other religion,Other religion: Theism,0
+2011,East,E12000006,Total,5846965,81,Other religion,Other religion: Theism,0
+2011,London,E12000007,Total,8173941,187,Other religion,Other religion: Theism,0
+2011,South East,E12000008,Total,8634750,153,Other religion,Other religion: Theism,0
+2011,South West,E12000009,Total,5288935,90,Other religion,Other religion: Theism,0
+2011,North East,E12000001,Total,2596886,4,Other religion,Other religion: Thelemite,0
+2011,North West,E12000002,Total,7052177,26,Other religion,Other religion: Thelemite,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,14,Other religion,Other religion: Thelemite,0
+2011,East Midlands,E12000004,Total,4533222,13,Other religion,Other religion: Thelemite,0
+2011,West Midlands,E12000005,Total,5601847,11,Other religion,Other religion: Thelemite,0
+2011,East,E12000006,Total,5846965,14,Other religion,Other religion: Thelemite,0
+2011,London,E12000007,Total,8173941,36,Other religion,Other religion: Thelemite,0
+2011,South East,E12000008,Total,8634750,36,Other religion,Other religion: Thelemite,0
+2011,South West,E12000009,Total,5288935,22,Other religion,Other religion: Thelemite,0
+2011,North East,E12000001,Total,2596886,8,Other religion,Other religion: Traditional African Religion,0
+2011,North West,E12000002,Total,7052177,39,Other religion,Other religion: Traditional African Religion,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,54,Other religion,Other religion: Traditional African Religion,0
+2011,East Midlands,E12000004,Total,4533222,22,Other religion,Other religion: Traditional African Religion,0
+2011,West Midlands,E12000005,Total,5601847,56,Other religion,Other religion: Traditional African Religion,0
+2011,East,E12000006,Total,5846965,38,Other religion,Other religion: Traditional African Religion,0
+2011,London,E12000007,Total,8173941,252,Other religion,Other religion: Traditional African Religion,0
+2011,South East,E12000008,Total,8634750,77,Other religion,Other religion: Traditional African Religion,0
+2011,South West,E12000009,Total,5288935,38,Other religion,Other religion: Traditional African Religion,0
+2011,North East,E12000001,Total,2596886,7,Other religion,Other religion: Unification Church,0
+2011,North West,E12000002,Total,7052177,19,Other religion,Other religion: Unification Church,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,13,Other religion,Other religion: Unification Church,0
+2011,East Midlands,E12000004,Total,4533222,5,Other religion,Other religion: Unification Church,0
+2011,West Midlands,E12000005,Total,5601847,33,Other religion,Other religion: Unification Church,0
+2011,East,E12000006,Total,5846965,24,Other religion,Other religion: Unification Church,0
+2011,London,E12000007,Total,8173941,243,Other religion,Other religion: Unification Church,0
+2011,South East,E12000008,Total,8634750,55,Other religion,Other religion: Unification Church,0
+2011,South West,E12000009,Total,5288935,36,Other religion,Other religion: Unification Church,0
+2011,North East,E12000001,Total,2596886,19,Other religion,Other religion: Universalist,0
+2011,North West,E12000002,Total,7052177,93,Other religion,Other religion: Universalist,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,57,Other religion,Other religion: Universalist,0
+2011,East Midlands,E12000004,Total,4533222,50,Other religion,Other religion: Universalist,0
+2011,West Midlands,E12000005,Total,5601847,70,Other religion,Other religion: Universalist,0
+2011,East,E12000006,Total,5846965,77,Other religion,Other religion: Universalist,0
+2011,London,E12000007,Total,8173941,161,Other religion,Other religion: Universalist,0
+2011,South East,E12000008,Total,8634750,188,Other religion,Other religion: Universalist,0
+2011,South West,E12000009,Total,5288935,147,Other religion,Other religion: Universalist,0
+2011,North East,E12000001,Total,2596886,9,Other religion,Other religion: Vodun,0
+2011,North West,E12000002,Total,7052177,28,Other religion,Other religion: Vodun,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,16,Other religion,Other religion: Vodun,0
+2011,East Midlands,E12000004,Total,4533222,6,Other religion,Other religion: Vodun,0
+2011,West Midlands,E12000005,Total,5601847,13,Other religion,Other religion: Vodun,0
+2011,East,E12000006,Total,5846965,12,Other religion,Other religion: Vodun,0
+2011,London,E12000007,Total,8173941,52,Other religion,Other religion: Vodun,0
+2011,South East,E12000008,Total,8634750,43,Other religion,Other religion: Vodun,0
+2011,South West,E12000009,Total,5288935,19,Other religion,Other religion: Vodun,0
+2011,North East,E12000001,Total,2596886,456,Other religion,Other religion: Wicca,0
+2011,North West,E12000002,Total,7052177,1291,Other religion,Other religion: Wicca,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,1116,Other religion,Other religion: Wicca,0
+2011,East Midlands,E12000004,Total,4533222,1087,Other religion,Other religion: Wicca,0
+2011,West Midlands,E12000005,Total,5601847,1144,Other religion,Other religion: Wicca,0
+2011,East,E12000006,Total,5846965,1322,Other religion,Other religion: Wicca,0
+2011,London,E12000007,Total,8173941,1023,Other religion,Other religion: Wicca,0
+2011,South East,E12000008,Total,8634750,2155,Other religion,Other religion: Wicca,0
+2011,South West,E12000009,Total,5288935,1432,Other religion,Other religion: Wicca,0
+2011,North East,E12000001,Total,2596886,36,Other religion,Other religion: Witchcraft,0
+2011,North West,E12000002,Total,7052177,120,Other religion,Other religion: Witchcraft,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,138,Other religion,Other religion: Witchcraft,0
+2011,East Midlands,E12000004,Total,4533222,111,Other religion,Other religion: Witchcraft,0
+2011,West Midlands,E12000005,Total,5601847,95,Other religion,Other religion: Witchcraft,0
+2011,East,E12000006,Total,5846965,155,Other religion,Other religion: Witchcraft,0
+2011,London,E12000007,Total,8173941,120,Other religion,Other religion: Witchcraft,0
+2011,South East,E12000008,Total,8634750,244,Other religion,Other religion: Witchcraft,0
+2011,South West,E12000009,Total,5288935,174,Other religion,Other religion: Witchcraft,0
+2011,North East,E12000001,Total,2596886,83,Other religion,Other religion: Zoroastrian,0
+2011,North West,E12000002,Total,7052177,210,Other religion,Other religion: Zoroastrian,0
+2011,Yorkshire and The Humber,E12000003,Total,5283733,139,Other religion,Other religion: Zoroastrian,0
+2011,East Midlands,E12000004,Total,4533222,96,Other religion,Other religion: Zoroastrian,0
+2011,West Midlands,E12000005,Total,5601847,189,Other religion,Other religion: Zoroastrian,0
+2011,East,E12000006,Total,5846965,362,Other religion,Other religion: Zoroastrian,0
+2011,London,E12000007,Total,8173941,2235,Other religion,Other religion: Zoroastrian,0
+2011,South East,E12000008,Total,8634750,602,Other religion,Other religion: Zoroastrian,0
+2011,South West,E12000009,Total,5288935,139,Other religion,Other religion: Zoroastrian,0
+2011,North East,E12000001,Total,2596886,157865,Religion not stated,Religion not stated,6.1
+2011,North West,E12000002,Total,7052177,437549,Religion not stated,Religion not stated,6.2
+2011,Yorkshire and The Humber,E12000003,Total,5283733,360627,Religion not stated,Religion not stated,6.8
+2011,East Midlands,E12000004,Total,4533222,309443,Religion not stated,Religion not stated,6.8
+2011,West Midlands,E12000005,Total,5601847,368483,Religion not stated,Religion not stated,6.6
+2011,East,E12000006,Total,5846965,424682,Religion not stated,Religion not stated,7.3
+2011,London,E12000007,Total,8173941,692739,Religion not stated,Religion not stated,8.5
+2011,South East,E12000008,Total,8634750,635866,Religion not stated,Religion not stated,7.4
+2011,South West,E12000009,Total,5288935,416850,Religion not stated,Religion not stated,7.9
+2011,North East,E12000001,Total,2596886,5964,Sikh,Sikh,0.2
+2011,North West,E12000002,Total,7052177,8857,Sikh,Sikh,0.1
+2011,Yorkshire and The Humber,E12000003,Total,5283733,22179,Sikh,Sikh,0.4
+2011,East Midlands,E12000004,Total,4533222,44335,Sikh,Sikh,1
+2011,West Midlands,E12000005,Total,5601847,133681,Sikh,Sikh,2.4
+2011,East,E12000006,Total,5846965,18213,Sikh,Sikh,0.3
+2011,London,E12000007,Total,8173941,126134,Sikh,Sikh,1.5
+2011,South East,E12000008,Total,8634750,54941,Sikh,Sikh,0.6
+2011,South West,E12000009,Total,5288935,5892,Sikh,Sikh,0.1

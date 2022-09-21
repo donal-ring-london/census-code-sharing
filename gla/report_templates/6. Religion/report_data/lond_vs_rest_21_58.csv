@@ -1,0 +1,109 @@
+date,geography,geography_code,Rural_Urban,total_pop,value,religion,religion_det,percs
+2011,London,E12000007,Total,9134305,78150,Buddhist,Buddhist,0.9
+2011,London,E12000007,Total,9134305,4250968,Christian,Christian,46.5
+2011,London,E12000007,Total,9134305,503810,Hindu,Hindu,5.5
+2011,London,E12000007,Total,9134305,142415,Jewish,Jewish,1.6
+2011,London,E12000007,Total,9134305,1132124,Muslim,Muslim,12.4
+2011,London,E12000007,Total,9134305,5648,No religion,No religion: Agnostic,0.1
+2011,London,E12000007,Total,9134305,5220,No religion,No religion: Atheist,0.1
+2011,London,E12000007,Total,9134305,83,No religion,No religion: Free Thinker,0
+2011,London,E12000007,Total,9134305,2102641,No religion,No religion: No religion,23
+2011,London,E12000007,Total,9134305,2337,No religion,No religion: Humanist,0
+2011,London,E12000007,Total,9134305,31,No religion,No religion: Realist,0
+2011,London,E12000007,Total,9134305,90,Other religion,Other religion: Animism,0
+2011,London,E12000007,Total,9134305,1222,Other religion,Other religion: Baha'i,0
+2011,London,E12000007,Total,9134305,996,Other religion,Other religion: Believe in God,0
+2011,London,E12000007,Total,9134305,197,Other religion,Other religion: Brahma Kumari,0
+2011,London,E12000007,Total,9134305,70,Other religion,Other religion: Chinese Religion,0
+2011,London,E12000007,Total,9134305,122,Other religion,Other religion: Church of All Religion,0
+2011,London,E12000007,Total,9134305,39,Other religion,Other religion: Confucianist,0
+2011,London,E12000007,Total,9134305,247,Other religion,Other religion: Deist,0
+2011,London,E12000007,Total,9134305,397,Other religion,Other religion: Druid,0
+2011,London,E12000007,Total,9134305,472,Other religion,Other religion: Druze,0
+2011,London,E12000007,Total,9134305,172,Other religion,Other religion: Eckankar,0
+2011,London,E12000007,Total,9134305,217,Other religion,Other religion: Heathen,0
+2011,London,E12000007,Total,9134305,18026,Other religion,Other religion: Jain,0.2
+2011,London,E12000007,Total,9134305,3202,Other religion,Other religion: Mixed Religion,0
+2011,London,E12000007,Total,9134305,54,Other religion,Other religion: Mysticism,0
+2011,London,E12000007,Total,9134305,9,Other religion,Other religion: Native American Church,0
+2011,London,E12000007,Total,9134305,122,Other religion,Other religion: New Age,0
+2011,London,E12000007,Total,9134305,81,Other religion,Other religion: Occult,0
+2011,London,E12000007,Total,9134305,4183,Other religion,Other religion: Other religions,0
+2011,London,E12000007,Total,9134305,431,Other religion,Other religion: Own Belief System,0
+2011,London,E12000007,Total,9134305,5350,Other religion,Other religion: Pagan,0.1
+2011,London,E12000007,Total,9134305,377,Other religion,Other religion: Pantheism,0
+2011,London,E12000007,Total,9134305,2307,Other religion,Other religion: Rastafarian,0
+2011,London,E12000007,Total,9134305,1793,Other religion,Other religion: Ravidassia,0
+2011,London,E12000007,Total,9134305,52,Other religion,Other religion: Reconstructionist,0
+2011,London,E12000007,Total,9134305,246,Other religion,Other religion: Satanism,0
+2011,London,E12000007,Total,9134305,357,Other religion,Other religion: Scientology,0
+2011,London,E12000007,Total,9134305,83,Other religion,Other religion: Shamanism,0
+2011,London,E12000007,Total,9134305,509,Other religion,Other religion: Shintoism,0
+2011,London,E12000007,Total,9134305,3127,Other religion,Other religion: Spiritual,0
+2011,London,E12000007,Total,9134305,3931,Other religion,Other religion: Spiritualist,0
+2011,London,E12000007,Total,9134305,790,Other religion,Other religion: Taoist,0
+2011,London,E12000007,Total,9134305,186,Other religion,Other religion: Theism,0
+2011,London,E12000007,Total,9134305,46,Other religion,Other religion: Thelemite,0
+2011,London,E12000007,Total,9134305,273,Other religion,Other religion: Traditional African Religion,0
+2011,London,E12000007,Total,9134305,270,Other religion,Other religion: Unification Church,0
+2011,London,E12000007,Total,9134305,199,Other religion,Other religion: Universalist,0
+2011,London,E12000007,Total,9134305,56,Other religion,Other religion: Vodun,0
+2011,London,E12000007,Total,9134305,1132,Other religion,Other religion: Wicca,0
+2011,London,E12000007,Total,9134305,136,Other religion,Other religion: Witchcraft,0
+2011,London,E12000007,Total,9134305,2113,Other religion,Other religion: Zoroastrian,0
+2011,London,E12000007,Total,9134305,731639,Religion not stated,Religion not stated,8
+2011,London,E12000007,Total,9134305,125557,Sikh,Sikh,1.4
+2011,England,"",Total,46276896,194583,Buddhist,Buddhist,0.4
+2011,England,"",Total,46276896,28504942,Christian,Christian,61.6
+2011,England,"",Total,46276896,446068,Hindu,Hindu,1
+2011,England,"",Total,46276896,120096,Jewish,Jewish,0.3
+2011,England,"",Total,46276896,1845753,Muslim,Muslim,4
+2011,England,"",Total,46276896,27328,No religion,No religion: Agnostic,0.1
+2011,England,"",Total,46276896,25043,No religion,No religion: Atheist,0.1
+2011,England,"",Total,46276896,423,No religion,No religion: Free Thinker,0
+2011,England,"",Total,46276896,12891,No religion,No religion: Humanist,0
+2011,England,"",Total,46276896,11142879,No religion,No religion: No religion,24.1
+2011,England,"",Total,46276896,291,No religion,No religion: Realist,0
+2011,England,"",Total,46276896,458,Other religion,Other religion: Animism,0
+2011,England,"",Total,46276896,3875,Other religion,Other religion: Baha'i,0
+2011,England,"",Total,46276896,1987,Other religion,Other religion: Believe in God,0
+2011,England,"",Total,46276896,248,Other religion,Other religion: Brahma Kumari,0
+2011,England,"",Total,46276896,102,Other religion,Other religion: Chinese Religion,0
+2011,England,"",Total,46276896,328,Other religion,Other religion: Church of All Religion,0
+2011,England,"",Total,46276896,88,Other religion,Other religion: Confucianist,0
+2011,England,"",Total,46276896,974,Other religion,Other religion: Deist,0
+2011,England,"",Total,46276896,4405,Other religion,Other religion: Druid,0
+2011,England,"",Total,46276896,113,Other religion,Other religion: Druze,0
+2011,England,"",Total,46276896,246,Other religion,Other religion: Eckankar,0
+2011,England,"",Total,46276896,1474,Other religion,Other religion: Heathen,0
+2011,England,"",Total,46276896,5921,Other religion,Other religion: Jain,0
+2011,England,"",Total,46276896,22613,Other religion,Other religion: Mixed Religion,0
+2011,England,"",Total,46276896,144,Other religion,Other religion: Mysticism,0
+2011,England,"",Total,46276896,126,Other religion,Other religion: Native American Church,0
+2011,England,"",Total,46276896,581,Other religion,Other religion: New Age,0
+2011,England,"",Total,46276896,420,Other religion,Other religion: Occult,0
+2011,England,"",Total,46276896,10414,Other religion,Other religion: Other religions,0
+2011,England,"",Total,46276896,1763,Other religion,Other religion: Own Belief System,0
+2011,England,"",Total,46276896,55197,Other religion,Other religion: Pagan,0.1
+2011,England,"",Total,46276896,1806,Other religion,Other religion: Pantheism,0
+2011,England,"",Total,46276896,5311,Other religion,Other religion: Rastafarian,0
+2011,England,"",Total,46276896,8474,Other religion,Other religion: Ravidassia,0
+2011,England,"",Total,46276896,188,Other religion,Other religion: Reconstructionist,0
+2011,England,"",Total,46276896,1785,Other religion,Other religion: Satanism,0
+2011,England,"",Total,46276896,2107,Other religion,Other religion: Scientology,0
+2011,England,"",Total,46276896,552,Other religion,Other religion: Shamanism,0
+2011,England,"",Total,46276896,667,Other religion,Other religion: Shintoism,0
+2011,England,"",Total,46276896,10933,Other religion,Other religion: Spiritual,0
+2011,England,"",Total,46276896,35910,Other religion,Other religion: Spiritualist,0.1
+2011,England,"",Total,46276896,3907,Other religion,Other religion: Taoist,0
+2011,England,"",Total,46276896,782,Other religion,Other religion: Theism,0
+2011,England,"",Total,46276896,141,Other religion,Other religion: Thelemite,0
+2011,England,"",Total,46276896,384,Other religion,Other religion: Traditional African Religion,0
+2011,England,"",Total,46276896,232,Other religion,Other religion: Unification Church,0
+2011,England,"",Total,46276896,727,Other religion,Other religion: Universalist,0
+2011,England,"",Total,46276896,175,Other religion,Other religion: Vodun,0
+2011,England,"",Total,46276896,11455,Other religion,Other religion: Wicca,0
+2011,England,"",Total,46276896,1268,Other religion,Other religion: Witchcraft,0
+2011,England,"",Total,46276896,2345,Other religion,Other religion: Zoroastrian,0
+2011,England,"",Total,46276896,3418499,Religion not stated,Religion not stated,7.4
+2011,England,"",Total,46276896,337474,Sikh,Sikh,0.7

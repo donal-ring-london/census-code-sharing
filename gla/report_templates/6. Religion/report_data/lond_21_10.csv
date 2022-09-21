@@ -1,0 +1,10 @@
+date,geography,geography_code,Rural_Urban,total_pop,value,religion,percs
+2011,London,E12000007,Total,8593638,3996379,Christian,46.5
+2011,London,E12000007,Total,8593638,79262,Buddhist,0.9
+2011,London,E12000007,Total,8593638,488752,Hindu,5.7
+2011,London,E12000007,Total,8593638,163727,Jewish,1.9
+2011,London,E12000007,Total,8593638,1133743,Muslim,13.2
+2011,London,E12000007,Total,8593638,138953,Sikh,1.6
+2011,London,E12000007,Total,8593638,47981,Other religion,0.6
+2011,London,E12000007,Total,8593638,1816031,No religion,21.1
+2011,London,E12000007,Total,8593638,728810,Religion not stated,8.5
